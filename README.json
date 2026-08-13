@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:47:24Z",
+            "last_commit": "2026-08-13T08:34:14Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
             "stars": 66968
@@ -311,7 +311,7 @@
             "last_commit": "2026-07-15T16:21:45Z",
             "owner": "VowpalWabbit",
             "repo": "vowpal_wabbit",
-            "stars": 8701
+            "stars": 8700
           }
         },
         {
@@ -2092,7 +2092,7 @@
             "last_commit": "2026-08-02T07:34:26Z",
             "owner": "MaartenGr",
             "repo": "BERTopic",
-            "stars": 7782
+            "stars": 7784
           }
         },
         {
@@ -2106,7 +2106,7 @@
             "last_commit": "2024-11-14T23:47:51Z",
             "owner": "ddangelov",
             "repo": "Top2Vec",
-            "stars": 3102
+            "stars": 3103
           }
         },
         {
@@ -2317,7 +2317,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T08:22:42Z",
+            "last_commit": "2026-08-13T09:01:11Z",
             "owner": "pymc-devs",
             "repo": "pymc",
             "stars": 9705
@@ -2404,7 +2404,7 @@
             "last_commit": "2022-12-17T20:33:19Z",
             "owner": "thu-ml",
             "repo": "zhusuan",
-            "stars": 2218
+            "stars": 2219
           }
         },
         {
@@ -2924,7 +2924,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74011
+            "stars": 74015
           }
         },
         {
@@ -2938,7 +2938,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29806
+            "stars": 29808
           }
         },
         {
@@ -2970,7 +2970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:36:24.143Z",
+    "last_updated": "2026-08-13T10:38:44.129Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
