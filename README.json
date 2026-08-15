@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T22:04:45Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66978
+            "stars": 66954
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16480
+            "stars": 16479
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-01-14T15:52:16Z",
             "owner": "bstewart",
             "repo": "stm",
-            "stars": 421
+            "stars": 420
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2024-07-29T19:05:40Z",
             "owner": "lda-project",
             "repo": "lda",
-            "stars": 1315
+            "stars": 1314
           }
         },
         {
@@ -1265,7 +1265,7 @@
             "last_commit": "2019-11-30T16:54:56Z",
             "owner": "yao8839836",
             "repo": "PTM",
-            "stars": 95
+            "stars": 94
           }
         },
         {
@@ -1313,7 +1313,7 @@
             "last_commit": "2026-01-14T15:52:16Z",
             "owner": "bstewart",
             "repo": "stm",
-            "stars": 421
+            "stars": 420
           }
         },
         {
@@ -1665,7 +1665,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T01:57:19Z",
+            "last_commit": "2026-08-14T19:53:41Z",
             "owner": "stephenhky",
             "repo": "PyShortTextCategorization",
             "stars": 472
@@ -2016,7 +2016,7 @@
             "last_commit": "2019-11-30T16:54:56Z",
             "owner": "yao8839836",
             "repo": "PTM",
-            "stars": 95
+            "stars": 94
           }
         },
         {
@@ -2120,7 +2120,7 @@
             "last_commit": "2025-07-24T02:03:31Z",
             "owner": "MilaNLProc",
             "repo": "contextualized-topic-models",
-            "stars": 1270
+            "stars": 1269
           }
         },
         {
@@ -2148,7 +2148,7 @@
             "last_commit": "2023-10-03T22:32:12Z",
             "owner": "adjidieng",
             "repo": "ETM",
-            "stars": 560
+            "stars": 559
           }
         },
         {
@@ -2320,7 +2320,7 @@
             "last_commit": "2026-08-13T09:01:11Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9709
+            "stars": 9710
           }
         },
         {
@@ -2373,10 +2373,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:18:50Z",
+            "last_commit": "2026-08-15T08:46:06Z",
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2760
+            "stars": 2761
           }
         },
         {
@@ -2499,20 +2499,6 @@
         },
         {
           "node_type": "item",
-          "title": "online-hdp",
-          "description": "Python implementation of online hierarchical Dirichlet processes by Chong Wang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-03-29T22:28:04Z",
-            "owner": "blei-lab",
-            "repo": "online-hdp",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ctr",
           "description": "C++ implementation of collaborative topic models by Chong Wang",
           "children": [],
@@ -2523,6 +2509,20 @@
             "owner": "blei-lab",
             "repo": "ctr",
             "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "online-hdp",
+          "description": "Python implementation of online hierarchical Dirichlet processes by Chong Wang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-03-29T22:28:04Z",
+            "owner": "blei-lab",
+            "repo": "online-hdp",
+            "stars": 145
           }
         },
         {
@@ -2924,7 +2924,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74029
+            "stars": 74035
           }
         },
         {
@@ -2938,7 +2938,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29816
+            "stars": 29821
           }
         },
         {
@@ -2952,7 +2952,7 @@
             "last_commit": "2026-04-13T07:15:05Z",
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3525
+            "stars": 3526
           }
         }
       ],
@@ -2970,7 +2970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:34:36.401Z",
+    "last_updated": "2026-08-15T09:51:32.003Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
