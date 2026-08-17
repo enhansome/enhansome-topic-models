@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:03:27Z",
+            "last_commit": "2026-08-17T09:49:18Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66960
+            "stars": 66959
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16480
+            "stars": 16479
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2023-11-01T06:14:06Z",
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11163
+            "stars": 11162
           }
         },
         {
@@ -2362,7 +2362,7 @@
             "last_commit": "2026-08-06T22:18:55Z",
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4426
+            "stars": 4427
           }
         },
         {
@@ -2373,7 +2373,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T17:29:20Z",
+            "last_commit": "2026-08-16T18:29:34Z",
             "owner": "stan-dev",
             "repo": "stan",
             "stars": 2760
@@ -2924,7 +2924,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74046
+            "stars": 74037
           }
         },
         {
@@ -2938,7 +2938,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29829
+            "stars": 29834
           }
         },
         {
@@ -2952,7 +2952,7 @@
             "last_commit": "2026-04-13T07:15:05Z",
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3536
+            "stars": 3548
           }
         }
       ],
@@ -2970,7 +2970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:53:02.688Z",
+    "last_updated": "2026-08-17T10:06:29.145Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
