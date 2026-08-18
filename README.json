@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:49:18Z",
+            "last_commit": "2026-08-18T09:37:25Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66959
+            "stars": 66965
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16479
+            "stars": 16478
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2023-11-01T06:14:06Z",
             "owner": "apple",
             "repo": "turicreate",
-            "stars": 11162
+            "stars": 11160
           }
         },
         {
@@ -308,10 +308,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-15T16:21:45Z",
+            "last_commit": "2026-08-18T04:09:37Z",
             "owner": "VowpalWabbit",
             "repo": "vowpal_wabbit",
-            "stars": 8702
+            "stars": 8705
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-07-26T06:10:31Z",
             "owner": "Angel-ML",
             "repo": "angel",
-            "stars": 6786
+            "stars": 6787
           }
         },
         {
@@ -2092,7 +2092,7 @@
             "last_commit": "2026-08-02T07:34:26Z",
             "owner": "MaartenGr",
             "repo": "BERTopic",
-            "stars": 7786
+            "stars": 7787
           }
         },
         {
@@ -2317,7 +2317,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:03:02Z",
+            "last_commit": "2026-08-17T23:18:21Z",
             "owner": "pymc-devs",
             "repo": "pymc",
             "stars": 9710
@@ -2362,7 +2362,7 @@
             "last_commit": "2026-08-06T22:18:55Z",
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4427
+            "stars": 4426
           }
         },
         {
@@ -2390,7 +2390,7 @@
             "last_commit": "2026-08-02T04:34:03Z",
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -2924,7 +2924,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74037
+            "stars": 74050
           }
         },
         {
@@ -2938,7 +2938,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29834
+            "stars": 29837
           }
         },
         {
@@ -2952,7 +2952,7 @@
             "last_commit": "2026-04-13T07:15:05Z",
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3548
+            "stars": 3553
           }
         }
       ],
@@ -2970,7 +2970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:06:29.145Z",
+    "last_updated": "2026-08-18T09:59:40.342Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
