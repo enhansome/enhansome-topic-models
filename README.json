@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-18T09:37:25Z",
+            "last_commit": "2026-08-19T08:23:43Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66965
+            "stars": 66973
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1349775,
             "language": "Python",
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18378040,
             "language": "Java",
             "last_commit": "2026-08-04T20:21:57Z",
             "owner": "mimno",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6328806,
             "language": "Scala",
             "last_commit": "2022-10-04T23:35:03Z",
             "owner": "BIDData",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247033379,
             "language": "Python",
             "last_commit": "2026-06-21T17:02:38Z",
             "owner": "MIND-Lab",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24072579,
             "language": "C++",
             "last_commit": "2026-02-05T15:52:09Z",
             "owner": "bigartm",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186155463,
             "language": "C++",
             "last_commit": "2026-02-21T05:18:23Z",
             "owner": "bab2min",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16525826,
             "language": "R",
             "last_commit": "2026-01-14T15:52:16Z",
             "owner": "bstewart",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109812180,
             "language": "Python",
             "last_commit": "2023-05-03T09:35:04Z",
             "owner": "WZBSocialScienceCenter",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206595209,
             "language": "Python",
             "last_commit": "2024-07-29T08:54:27Z",
             "owner": "machine-intelligence-laboratory",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302761833,
             "language": "C++",
             "last_commit": "2026-04-09T06:53:02Z",
             "owner": "ankane",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19386227,
             "language": "R",
             "last_commit": "2022-07-21T05:41:31Z",
             "owner": "mimno",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190860520,
             "language": "Java",
             "last_commit": "2023-02-04T08:50:25Z",
             "owner": "soberqian",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52209660,
             "language": "C++",
             "last_commit": "2019-03-15T16:03:29Z",
             "owner": "angeloskath",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6820066,
             "language": "C",
             "last_commit": "2018-07-26T04:45:27Z",
             "owner": "slycoder",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17700549,
             "language": "C",
             "last_commit": "2024-08-15T02:42:13Z",
             "owner": "cran",
@@ -232,2082 +248,2234 @@
     },
     {
       "description": "There are huge differences in performance and scalability as well as the support of advanced features as hyperparameter tuning or evaluation capabilities.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BIDMach",
+              "description": "Scala implementation of a scalable approximate SVD using subspace iteration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6328806,
+                "language": "Scala",
+                "last_commit": "2022-10-04T23:35:03Z",
+                "owner": "BIDData",
+                "repo": "BIDMach",
+                "stars": 920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sparsesvd",
+              "description": "Python wrapper for SVDlibc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2722743,
+                "language": "C",
+                "last_commit": "2013-08-16T13:33:53Z",
+                "owner": "piskvorky",
+                "repo": "sparsesvd",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SVDlibc",
+              "description": "C implementation of SVD by Doug Rohde",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3855141,
+                "language": "C",
+                "last_commit": "2015-09-01T13:47:20Z",
+                "owner": "lucasmaystre",
+                "repo": "svdlibc",
+                "stars": 53
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Truncated Singular Value Decomposition (SVD) / Latent Semantic Analysis (LSA) / Latent Semantic Indexing (LSI)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "turicreate",
+              "description": "C++ LDA and aliasLDA implementation with export to Apple's Core ML for use in iOS, macOS, watchOS, and tvOS apps",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112676803,
+                "language": "C++",
+                "last_commit": "2023-11-01T06:14:06Z",
+                "owner": "apple",
+                "repo": "turicreate",
+                "stars": 11160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vowpal Wabbit",
+              "description": "C++ implementaion using online variational Bayes inference :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265995,
+                "language": "C++",
+                "last_commit": "2026-08-18T14:36:07Z",
+                "owner": "VowpalWabbit",
+                "repo": "vowpal_wabbit",
+                "stars": 8705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lda",
+              "description": "Python implementation using collapsed Gibbs sampling which follows scikit-learn interface :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23808489,
+                "language": "Python",
+                "last_commit": "2024-07-29T19:05:40Z",
+                "owner": "lda-project",
+                "repo": "lda",
+                "stars": 1315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mallet",
+              "description": "Parallelized Java implementation using Gibbs sampling :page_facing_up::page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18378040,
+                "language": "Java",
+                "last_commit": "2026-08-04T20:21:57Z",
+                "owner": "mimno",
+                "repo": "Mallet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gensim-wrapper-Mallet",
+              "description": "Python wrapper for Mallet's implementation :page_facing_up::page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18378040,
+                "language": "Java",
+                "last_commit": "2026-08-04T20:21:57Z",
+                "owner": "mimno",
+                "repo": "Mallet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MeTA",
+              "description": "C++ implementation of (parallel) collapsed Gibbs sampling, CVB0 and SCVB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16466317,
+                "language": "C++",
+                "last_commit": "2023-04-17T08:37:52Z",
+                "owner": "meta-toolkit",
+                "repo": "meta",
+                "stars": 715
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python binding for C++ implementation using Gibbs sampling and different term-weighting options :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lda-nodejs",
+              "description": "Node.js implementation of LDA topic modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20229044,
+                "language": "JavaScript",
+                "last_commit": "2024-08-20T21:54:11Z",
+                "owner": "primaryobjects",
+                "repo": "lda",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jsLDA",
+              "description": "JavaScript implementation of LDA topic modeling in the browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9625263,
+                "language": "JavaScript",
+                "last_commit": "2022-08-01T21:36:08Z",
+                "owner": "mimno",
+                "repo": "jsLDA",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lda-purescript",
+              "description": "PureScript, browser-based implementation of LDA topic modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120061225,
+                "language": "PureScript",
+                "last_commit": "2018-03-02T04:20:10Z",
+                "owner": "lettier",
+                "repo": "lda-topic-modeling",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TopicModels.jl",
+              "description": "Julia implementation of LDA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8829383,
+                "language": "Julia",
+                "last_commit": "2020-05-31T01:53:24Z",
+                "owner": "slycoder",
+                "repo": "TopicModels.jl",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GibbsSamplingLDA-TopicModel4J",
+              "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVBLDA-TopicModel4J",
+              "description": "Java implementation using collapsed variational Bayesian (CVB) inference :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PartiallyCollapsedLDA",
+              "description": "Various fast parallelized samplers for LDA, including Partially Collapsed LDA, LightLDA, Partially Collapsed Light LDA and a very efficient Polya-Urn LDA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34328215,
+                "language": "Java",
+                "last_commit": "2026-06-30T05:20:33Z",
+                "owner": "lejon",
+                "repo": "PartiallyCollapsedLDA",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fugue",
+              "description": "Java implementation of collapsed Gibbs sampling with slice sampling for hyper-parameter optimization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52705186,
+                "language": "Java",
+                "last_commit": "2026-05-29T05:59:06Z",
+                "owner": "PuzaTech",
+                "repo": "Fugue",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "topicmodel-lib",
+              "description": "Cython library for online/streaming LDA (Online VB, Online CVB0, Online CGS, Online OPE, Online FW, Streaming VB, Streaming OPE, Streaming FW, ML-OPE, ML-CGS, ML-FW)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81194120,
+                "language": "Python",
+                "last_commit": "2020-06-24T12:05:36Z",
+                "owner": "hncuong",
+                "repo": "topicmodel-lib",
+                "stars": 4
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ldatuning",
+                  "description": "R package to find optimal number of topics for LDA :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41086459,
+                    "language": "R",
+                    "last_commit": "2024-05-31T13:30:44Z",
+                    "owner": "nikita-moor",
+                    "repo": "ldatuning",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LDADE",
+                  "description": "Python tuning tool using differential evolution :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 137369978,
+                    "language": "Python",
+                    "last_commit": "2021-04-22T18:06:50Z",
+                    "owner": "amritbhanu",
+                    "repo": "LDADE-package",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Search-Based-LDA",
+                  "description": "R scripts using Genetic Algorithms (GA) for hyper-paramenter optimization by Panichella :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 193860600,
+                    "language": "R",
+                    "last_commit": "2020-09-06T14:40:04Z",
+                    "owner": "apanichella",
+                    "repo": "Search-Based-LDA",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dodge",
+                  "description": "Python tuning tool that ignores redundant tunings :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 245725036,
+                    "language": "Scilab",
+                    "last_commit": "2020-12-24T20:24:11Z",
+                    "owner": "amritbhanu",
+                    "repo": "Dodge",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GA-LDA",
+                  "description": "R scripts using Genetic Algorithms (GA) for hyper-paramenter optimization, based on Panichella :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 247081313,
+                    "language": "R",
+                    "last_commit": "2020-03-13T13:57:16Z",
+                    "owner": "GESAD-MSR",
+                    "repo": "GA-LDA",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hyperparameter optimization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "topic_interpretability",
+                  "description": "Computation of the semantic interpretability of topics produced by topic models :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10329313,
+                    "language": "Roff",
+                    "last_commit": "2017-04-19T05:52:46Z",
+                    "owner": "jhlau",
+                    "repo": "topic_interpretability",
+                    "stars": 180
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "topic-model-diversity",
+                  "description": "A collection of topic diversity measures for topic modeling :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 293612442,
+                    "language": "Python",
+                    "last_commit": "2021-08-03T13:41:40Z",
+                    "owner": "silviatti",
+                    "repo": "topic-model-diversity",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "topic-coherence-sensitivity",
+                  "description": "Code to compute topic coherence for several topic cardinalities and aggregate scores across them :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54936633,
+                    "language": "Python",
+                    "last_commit": "2025-09-10T04:34:50Z",
+                    "owner": "jhlau",
+                    "repo": "topic-coherence-sensitivity",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Evaluation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LDA*",
+                  "description": "Tencent's hybrid sampler that uses different samplers for different types of documents in combination with an asymmetric parameter server :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89322848,
+                    "language": "Java",
+                    "last_commit": "2026-07-26T06:10:31Z",
+                    "owner": "Angel-ML",
+                    "repo": "angel",
+                    "stars": 6787
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Familia",
+                  "description": "A toolkit for industrial topic modeling (LDA, SentenceLDA and Topical Word Embedding) :warning: :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94299010,
+                    "language": "C++",
+                    "last_commit": "2021-07-01T08:28:33Z",
+                    "owner": "baidu",
+                    "repo": "Familia",
+                    "stars": 2645
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SparseLDA",
+                  "description": "Java algorithm and data structure for evaluating Gibbs sampling distributions used in Mallet :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18378040,
+                    "language": "Java",
+                    "last_commit": "2026-08-04T20:21:57Z",
+                    "owner": "mimno",
+                    "repo": "Mallet",
+                    "stars": 1029
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lightLDA",
+                  "description": "C++ implementation using O(1) Metropolis-Hastings sampling :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 42283396,
+                    "language": "C++",
+                    "last_commit": "2020-12-28T12:12:12Z",
+                    "owner": "microsoft",
+                    "repo": "LightLDA",
+                    "stars": 845
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Yahoo-LDA",
+                  "description": "Yahoo!'s topic modelling framework :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1798154,
+                    "language": "C++",
+                    "last_commit": "2011-09-21T06:33:05Z",
+                    "owner": "sudar",
+                    "repo": "Yahoo_LDA",
+                    "stars": 337
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "warpLDA",
+                  "description": "C++ cache efficient LDA implementation which samples each token in O(1) :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60055640,
+                    "language": "C++",
+                    "last_commit": "2019-01-04T06:53:47Z",
+                    "owner": "thu-ml",
+                    "repo": "warplda",
+                    "stars": 164
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dmlc",
+                  "description": "Single-and multi-threaded C++ implementations of lightLDA, F+LDA, AliasLDA, forestLDA and many more",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35777509,
+                    "language": "C++",
+                    "last_commit": "2016-06-23T02:02:42Z",
+                    "owner": "dmlc",
+                    "repo": "experimental-lda",
+                    "stars": 127
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PLDA+",
+                  "description": "Google's C++ implementation using data placement and pipeline processing :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50763945,
+                    "language": "C++",
+                    "last_commit": "2023-06-14T09:40:37Z",
+                    "owner": "openbigdatagroup",
+                    "repo": "plda",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FastLDA",
+                  "description": "C++ implementation of LDA :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121050851,
+                    "language": "C++",
+                    "last_commit": "2019-04-23T04:50:40Z",
+                    "owner": "Arnie0426",
+                    "repo": "FastLDA",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AliasLDA",
+                  "description": "C++ implemenation using Metropolis-Hastings and alias method:page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55411422,
+                    "language": "C++",
+                    "last_commit": "2016-04-20T10:21:43Z",
+                    "owner": "polymorpher",
+                    "repo": "aliaslda",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CPU-based high performance implementations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GS-LDA-BIDMach",
+                  "description": "CPU and GPU-accelerated Scala implementation using Gibbs sampling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6328806,
+                    "language": "Scala",
+                    "last_commit": "2022-10-04T23:35:03Z",
+                    "owner": "BIDData",
+                    "repo": "BIDMach",
+                    "stars": 920
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VB-LDA-BIDMach",
+                  "description": "CPU and GPU-accelerated Scala implementation using online variational Bayes inference",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6328806,
+                    "language": "Scala",
+                    "last_commit": "2022-10-04T23:35:03Z",
+                    "owner": "BIDData",
+                    "repo": "BIDMach",
+                    "stars": 920
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPU-based high performance implementations"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Latent Dirichlet Allocation (LDA) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mallet",
+              "description": "Java-based package for topic modeling using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18378040,
+                "language": "Java",
+                "last_commit": "2026-08-04T20:21:57Z",
+                "owner": "mimno",
+                "repo": "Mallet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hca",
+              "description": "C implementation using Gibbs sampling with/without burstiness modelling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19442637,
+                "language": "C",
+                "last_commit": "2016-08-16T00:10:26Z",
+                "owner": "wbuntine",
+                "repo": "topic-models",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TopicModel4J",
+              "description": "Java implementation using Gibbs sampling based on Chinese restaurant franchise metaphor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bnp",
+              "description": "Cython reimplementation based on online-hdp following scikit-learn's API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83863958,
+                "language": "Python",
+                "last_commit": "2018-09-11T14:39:53Z",
+                "owner": "chyikwei",
+                "repo": "bnp",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hierarchical Dirichlet Process (HDP) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mallet",
+              "description": "Java implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18378040,
+                "language": "Java",
+                "last_commit": "2026-08-04T20:21:57Z",
+                "owner": "mimno",
+                "repo": "Mallet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hlda",
+              "description": "Python package based on Mallet's Gibbs sampler having a fixed depth on the nCRP tree",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69615317,
+                "language": "Python",
+                "last_commit": "2026-02-11T17:24:20Z",
+                "owner": "joewandy",
+                "repo": "hlda",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hLDA",
+              "description": "C implementation of hierarchical LDA by David Blei",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24814986,
+                "language": "JavaScript",
+                "last_commit": "2014-10-05T12:13:39Z",
+                "owner": "blei-lab",
+                "repo": "hlda",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hierarchical LDA (hLDA) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling based on FastDTM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DETM",
+              "description": "Python implementation of the Dynamic Embedded Topic Model :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210378070,
+                "language": "Python",
+                "last_commit": "2021-02-02T23:47:33Z",
+                "owner": "adjidieng",
+                "repo": "DETM",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tca",
+              "description": "C implementation using Gibbs sampling with/without burstiness modelling :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19442637,
+                "language": "C",
+                "last_commit": "2016-08-16T00:10:26Z",
+                "owner": "wbuntine",
+                "repo": "topic-models",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dtm-BigTopicModel",
+              "description": "C++ engine for running large-scale topic models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65353206,
+                "language": "C++",
+                "last_commit": "2017-03-25T05:50:09Z",
+                "owner": "thu-ml",
+                "repo": "BigTopicModel",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastDTM",
+              "description": "Scalable C++ implementation using Gibbs sampling with Stochastic Gradient Langevin Dynamics (MCMC-based) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79177073,
+                "language": "C++",
+                "last_commit": "2017-09-02T06:07:57Z",
+                "owner": "Arnie0426",
+                "repo": "FastDTM",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dynamic Topic Model (DTM) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TopicModel4J",
+              "description": "Java implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Matlab Topic Modeling Toolbox",
+              "description": "Matlab and C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 345992634,
+                "language": "C++",
+                "last_commit": "2021-03-09T13:42:37Z",
+                "owner": "jonaschn",
+                "repo": "Matlab-Topic-Modeling-Toolbox",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Topic-Model",
+              "description": "Simple Python implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94200036,
+                "language": "Python",
+                "last_commit": "2017-10-02T10:30:31Z",
+                "owner": "Ward-nju",
+                "repo": "Topic-Model",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Author-topic Model (ATM) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mallet",
+              "description": "Java implementation using Gibbs sampling :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18378040,
+                "language": "Java",
+                "last_commit": "2026-08-04T20:21:57Z",
+                "owner": "mimno",
+                "repo": "Mallet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Labeled-LDA-Python",
+              "description": "Python implementation (easy to use, does not scale)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155560554,
+                "language": "Python",
+                "last_commit": "2022-06-22T05:22:25Z",
+                "owner": "JoeZJH",
+                "repo": "Labeled-LDA-Python",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JGibbLabeledLDA",
+              "description": "Java implementation based on the popular JGibbLDA package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7485705,
+                "language": "Java",
+                "last_commit": "2016-07-18T16:39:36Z",
+                "owner": "myleott",
+                "repo": "JGibbLabeledLDA",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TopicModel4J",
+              "description": "Java implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "topbox",
+              "description": "Python wrapper for labeled LDA implementation of Stanford TMT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328639472,
+                "language": "Python",
+                "last_commit": "2021-01-20T10:08:18Z",
+                "owner": "jonaschn",
+                "repo": "topbox",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gensims_mallet_wrapper",
+              "description": "Python wrapper for Mallet using gensim interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283219583,
+                "language": "Python",
+                "last_commit": "2021-05-13T17:49:44Z",
+                "owner": "jonaschn",
+                "repo": "gensim",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Labeled Latent Dirichlet Allocation (LLDA, Labeled-LDA, L-LDA) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TopicModel4J",
+              "description": "Java implementation using collapsed Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Partially Labeled Dirichlet Allocation (PLDA) / Dirichlet Process (PLDP) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mallet",
+              "description": "Java-based package for topic modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18378040,
+                "language": "Java",
+                "last_commit": "2026-08-04T20:21:57Z",
+                "owner": "mimno",
+                "repo": "Mallet",
+                "stars": 1029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dirichlet Multinomial Regression (DMR) topic model :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PTM",
+              "description": "implemented as benchmark :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50910742,
+                "language": "Java",
+                "last_commit": "2019-11-30T16:54:56Z",
+                "owner": "yao8839836",
+                "repo": "PTM",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TopicModel4J",
+              "description": "Java implementation using collapsed Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Link LDA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stm",
+              "description": "R package for the Structural Topic Model (CTM in case of no covariates) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16525826,
+                "language": "R",
+                "last_commit": "2026-01-14T15:52:16Z",
+                "owner": "bstewart",
+                "repo": "stm",
+                "stars": 420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BigTopicModel",
+              "description": "C++ engine for running large-scale DTM :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65353206,
+                "language": "C++",
+                "last_commit": "2017-03-25T05:50:09Z",
+                "owner": "thu-ml",
+                "repo": "BigTopicModel",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ctm-c",
+              "description": "Original C implementation of the correlated topic model by David Blei :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24814821,
+                "language": "C",
+                "last_commit": "2014-10-05T12:09:40Z",
+                "owner": "blei-lab",
+                "repo": "ctm-c",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Correlated Topic Model (CTM) a.k.a. logistic-normal topic models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BigTopicModel",
+              "description": "C++ engine for running large-scale topic models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65353206,
+                "language": "C++",
+                "last_commit": "2017-03-25T05:50:09Z",
+                "owner": "thu-ml",
+                "repo": "BigTopicModel",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R-lda",
+              "description": "R implementation using collapsed Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6820066,
+                "language": "C",
+                "last_commit": "2018-07-26T04:45:27Z",
+                "owner": "slycoder",
+                "repo": "R-lda",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Constrained-RTM",
+              "description": "Java implementation of Contrained RTM :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182282449,
+                "language": "Java",
+                "last_commit": "2026-05-08T17:55:44Z",
+                "owner": "MIND-Lab",
+                "repo": "Constrained-RTM",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Relational Topic Model (RTM)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sLDA",
+              "description": "C++ implementation of supervised topic models with a categorical response",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33091723,
+                "language": "C++",
+                "last_commit": "2022-01-14T16:47:34Z",
+                "owner": "blei-lab",
+                "repo": "class-slda",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "slda",
+              "description": "Cython implementation of Gibbs sampling for LDA and various sLDA variants",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61390138,
+                "language": "Python",
+                "last_commit": "2017-10-09T17:40:16Z",
+                "owner": "Savvysherpa",
+                "repo": "slda",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R-lda",
+              "description": "R implementation using collapsed Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6820066,
+                "language": "C",
+                "last_commit": "2018-07-26T04:45:27Z",
+                "owner": "slycoder",
+                "repo": "R-lda",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YWWTools",
+              "description": "Java implementation using Gibbs sampling for LDA and various sLDA variants:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232361192,
+                "language": "Java",
+                "last_commit": "2020-09-05T08:08:11Z",
+                "owner": "ywwbill",
+                "repo": "YWWTools-v2",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Supervised LDA (sLDA) :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Familia",
+                  "description": "Apply inference on pre-trained SentenceLDA models :warning: :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94299010,
+                    "language": "C++",
+                    "last_commit": "2021-07-01T08:28:33Z",
+                    "owner": "baidu",
+                    "repo": "Familia",
+                    "stars": 2645
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TopicModel4J",
+                  "description": "Java implementation of Sentence-LDA using collapsed Gibbs sampling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190860520,
+                    "language": "Java",
+                    "last_commit": "2023-02-04T08:50:25Z",
+                    "owner": "soberqian",
+                    "repo": "TopicModel4J",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Sentence-LDA / SentenceLDA / Sentence LDA :page_facing_up:"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jLDADMM",
+                  "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53783822,
+                    "language": "Java",
+                    "last_commit": "2019-04-17T09:22:52Z",
+                    "owner": "datquocnguyen",
+                    "repo": "jLDADMM",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TopicModel4J",
+                  "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190860520,
+                    "language": "Java",
+                    "last_commit": "2023-02-04T08:50:25Z",
+                    "owner": "soberqian",
+                    "repo": "TopicModel4J",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GPyM_TM",
+                  "description": "Python implementation of DMM and Poisson model",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 301347181,
+                    "language": "Python",
+                    "last_commit": "2022-07-13T11:49:53Z",
+                    "owner": "jrmazarura",
+                    "repo": "GPM",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dirichlet Multinomial Mixture Model (DMM) :page_facing_up:"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tomotopy",
+                  "description": "Python extension for C++ implementation using Gibbs sampling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186155463,
+                    "language": "C++",
+                    "last_commit": "2026-02-21T05:18:23Z",
+                    "owner": "bab2min",
+                    "repo": "tomotopy",
+                    "stars": 598
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TopicModel4J",
+                  "description": "Java implementation using collapsed Gibbs sampling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190860520,
+                    "language": "Java",
+                    "last_commit": "2023-02-04T08:50:25Z",
+                    "owner": "soberqian",
+                    "repo": "TopicModel4J",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pseudo-document-based Topic Model (PTM) :page_facing_up:"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BTM",
+                  "description": "Original C++ implementation using collapsed Gibbs sampling :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29048060,
+                    "language": "C++",
+                    "last_commit": "2019-11-15T15:45:13Z",
+                    "owner": "xiaohuiyan",
+                    "repo": "BTM",
+                    "stars": 409
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "R-BTM",
+                  "description": "R package wrapping the C++ code from BTM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160680962,
+                    "language": "C++",
+                    "last_commit": "2025-11-26T20:14:08Z",
+                    "owner": "bnosac",
+                    "repo": "BTM",
+                    "stars": 98
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BurstyBTM",
+                  "description": "Original C++ implementation of the Bursty BTM (BBTM) :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29056279,
+                    "language": "C++",
+                    "last_commit": "2019-02-23T07:59:57Z",
+                    "owner": "xiaohuiyan",
+                    "repo": "BurstyBTM",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TopicModel4J",
+                  "description": "Java implementation using collapsed Gibbs sampling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190860520,
+                    "language": "Java",
+                    "last_commit": "2023-02-04T08:50:25Z",
+                    "owner": "soberqian",
+                    "repo": "TopicModel4J",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Biterm topic model (BTM)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "shorttext",
+                  "description": "Python implementation of various algorithms for Short Text Mining",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 70118622,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T19:53:41Z",
+                    "owner": "stephenhky",
+                    "repo": "PyShortTextCategorization",
+                    "stars": 472
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "STTM",
+                  "description": "Java implementation and evaluation of DMM, WNTM, PTM, ETM, GPU-DMM, GPU-DPMM, LF-DMM :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140288371,
+                    "language": "Java",
+                    "last_commit": "2020-05-24T05:53:55Z",
+                    "owner": "qiang2100",
+                    "repo": "STTM",
+                    "stars": 161
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SATM",
+                  "description": "Java implementation of Self-Aggregation Topic Model :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110315219,
+                    "language": "Java",
+                    "last_commit": "2022-11-04T14:28:20Z",
+                    "owner": "WHUIR",
+                    "repo": "SATM",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Others"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Topic Models for short documents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi-Grain-LDA",
+              "description": "MG-LDA implemented in tomotopy using collapsed Gibbs sampling :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GuidedLDA",
+              "description": "Python implementation that can be guided by setting some seed words per topic (using Gibbs sampling) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105806605,
+                "language": "Python",
+                "last_commit": "2025-04-14T23:23:30Z",
+                "owner": "vi3k6i5",
+                "repo": "GuidedLDA",
+                "stars": 519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keyATM",
+              "description": "R package for Keyword Assisted Topic Models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229350267,
+                "language": "R",
+                "last_commit": "2026-01-19T18:39:25Z",
+                "owner": "keyATM",
+                "repo": "keyATM",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToT",
+              "description": "Python implementation of Topics Over Time (A Non-Markov Continuous-Time Model of Topical Trends) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31871902,
+                "language": "Python",
+                "last_commit": "2020-08-12T02:00:43Z",
+                "owner": "ahmaurya",
+                "repo": "topics_over_time",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EnsTop",
+              "description": "Python implementation of ENSemble TOPic modelling with pLSA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192010873,
+                "language": "Python",
+                "last_commit": "2021-09-30T19:10:08Z",
+                "owner": "lmcinnes",
+                "repo": "enstop",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seededLDA",
+              "description": "R package that implements seeded-LDA for semi-supervised topic modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192859007,
+                "language": "R",
+                "last_commit": "2026-05-28T00:19:43Z",
+                "owner": "koheiw",
+                "repo": "seededlda",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hca",
+              "description": "C implementation of non-parametric topic models (HDP, HPYP-LDA, etc.) with focus on hyperparameter tuning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19442637,
+                "language": "C",
+                "last_commit": "2016-08-16T00:10:26Z",
+                "owner": "wbuntine",
+                "repo": "topic-models",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BayesPA",
+              "description": "Python interface for streaming implementation of MedLDA, maximum entropy discrimination LDA (max-margin supervised topic model) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19385964,
+                "language": "Jupyter Notebook",
+                "last_commit": "2016-03-26T07:38:57Z",
+                "owner": "strin",
+                "repo": "BayesPA",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dual-Sparse Topic Model",
+              "description": "implemented in TopicModel4J using collapsed variational Bayes inference :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190860520,
+                "language": "Java",
+                "last_commit": "2023-02-04T08:50:25Z",
+                "owner": "soberqian",
+                "repo": "TopicModel4J",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLTM",
+              "description": "C implementation of multilabel topic model (MLTM) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72066217,
+                "language": "Python",
+                "last_commit": "2017-04-02T14:24:05Z",
+                "owner": "hsoleimani",
+                "repo": "MLTM",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lda++",
+              "description": "C++ library for LDA and (fast) supervised LDA (sLDA/fsLDA) using variational inference :page_facing_up: :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52209660,
+                "language": "C++",
+                "last_commit": "2019-03-15T16:03:29Z",
+                "owner": "angeloskath",
+                "repo": "supervised-lda",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BigTopicModel",
+              "description": "C++ engine for running large-scale MedLDA models :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65353206,
+                "language": "C++",
+                "last_commit": "2017-03-25T05:50:09Z",
+                "owner": "thu-ml",
+                "repo": "BigTopicModel",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trLDA",
+              "description": "Python implementation of streaming LDA based on trust-regions :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25791126,
+                "language": "C++",
+                "last_commit": "2015-05-24T16:22:39Z",
+                "owner": "lucastheis",
+                "repo": "trlda",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Logistic LDA",
+              "description": "Tensorflow implementation of Discriminative Topic Modeling with Logistic LDA :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194238820,
+                "language": "Python",
+                "last_commit": "2019-10-17T16:46:40Z",
+                "owner": "lucastheis",
+                "repo": "logistic_lda",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "discLDA",
+              "description": "C++ implementation of discLDA based on GibbsLDA++ :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7240111,
+                "language": "C++",
+                "last_commit": "2012-12-28T11:03:27Z",
+                "owner": "anthonylife",
+                "repo": "discLDA",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ST-LDA",
+              "description": "ST-LDA: Single Topic LDA :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232361192,
+                "language": "Java",
+                "last_commit": "2020-09-05T08:08:11Z",
+                "owner": "ywwbill",
+                "repo": "YWWTools-v2",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MTM",
+              "description": "Java implementation of Multilingual Topic Model :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232361192,
+                "language": "Java",
+                "last_commit": "2020-09-05T08:08:11Z",
+                "owner": "ywwbill",
+                "repo": "YWWTools-v2",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YWWTools",
+              "description": "Java-based package for various topic models by Weiwei Yang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232361192,
+                "language": "Java",
+                "last_commit": "2020-09-05T08:08:11Z",
+                "owner": "ywwbill",
+                "repo": "YWWTools-v2",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DAPPER",
+              "description": "Python implementation of Dynamic Author Persona (DAP) topic model :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116299039,
+                "language": "Python",
+                "last_commit": "2018-11-19T01:13:25Z",
+                "owner": "robert-giaquinto",
+                "repo": "dapper",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Entropy-Based Topic Modeling",
+              "description": "Java implementation of Entropy-Based Topic Modeling on Multiple Domain-Specific Text Collections",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249838182,
+                "language": "Java",
+                "last_commit": "2020-09-25T18:42:48Z",
+                "owner": "julian-risch",
+                "repo": "JCDL2018",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sequence-models",
+              "description": "Java implementation of block HMM and the mixed membership Markov model (M4)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289564125,
+                "language": "Java",
+                "last_commit": "2020-08-22T20:52:32Z",
+                "owner": "michaeljpaul",
+                "repo": "sequence-models",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous topic models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PTM",
+              "description": "Prescription Topic Model for Traditional Chinese Medicine Prescriptions :page_facing_up: (interesting benchmark models)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50910742,
+                "language": "Java",
+                "last_commit": "2019-11-30T16:54:56Z",
+                "owner": "yao8839836",
+                "repo": "PTM",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KGE-LDA",
+              "description": "Knowledge Graph Embedding LDA :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68539845,
+                "language": "Java",
+                "last_commit": "2018-08-27T20:51:08Z",
+                "owner": "yao8839836",
+                "repo": "KGE-LDA",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LDA-SP",
+              "description": "A Latent Dirichlet Allocation Method for Selectional Preferences :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2252627,
+                "language": "C",
+                "last_commit": "2023-03-10T03:39:53Z",
+                "owner": "aritter",
+                "repo": "LDA-SP",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TEM",
+              "description": "Topic Expertise Model :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330999116,
+                "language": "Java",
+                "last_commit": "2021-02-19T14:10:57Z",
+                "owner": "jonaschn",
+                "repo": "TopicExpertiseModel",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LDA+FFT",
+              "description": "LDA and FFTs (Fast and Frugal Trees) for better comprehensibility :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122403458,
+                "language": "Python",
+                "last_commit": "2018-11-15T22:20:15Z",
+                "owner": "ai-se",
+                "repo": "LDA_FFT",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Exotic models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BERTopic",
+              "description": "BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297672263,
+                "language": "Python",
+                "last_commit": "2026-08-02T07:34:26Z",
+                "owner": "MaartenGr",
+                "repo": "BERTopic",
+                "stars": 7791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Top2Vec",
+              "description": "Python implementation that learns jointly embedded topic, document and word vectors :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248812668,
+                "language": "Python",
+                "last_commit": "2024-11-14T23:47:51Z",
+                "owner": "ddangelov",
+                "repo": "Top2Vec",
+                "stars": 3103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CTM",
+              "description": "CTMs combine contextualized embeddings (e.g., BERT) with topic models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253079431,
+                "language": "Python",
+                "last_commit": "2025-07-24T02:03:31Z",
+                "owner": "MilaNLProc",
+                "repo": "contextualized-topic-models",
+                "stars": 1269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anchored CorEx",
+              "description": "Hierarchical Topic Modeling with Minimal Domain Knowledge :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44352390,
+                "language": "Python",
+                "last_commit": "2021-03-22T17:17:37Z",
+                "owner": "gregversteeg",
+                "repo": "corex_topic",
+                "stars": 644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETM",
+              "description": "Embedded Topic Model :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196301093,
+                "language": "Python",
+                "last_commit": "2023-10-03T22:32:12Z",
+                "owner": "adjidieng",
+                "repo": "ETM",
+                "stars": 559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProdLDA",
+              "description": "Original TensorFlow implementation of Autoencoding Variational Inference (AEVI) for Topic Models :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73849713,
+                "language": "Python",
+                "last_commit": "2021-04-19T20:39:53Z",
+                "owner": "akashgit",
+                "repo": "autoencoding_vi_for_topic_models",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LFTM",
+              "description": "Java implementation of latent feature topic models (improving LDA and DMM with word embeddings) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38404524,
+                "language": "Java",
+                "last_commit": "2017-05-08T05:02:12Z",
+                "owner": "datquocnguyen",
+                "repo": "LFTM",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-ProdLDA",
+              "description": "PyTorch implementation of ProdLDA :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93694187,
+                "language": "Python",
+                "last_commit": "2018-07-14T08:54:03Z",
+                "owner": "hyqneuron",
+                "repo": "pytorch-avitm",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CorEx",
+              "description": "Recover latent factors with Correlation Explanation (CorEx) :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81851076,
+                "language": "Python",
+                "last_commit": "2021-10-06T14:48:42Z",
+                "owner": "gregversteeg",
+                "repo": "bio_corex",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "G-LDA",
+              "description": "Java implementation of Gaussian LDA using word embeddings :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36518491,
+                "language": "HTML",
+                "last_commit": "2019-12-31T18:41:59Z",
+                "owner": "rajarshd",
+                "repo": "Gaussian_LDA",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D-ETM",
+              "description": "Dynamic Embedded Topic Model :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210378070,
+                "language": "Python",
+                "last_commit": "2021-02-02T23:47:33Z",
+                "owner": "adjidieng",
+                "repo": "DETM",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CatE",
+              "description": "Discriminative Topic Mining via Category-Name Guided Text Embedding :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236540099,
+                "language": "C",
+                "last_commit": "2021-01-06T20:07:07Z",
+                "owner": "yumeng5",
+                "repo": "CatE",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linear CorEx",
+              "description": "Latent Factor Models Based on Linear Total CorEx :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51806307,
+                "language": "Python",
+                "last_commit": "2020-11-30T17:49:33Z",
+                "owner": "gregversteeg",
+                "repo": "LinearCorex",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaLDA",
+              "description": "Java implementation using Gibbs sampling that leverages document metadata and word embeddings :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100674439,
+                "language": "Java",
+                "last_commit": "2019-02-06T02:45:18Z",
+                "owner": "ethanhezhao",
+                "repo": "MetaLDA",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MG-LDA",
+              "description": "Python implementation of (Multi-lingual) Gaussian LDA :page_facing_up:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230163082,
+                "language": "Python",
+                "last_commit": "2019-12-28T15:29:20Z",
+                "owner": "EliasKB",
+                "repo": "Multilingual-Gaussian-Latent-Dirichlet-Allocation-MGLDA",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embedding based Topic Models"
+        }
+      ],
       "title": "Models"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BIDMach",
-          "description": "Scala implementation of a scalable approximate SVD using subspace iteration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2022-10-04T23:35:03Z",
-            "owner": "BIDData",
-            "repo": "BIDMach",
-            "stars": 920
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sparsesvd",
-          "description": "Python wrapper for SVDlibc",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2013-08-16T13:33:53Z",
-            "owner": "piskvorky",
-            "repo": "sparsesvd",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SVDlibc",
-          "description": "C implementation of SVD by Doug Rohde",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-09-01T13:47:20Z",
-            "owner": "lucasmaystre",
-            "repo": "svdlibc",
-            "stars": 53
-          }
-        }
-      ],
-      "title": "Truncated Singular Value Decomposition (SVD) / Latent Semantic Analysis (LSA) / Latent Semantic Indexing (LSI)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "turicreate",
-          "description": "C++ LDA and aliasLDA implementation with export to Apple's Core ML for use in iOS, macOS, watchOS, and tvOS apps",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2023-11-01T06:14:06Z",
-            "owner": "apple",
-            "repo": "turicreate",
-            "stars": 11160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vowpal Wabbit",
-          "description": "C++ implementaion using online variational Bayes inference :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T04:09:37Z",
-            "owner": "VowpalWabbit",
-            "repo": "vowpal_wabbit",
-            "stars": 8705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lda",
-          "description": "Python implementation using collapsed Gibbs sampling which follows scikit-learn interface :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-29T19:05:40Z",
-            "owner": "lda-project",
-            "repo": "lda",
-            "stars": 1314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mallet",
-          "description": "Parallelized Java implementation using Gibbs sampling :page_facing_up::page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gensim-wrapper-Mallet",
-          "description": "Python wrapper for Mallet's implementation :page_facing_up::page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MeTA",
-          "description": "C++ implementation of (parallel) collapsed Gibbs sampling, CVB0 and SCVB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-04-17T08:37:52Z",
-            "owner": "meta-toolkit",
-            "repo": "meta",
-            "stars": 715
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python binding for C++ implementation using Gibbs sampling and different term-weighting options :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lda-nodejs",
-          "description": "Node.js implementation of LDA topic modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-20T21:54:11Z",
-            "owner": "primaryobjects",
-            "repo": "lda",
-            "stars": 294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jsLDA",
-          "description": "JavaScript implementation of LDA topic modeling in the browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-01T21:36:08Z",
-            "owner": "mimno",
-            "repo": "jsLDA",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lda-purescript",
-          "description": "PureScript, browser-based implementation of LDA topic modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PureScript",
-            "last_commit": "2018-03-02T04:20:10Z",
-            "owner": "lettier",
-            "repo": "lda-topic-modeling",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModels.jl",
-          "description": "Julia implementation of LDA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2020-05-31T01:53:24Z",
-            "owner": "slycoder",
-            "repo": "TopicModels.jl",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GibbsSamplingLDA-TopicModel4J",
-          "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CVBLDA-TopicModel4J",
-          "description": "Java implementation using collapsed variational Bayesian (CVB) inference :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PartiallyCollapsedLDA",
-          "description": "Various fast parallelized samplers for LDA, including Partially Collapsed LDA, LightLDA, Partially Collapsed Light LDA and a very efficient Polya-Urn LDA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-30T05:20:33Z",
-            "owner": "lejon",
-            "repo": "PartiallyCollapsedLDA",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fugue",
-          "description": "Java implementation of collapsed Gibbs sampling with slice sampling for hyper-parameter optimization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-29T05:59:06Z",
-            "owner": "PuzaTech",
-            "repo": "Fugue",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "topicmodel-lib",
-          "description": "Cython library for online/streaming LDA (Online VB, Online CVB0, Online CGS, Online OPE, Online FW, Streaming VB, Streaming OPE, Streaming FW, ML-OPE, ML-CGS, ML-FW)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-24T12:05:36Z",
-            "owner": "hncuong",
-            "repo": "topicmodel-lib",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Latent Dirichlet Allocation (LDA) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ldatuning",
-          "description": "R package to find optimal number of topics for LDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2024-05-31T13:30:44Z",
-            "owner": "nikita-moor",
-            "repo": "ldatuning",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LDADE",
-          "description": "Python tuning tool using differential evolution :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-22T18:06:50Z",
-            "owner": "amritbhanu",
-            "repo": "LDADE-package",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Search-Based-LDA",
-          "description": "R scripts using Genetic Algorithms (GA) for hyper-paramenter optimization by Panichella :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2020-09-06T14:40:04Z",
-            "owner": "apanichella",
-            "repo": "Search-Based-LDA",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dodge",
-          "description": "Python tuning tool that ignores redundant tunings :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scilab",
-            "last_commit": "2020-12-24T20:24:11Z",
-            "owner": "amritbhanu",
-            "repo": "Dodge",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GA-LDA",
-          "description": "R scripts using Genetic Algorithms (GA) for hyper-paramenter optimization, based on Panichella :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2020-03-13T13:57:16Z",
-            "owner": "GESAD-MSR",
-            "repo": "GA-LDA",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Hyperparameter optimization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "topic_interpretability",
-          "description": "Computation of the semantic interpretability of topics produced by topic models :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2017-04-19T05:52:46Z",
-            "owner": "jhlau",
-            "repo": "topic_interpretability",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "topic-model-diversity",
-          "description": "A collection of topic diversity measures for topic modeling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-03T13:41:40Z",
-            "owner": "silviatti",
-            "repo": "topic-model-diversity",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "topic-coherence-sensitivity",
-          "description": "Code to compute topic coherence for several topic cardinalities and aggregate scores across them :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-10T04:34:50Z",
-            "owner": "jhlau",
-            "repo": "topic-coherence-sensitivity",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Evaluation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LDA*",
-          "description": "Tencent's hybrid sampler that uses different samplers for different types of documents in combination with an asymmetric parameter server :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-26T06:10:31Z",
-            "owner": "Angel-ML",
-            "repo": "angel",
-            "stars": 6787
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Familia",
-          "description": "A toolkit for industrial topic modeling (LDA, SentenceLDA and Topical Word Embedding) :warning: :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-07-01T08:28:33Z",
-            "owner": "baidu",
-            "repo": "Familia",
-            "stars": 2645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SparseLDA",
-          "description": "Java algorithm and data structure for evaluating Gibbs sampling distributions used in Mallet :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lightLDA",
-          "description": "C++ implementation using O(1) Metropolis-Hastings sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2020-12-28T12:12:12Z",
-            "owner": "microsoft",
-            "repo": "LightLDA",
-            "stars": 845
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yahoo-LDA",
-          "description": "Yahoo!'s topic modelling framework :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2011-09-21T06:33:05Z",
-            "owner": "sudar",
-            "repo": "Yahoo_LDA",
-            "stars": 337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "warpLDA",
-          "description": "C++ cache efficient LDA implementation which samples each token in O(1) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-01-04T06:53:47Z",
-            "owner": "thu-ml",
-            "repo": "warplda",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dmlc",
-          "description": "Single-and multi-threaded C++ implementations of lightLDA, F+LDA, AliasLDA, forestLDA and many more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2016-06-23T02:02:42Z",
-            "owner": "dmlc",
-            "repo": "experimental-lda",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PLDA+",
-          "description": "Google's C++ implementation using data placement and pipeline processing :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-14T09:40:37Z",
-            "owner": "openbigdatagroup",
-            "repo": "plda",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastLDA",
-          "description": "C++ implementation of LDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-04-23T04:50:40Z",
-            "owner": "Arnie0426",
-            "repo": "FastLDA",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AliasLDA",
-          "description": "C++ implemenation using Metropolis-Hastings and alias method:page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2016-04-20T10:21:43Z",
-            "owner": "polymorpher",
-            "repo": "aliaslda",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "CPU-based high performance implementations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GS-LDA-BIDMach",
-          "description": "CPU and GPU-accelerated Scala implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2022-10-04T23:35:03Z",
-            "owner": "BIDData",
-            "repo": "BIDMach",
-            "stars": 920
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VB-LDA-BIDMach",
-          "description": "CPU and GPU-accelerated Scala implementation using online variational Bayes inference",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2022-10-04T23:35:03Z",
-            "owner": "BIDData",
-            "repo": "BIDMach",
-            "stars": 920
-          }
-        }
-      ],
-      "title": "GPU-based high performance implementations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mallet",
-          "description": "Java-based package for topic modeling using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hca",
-          "description": "C implementation using Gibbs sampling with/without burstiness modelling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-08-16T00:10:26Z",
-            "owner": "wbuntine",
-            "repo": "topic-models",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation using Gibbs sampling based on Chinese restaurant franchise metaphor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bnp",
-          "description": "Cython reimplementation based on online-hdp following scikit-learn's API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-09-11T14:39:53Z",
-            "owner": "chyikwei",
-            "repo": "bnp",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Hierarchical Dirichlet Process (HDP) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mallet",
-          "description": "Java implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hlda",
-          "description": "Python package based on Mallet's Gibbs sampler having a fixed depth on the nCRP tree",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-11T17:24:20Z",
-            "owner": "joewandy",
-            "repo": "hlda",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hLDA",
-          "description": "C implementation of hierarchical LDA by David Blei",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2014-10-05T12:13:39Z",
-            "owner": "blei-lab",
-            "repo": "hlda",
-            "stars": 78
-          }
-        }
-      ],
-      "title": "Hierarchical LDA (hLDA) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling based on FastDTM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DETM",
-          "description": "Python implementation of the Dynamic Embedded Topic Model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-02T23:47:33Z",
-            "owner": "adjidieng",
-            "repo": "DETM",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tca",
-          "description": "C implementation using Gibbs sampling with/without burstiness modelling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-08-16T00:10:26Z",
-            "owner": "wbuntine",
-            "repo": "topic-models",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dtm-BigTopicModel",
-          "description": "C++ engine for running large-scale topic models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-03-25T05:50:09Z",
-            "owner": "thu-ml",
-            "repo": "BigTopicModel",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastDTM",
-          "description": "Scalable C++ implementation using Gibbs sampling with Stochastic Gradient Langevin Dynamics (MCMC-based) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-09-02T06:07:57Z",
-            "owner": "Arnie0426",
-            "repo": "FastDTM",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Dynamic Topic Model (DTM) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Matlab Topic Modeling Toolbox",
-          "description": "Matlab and C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2021-03-09T13:42:37Z",
-            "owner": "jonaschn",
-            "repo": "Matlab-Topic-Modeling-Toolbox",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Topic-Model",
-          "description": "Simple Python implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-02T10:30:31Z",
-            "owner": "Ward-nju",
-            "repo": "Topic-Model",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Author-topic Model (ATM) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mallet",
-          "description": "Java implementation using Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Labeled-LDA-Python",
-          "description": "Python implementation (easy to use, does not scale)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-22T05:22:25Z",
-            "owner": "JoeZJH",
-            "repo": "Labeled-LDA-Python",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JGibbLabeledLDA",
-          "description": "Java implementation based on the popular JGibbLDA package",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2016-07-18T16:39:36Z",
-            "owner": "myleott",
-            "repo": "JGibbLabeledLDA",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "topbox",
-          "description": "Python wrapper for labeled LDA implementation of Stanford TMT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-20T10:08:18Z",
-            "owner": "jonaschn",
-            "repo": "topbox",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gensims_mallet_wrapper",
-          "description": "Python wrapper for Mallet using gensim interface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-13T17:49:44Z",
-            "owner": "jonaschn",
-            "repo": "gensim",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Labeled Latent Dirichlet Allocation (LLDA, Labeled-LDA, L-LDA) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Partially Labeled Dirichlet Allocation (PLDA) / Dirichlet Process (PLDP) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mallet",
-          "description": "Java-based package for topic modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-04T20:21:57Z",
-            "owner": "mimno",
-            "repo": "Mallet",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        }
-      ],
-      "title": "Dirichlet Multinomial Regression (DMR) topic model :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PTM",
-          "description": "implemented as benchmark :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-11-30T16:54:56Z",
-            "owner": "yao8839836",
-            "repo": "PTM",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Link LDA"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stm",
-          "description": "R package for the Structural Topic Model (CTM in case of no covariates) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-01-14T15:52:16Z",
-            "owner": "bstewart",
-            "repo": "stm",
-            "stars": 420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BigTopicModel",
-          "description": "C++ engine for running large-scale DTM :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-03-25T05:50:09Z",
-            "owner": "thu-ml",
-            "repo": "BigTopicModel",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ctm-c",
-          "description": "Original C implementation of the correlated topic model by David Blei :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2014-10-05T12:09:40Z",
-            "owner": "blei-lab",
-            "repo": "ctm-c",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Correlated Topic Model (CTM) a.k.a. logistic-normal topic models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BigTopicModel",
-          "description": "C++ engine for running large-scale topic models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-03-25T05:50:09Z",
-            "owner": "thu-ml",
-            "repo": "BigTopicModel",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R-lda",
-          "description": "R implementation using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-07-26T04:45:27Z",
-            "owner": "slycoder",
-            "repo": "R-lda",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Constrained-RTM",
-          "description": "Java implementation of Contrained RTM :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-08T17:55:44Z",
-            "owner": "MIND-Lab",
-            "repo": "Constrained-RTM",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Relational Topic Model (RTM)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sLDA",
-          "description": "C++ implementation of supervised topic models with a categorical response",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-01-14T16:47:34Z",
-            "owner": "blei-lab",
-            "repo": "class-slda",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "slda",
-          "description": "Cython implementation of Gibbs sampling for LDA and various sLDA variants",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-09T17:40:16Z",
-            "owner": "Savvysherpa",
-            "repo": "slda",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R-lda",
-          "description": "R implementation using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-07-26T04:45:27Z",
-            "owner": "slycoder",
-            "repo": "R-lda",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YWWTools",
-          "description": "Java implementation using Gibbs sampling for LDA and various sLDA variants:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-05T08:08:11Z",
-            "owner": "ywwbill",
-            "repo": "YWWTools-v2",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Supervised LDA (sLDA) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Topic Models for short documents"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Familia",
-          "description": "Apply inference on pre-trained SentenceLDA models :warning: :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-07-01T08:28:33Z",
-            "owner": "baidu",
-            "repo": "Familia",
-            "stars": 2645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation of Sentence-LDA using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Sentence-LDA / SentenceLDA / Sentence LDA :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jLDADMM",
-          "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-04-17T09:22:52Z",
-            "owner": "datquocnguyen",
-            "repo": "jLDADMM",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GPyM_TM",
-          "description": "Python implementation of DMM and Poisson model",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-13T11:49:53Z",
-            "owner": "jrmazarura",
-            "repo": "GPM",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Dirichlet Multinomial Mixture Model (DMM) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tomotopy",
-          "description": "Python extension for C++ implementation using Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Pseudo-document-based Topic Model (PTM) :page_facing_up:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BTM",
-          "description": "Original C++ implementation using collapsed Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-11-15T15:45:13Z",
-            "owner": "xiaohuiyan",
-            "repo": "BTM",
-            "stars": 409
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R-BTM",
-          "description": "R package wrapping the C++ code from BTM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-11-26T20:14:08Z",
-            "owner": "bnosac",
-            "repo": "BTM",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BurstyBTM",
-          "description": "Original C++ implementation of the Bursty BTM (BBTM) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-02-23T07:59:57Z",
-            "owner": "xiaohuiyan",
-            "repo": "BurstyBTM",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TopicModel4J",
-          "description": "Java implementation using collapsed Gibbs sampling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Biterm topic model (BTM)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shorttext",
-          "description": "Python implementation of various algorithms for Short Text Mining",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T19:53:41Z",
-            "owner": "stephenhky",
-            "repo": "PyShortTextCategorization",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STTM",
-          "description": "Java implementation and evaluation of DMM, WNTM, PTM, ETM, GPU-DMM, GPU-DPMM, LF-DMM :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-05-24T05:53:55Z",
-            "owner": "qiang2100",
-            "repo": "STTM",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SATM",
-          "description": "Java implementation of Self-Aggregation Topic Model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-11-04T14:28:20Z",
-            "owner": "WHUIR",
-            "repo": "SATM",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Multi-Grain-LDA",
-          "description": "MG-LDA implemented in tomotopy using collapsed Gibbs sampling :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-21T05:18:23Z",
-            "owner": "bab2min",
-            "repo": "tomotopy",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GuidedLDA",
-          "description": "Python implementation that can be guided by setting some seed words per topic (using Gibbs sampling) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-14T23:23:30Z",
-            "owner": "vi3k6i5",
-            "repo": "GuidedLDA",
-            "stars": 519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keyATM",
-          "description": "R package for Keyword Assisted Topic Models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-01-19T18:39:25Z",
-            "owner": "keyATM",
-            "repo": "keyATM",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ToT",
-          "description": "Python implementation of Topics Over Time (A Non-Markov Continuous-Time Model of Topical Trends) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-08-12T02:00:43Z",
-            "owner": "ahmaurya",
-            "repo": "topics_over_time",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EnsTop",
-          "description": "Python implementation of ENSemble TOPic modelling with pLSA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-30T19:10:08Z",
-            "owner": "lmcinnes",
-            "repo": "enstop",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "seededLDA",
-          "description": "R package that implements seeded-LDA for semi-supervised topic modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-05-28T00:19:43Z",
-            "owner": "koheiw",
-            "repo": "seededlda",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hca",
-          "description": "C implementation of non-parametric topic models (HDP, HPYP-LDA, etc.) with focus on hyperparameter tuning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-08-16T00:10:26Z",
-            "owner": "wbuntine",
-            "repo": "topic-models",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BayesPA",
-          "description": "Python interface for streaming implementation of MedLDA, maximum entropy discrimination LDA (max-margin supervised topic model) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2016-03-26T07:38:57Z",
-            "owner": "strin",
-            "repo": "BayesPA",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dual-Sparse Topic Model",
-          "description": "implemented in TopicModel4J using collapsed variational Bayes inference :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-02-04T08:50:25Z",
-            "owner": "soberqian",
-            "repo": "TopicModel4J",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLTM",
-          "description": "C implementation of multilabel topic model (MLTM) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-04-02T14:24:05Z",
-            "owner": "hsoleimani",
-            "repo": "MLTM",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lda++",
-          "description": "C++ library for LDA and (fast) supervised LDA (sLDA/fsLDA) using variational inference :page_facing_up: :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-03-15T16:03:29Z",
-            "owner": "angeloskath",
-            "repo": "supervised-lda",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BigTopicModel",
-          "description": "C++ engine for running large-scale MedLDA models :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-03-25T05:50:09Z",
-            "owner": "thu-ml",
-            "repo": "BigTopicModel",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trLDA",
-          "description": "Python implementation of streaming LDA based on trust-regions :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2015-05-24T16:22:39Z",
-            "owner": "lucastheis",
-            "repo": "trlda",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Logistic LDA",
-          "description": "Tensorflow implementation of Discriminative Topic Modeling with Logistic LDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-10-17T16:46:40Z",
-            "owner": "lucastheis",
-            "repo": "logistic_lda",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "discLDA",
-          "description": "C++ implementation of discLDA based on GibbsLDA++ :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2012-12-28T11:03:27Z",
-            "owner": "anthonylife",
-            "repo": "discLDA",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ST-LDA",
-          "description": "ST-LDA: Single Topic LDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-05T08:08:11Z",
-            "owner": "ywwbill",
-            "repo": "YWWTools-v2",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MTM",
-          "description": "Java implementation of Multilingual Topic Model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-05T08:08:11Z",
-            "owner": "ywwbill",
-            "repo": "YWWTools-v2",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YWWTools",
-          "description": "Java-based package for various topic models by Weiwei Yang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-05T08:08:11Z",
-            "owner": "ywwbill",
-            "repo": "YWWTools-v2",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DAPPER",
-          "description": "Python implementation of Dynamic Author Persona (DAP) topic model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-11-19T01:13:25Z",
-            "owner": "robert-giaquinto",
-            "repo": "dapper",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Entropy-Based Topic Modeling",
-          "description": "Java implementation of Entropy-Based Topic Modeling on Multiple Domain-Specific Text Collections",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-25T18:42:48Z",
-            "owner": "julian-risch",
-            "repo": "JCDL2018",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sequence-models",
-          "description": "Java implementation of block HMM and the mixed membership Markov model (M4)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-08-22T20:52:32Z",
-            "owner": "michaeljpaul",
-            "repo": "sequence-models",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Miscellaneous topic models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PTM",
-          "description": "Prescription Topic Model for Traditional Chinese Medicine Prescriptions :page_facing_up: (interesting benchmark models)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-11-30T16:54:56Z",
-            "owner": "yao8839836",
-            "repo": "PTM",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KGE-LDA",
-          "description": "Knowledge Graph Embedding LDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-08-27T20:51:08Z",
-            "owner": "yao8839836",
-            "repo": "KGE-LDA",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LDA-SP",
-          "description": "A Latent Dirichlet Allocation Method for Selectional Preferences :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-03-10T03:39:53Z",
-            "owner": "aritter",
-            "repo": "LDA-SP",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TEM",
-          "description": "Topic Expertise Model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-02-19T14:10:57Z",
-            "owner": "jonaschn",
-            "repo": "TopicExpertiseModel",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LDA+FFT",
-          "description": "LDA and FFTs (Fast and Frugal Trees) for better comprehensibility :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-11-15T22:20:15Z",
-            "owner": "ai-se",
-            "repo": "LDA_FFT",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Exotic models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BERTopic",
-          "description": "BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T07:34:26Z",
-            "owner": "MaartenGr",
-            "repo": "BERTopic",
-            "stars": 7787
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Top2Vec",
-          "description": "Python implementation that learns jointly embedded topic, document and word vectors :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-14T23:47:51Z",
-            "owner": "ddangelov",
-            "repo": "Top2Vec",
-            "stars": 3103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CTM",
-          "description": "CTMs combine contextualized embeddings (e.g., BERT) with topic models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-24T02:03:31Z",
-            "owner": "MilaNLProc",
-            "repo": "contextualized-topic-models",
-            "stars": 1269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anchored CorEx",
-          "description": "Hierarchical Topic Modeling with Minimal Domain Knowledge :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-22T17:17:37Z",
-            "owner": "gregversteeg",
-            "repo": "corex_topic",
-            "stars": 644
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ETM",
-          "description": "Embedded Topic Model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-03T22:32:12Z",
-            "owner": "adjidieng",
-            "repo": "ETM",
-            "stars": 559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProdLDA",
-          "description": "Original TensorFlow implementation of Autoencoding Variational Inference (AEVI) for Topic Models :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-19T20:39:53Z",
-            "owner": "akashgit",
-            "repo": "autoencoding_vi_for_topic_models",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LFTM",
-          "description": "Java implementation of latent feature topic models (improving LDA and DMM with word embeddings) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-05-08T05:02:12Z",
-            "owner": "datquocnguyen",
-            "repo": "LFTM",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytorch-ProdLDA",
-          "description": "PyTorch implementation of ProdLDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-14T08:54:03Z",
-            "owner": "hyqneuron",
-            "repo": "pytorch-avitm",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CorEx",
-          "description": "Recover latent factors with Correlation Explanation (CorEx) :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-06T14:48:42Z",
-            "owner": "gregversteeg",
-            "repo": "bio_corex",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "G-LDA",
-          "description": "Java implementation of Gaussian LDA using word embeddings :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-12-31T18:41:59Z",
-            "owner": "rajarshd",
-            "repo": "Gaussian_LDA",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D-ETM",
-          "description": "Dynamic Embedded Topic Model :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-02T23:47:33Z",
-            "owner": "adjidieng",
-            "repo": "DETM",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CatE",
-          "description": "Discriminative Topic Mining via Category-Name Guided Text Embedding :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-01-06T20:07:07Z",
-            "owner": "yumeng5",
-            "repo": "CatE",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linear CorEx",
-          "description": "Latent Factor Models Based on Linear Total CorEx :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-30T17:49:33Z",
-            "owner": "gregversteeg",
-            "repo": "LinearCorex",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MetaLDA",
-          "description": "Java implementation using Gibbs sampling that leverages document metadata and word embeddings :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-02-06T02:45:18Z",
-            "owner": "ethanhezhao",
-            "repo": "MetaLDA",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MG-LDA",
-          "description": "Python implementation of (Multi-lingual) Gaussian LDA :page_facing_up:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-12-28T15:29:20Z",
-            "owner": "EliasKB",
-            "repo": "Multilingual-Gaussian-Latent-Dirichlet-Allocation-MGLDA",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lda2vec",
-          "description": "Mixing dirichlet topic models and word embeddings to make lda2vec :page_facing_up:",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "lda2vec-pytorch",
-          "description": "PyTorch implementation of lda2vec",
-          "children": []
-        }
-      ],
-      "title": "Embedding based Topic Models"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2316,11 +2484,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192904,
             "language": "Python",
             "last_commit": "2026-08-17T23:18:21Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9710
+            "stars": 9714
           }
         },
         {
@@ -2330,11 +2499,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94506832,
             "language": "Python",
             "last_commit": "2026-08-04T04:33:37Z",
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9038
+            "stars": 9039
           }
         },
         {
@@ -2344,11 +2514,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51468412,
             "language": "Jupyter Notebook",
             "last_commit": "2024-03-18T16:23:03Z",
             "owner": "blei-lab",
             "repo": "edward",
-            "stars": 4844
+            "stars": 4843
           }
         },
         {
@@ -2358,6 +2529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108053674,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-06T22:18:55Z",
             "owner": "tensorflow",
@@ -2372,8 +2544,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8043756,
             "language": "C++",
-            "last_commit": "2026-08-16T18:29:34Z",
+            "last_commit": "2026-08-18T11:23:12Z",
             "owner": "stan-dev",
             "repo": "stan",
             "stars": 2760
@@ -2386,11 +2559,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57377821,
             "language": "Julia",
             "last_commit": "2026-08-02T04:34:03Z",
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2248
+            "stars": 2249
           }
         },
         {
@@ -2400,6 +2574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63605558,
             "language": "Python",
             "last_commit": "2022-12-17T20:33:19Z",
             "owner": "thu-ml",
@@ -2414,6 +2589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201102332,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-02T09:44:53Z",
             "owner": "google",
@@ -2425,7 +2601,7 @@
       "title": "Probabilistic Programming Languages (PPL) (a.k.a. Build your own Topic Model)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2434,6 +2610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26031456,
             "language": "Python",
             "last_commit": "2021-05-21T15:20:53Z",
             "owner": "blei-lab",
@@ -2448,6 +2625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7770757,
             "language": "Java",
             "last_commit": "2020-02-09T08:18:46Z",
             "owner": "yangliuy",
@@ -2462,6 +2640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32526452,
             "language": "Shell",
             "last_commit": "2017-12-12T16:47:59Z",
             "owner": "blei-lab",
@@ -2476,6 +2655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24814506,
             "language": "C",
             "last_commit": "2016-06-09T03:40:09Z",
             "owner": "blei-lab",
@@ -2490,6 +2670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33092348,
             "language": "C++",
             "last_commit": "2017-02-21T21:08:34Z",
             "owner": "blei-lab",
@@ -2504,6 +2685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33092228,
             "language": "C++",
             "last_commit": "2015-08-19T10:51:32Z",
             "owner": "blei-lab",
@@ -2518,6 +2700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33092099,
             "language": "Python",
             "last_commit": "2015-03-29T22:28:04Z",
             "owner": "blei-lab",
@@ -2532,6 +2715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24814986,
             "language": "JavaScript",
             "last_commit": "2014-10-05T12:13:39Z",
             "owner": "blei-lab",
@@ -2546,6 +2730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33091723,
             "language": "C++",
             "last_commit": "2022-01-14T16:47:34Z",
             "owner": "blei-lab",
@@ -2560,6 +2745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24815038,
             "language": "Python",
             "last_commit": "2015-06-16T15:56:44Z",
             "owner": "blei-lab",
@@ -2574,6 +2760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24814821,
             "language": "C",
             "last_commit": "2014-10-05T12:09:40Z",
             "owner": "blei-lab",
@@ -2588,6 +2775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2717403,
             "language": "C",
             "last_commit": "2011-11-05T21:39:18Z",
             "owner": "davidandrzej",
@@ -2602,6 +2790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25002795,
             "language": "C",
             "last_commit": "2014-10-09T18:27:42Z",
             "owner": "blei-lab",
@@ -2616,6 +2805,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 345992634,
             "language": "C++",
             "last_commit": "2021-03-09T13:42:37Z",
             "owner": "jonaschn",
@@ -2627,7 +2817,7 @@
       "title": "Research Implementations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2636,6 +2826,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3310974,
             "language": "Java",
             "last_commit": "2015-10-20T23:47:15Z",
             "owner": "lintool",
@@ -2650,6 +2841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17637255,
             "language": "C++",
             "last_commit": "2014-03-20T16:39:59Z",
             "owner": "mrquincle",
@@ -2664,6 +2856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 345992634,
             "language": "C++",
             "last_commit": "2021-03-09T13:42:37Z",
             "owner": "jonaschn",
@@ -2675,7 +2868,7 @@
       "title": "Popular Implementations (but not maintained anymore)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2684,6 +2877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60064788,
             "language": "Python",
             "last_commit": "2016-07-08T05:30:35Z",
             "owner": "laserwave",
@@ -2698,6 +2892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94200036,
             "language": "Python",
             "last_commit": "2017-10-02T10:30:31Z",
             "owner": "Ward-nju",
@@ -2709,7 +2904,7 @@
       "title": "Learning Implementations (hopefully easy to understand)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2718,6 +2913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33696562,
             "language": "Jupyter Notebook",
             "last_commit": "2025-12-04T20:42:58Z",
             "owner": "bmabey",
@@ -2732,6 +2928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17429998,
             "language": "JavaScript",
             "last_commit": "2024-02-06T16:21:59Z",
             "owner": "cpsievert",
@@ -2746,6 +2943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15601934,
             "language": "Python",
             "last_commit": "2023-04-06T15:00:02Z",
             "owner": "uwdata",
@@ -2760,6 +2958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63054187,
             "language": "R",
             "last_commit": "2024-06-27T01:33:09Z",
             "owner": "cschwem2er",
@@ -2774,6 +2973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47996186,
             "language": "Java",
             "last_commit": "2021-03-01T20:42:05Z",
             "owner": "senderle",
@@ -2788,6 +2988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13022194,
             "language": "JavaScript",
             "last_commit": "2022-07-11T14:08:08Z",
             "owner": "agoldst",
@@ -2802,6 +3003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69341969,
             "language": "Python",
             "last_commit": "2020-09-20T15:55:50Z",
             "owner": "DARIAH-DE",
@@ -2816,6 +3018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119561258,
             "language": "TypeScript",
             "last_commit": "2026-03-19T12:04:08Z",
             "owner": "DARIAH-DE",
@@ -2830,6 +3033,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22382316,
             "language": "Python",
             "last_commit": "2015-03-13T11:14:54Z",
             "owner": "ajbc",
@@ -2844,6 +3048,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33731768,
             "language": "JavaScript",
             "last_commit": "2017-07-13T01:11:15Z",
             "owner": "jarmoza",
@@ -2858,6 +3063,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36010367,
             "language": "Python",
             "last_commit": "2015-06-29T12:41:55Z",
             "owner": "ajbc",
@@ -2872,6 +3078,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87464927,
             "language": "R",
             "last_commit": "2025-12-25T12:19:16Z",
             "owner": "wesslen",
@@ -2886,6 +3093,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187819991,
             "language": "Python",
             "last_commit": "2020-05-16T18:40:24Z",
             "owner": "GSukr",
@@ -2900,6 +3108,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95851996,
             "language": "JavaScript",
             "last_commit": "2017-07-05T14:45:23Z",
             "owner": "iaja",
@@ -2911,7 +3120,7 @@
       "title": "Visualizations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2920,11 +3129,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21872392,
             "language": "Python",
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74050
+            "stars": 74068
           }
         },
         {
@@ -2934,11 +3144,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-10T14:39:24Z",
+            "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29837
+            "stars": 29839
           }
         },
         {
@@ -2948,29 +3159,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114992691,
             "language": null,
             "last_commit": "2026-04-13T07:15:05Z",
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3553
+            "stars": 3558
           }
         }
       ],
       "title": "Related awesome lists"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Jonathan Schneider has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:59:40.342Z",
+    "last_updated": "2026-08-19T09:59:51.375Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
