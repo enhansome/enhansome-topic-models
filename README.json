@@ -12,10 +12,10 @@
             "archived": false,
             "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-19T08:23:43Z",
+            "last_commit": "2026-08-19T11:52:09Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66973
+            "stars": 66972
           }
         },
         {
@@ -3134,7 +3134,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74068
+            "stars": 74069
           }
         },
         {
@@ -3172,8 +3172,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:59:51.375Z",
+    "last_updated": "2026-08-19T12:58:16.433Z",
     "original_repository": "jonaschn/awesome-topic-models",
+    "original_repository_id": 343491925,
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
     "enhanced_repository_description": null,

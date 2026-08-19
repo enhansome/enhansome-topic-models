@@ -14,7 +14,7 @@
 
 ## Libraries & Toolkits
 
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 66,973 | 🐛 2,125 | 🌐 Python | 📅 2026-08-19 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 66,972 | 🐛 2,125 | 🌐 Python | 📅 2026-08-19 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
 * [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,478 | 🐛 436 | 🌐 Python | 📅 2025-11-01 - Python library for topic modelling ![GitHub Repo stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim?style=social)
 * [Mallet](https://github.com/mimno/Mallet) ⭐ 1,029 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Java-based package for topic modeling ![GitHub Repo stars](https://img.shields.io/github/stars/mimno/mallet?style=social)
 * [BIDMach](https://github.com/BIDData/BIDMach) ⭐ 920 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated machine learning library ![GitHub Repo stars](https://img.shields.io/github/stars/BIDData/BIDMach?style=social)
@@ -367,7 +367,7 @@ There are huge differences in performance and scalability as well as the support
 
 ## Related awesome lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,068 | 🐛 26 | 🌐 Python | 📅 2026-08-11
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,069 | 🐛 26 | 🌐 Python | 📅 2026-08-11
 * [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,839 | 🐛 8 | 📅 2026-08-18
 * [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,558 | 🐛 16 | 📅 2026-04-13
 
