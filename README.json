@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T08:56:47Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67008
+            "stars": 67023
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16478
+            "stars": 16479
           }
         },
         {
@@ -2253,7 +2253,7 @@
                 "last_commit": "2026-08-22T06:36:06Z",
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7797
+                "stars": 7799
               }
             },
             {
@@ -2489,7 +2489,7 @@
             "last_commit": "2026-08-17T23:18:21Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9718
+            "stars": 9719
           }
         },
         {
@@ -2504,7 +2504,7 @@
             "last_commit": "2026-08-04T04:33:37Z",
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9038
+            "stars": 9037
           }
         },
         {
@@ -2561,10 +2561,10 @@
             "archived": false,
             "id": 57377821,
             "language": "Julia",
-            "last_commit": "2026-08-21T16:34:43Z",
+            "last_commit": "2026-08-23T03:40:07Z",
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2249
+            "stars": 2251
           }
         },
         {
@@ -2918,7 +2918,7 @@
             "last_commit": "2025-12-04T20:42:58Z",
             "owner": "bmabey",
             "repo": "pyLDAvis",
-            "stars": 1852
+            "stars": 1851
           }
         },
         {
@@ -3134,7 +3134,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74111
+            "stars": 74121
           }
         },
         {
@@ -3149,7 +3149,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29850
+            "stars": 29853
           }
         },
         {
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:52:55.202Z",
+    "last_updated": "2026-08-23T09:53:35.722Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_id": 343491925,
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
