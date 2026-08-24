@@ -14,7 +14,7 @@
 
 ## Libraries & Toolkits
 
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,043 | 🐛 2,129 | 🌐 Python | 📅 2026-08-24 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,048 | 🐛 2,128 | 🌐 Python | 📅 2026-08-24 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
 * [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,478 | 🐛 438 | 🌐 Python | 📅 2025-11-01 - Python library for topic modelling ![GitHub Repo stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim?style=social)
 * [Mallet](https://github.com/mimno/Mallet) ⭐ 1,028 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Java-based package for topic modeling ![GitHub Repo stars](https://img.shields.io/github/stars/mimno/mallet?style=social)
 * [BIDMach](https://github.com/BIDData/BIDMach) ⭐ 920 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated machine learning library ![GitHub Repo stars](https://img.shields.io/github/stars/BIDData/BIDMach?style=social)
@@ -45,9 +45,9 @@ There are huge differences in performance and scalability as well as the support
 
 ### Non-Negative Matrix Factorization (NMF or NNMF)
 
+* [BIDMach](https://github.com/BIDData/BIDMach/blob/master/src/main/scala/BIDMach/models/NMF.scala) ⭐ 920 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated Scala implementation with L2 loss
 * [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html) - Python implementation using a [coordinate descent](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.214.6398\&rep=rep1\&type=pdf) or a [multiplicative update](https://arxiv.org/pdf/1010.1763.pdf) solver
 * [gensim](https://radimrehurek.com/gensim/models/nmf.html) - Python implementation of [online NMF](https://arxiv.org/pdf/1604.02634.pdf)
-* [BIDMach](https://github.com/BIDData/BIDMach/blob/master/src/main/scala/BIDMach/models/NMF.scala) ⭐ 920 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated Scala implementation with L2 loss
 
 ### Latent Dirichlet Allocation (LDA) [:page\_facing\_up:](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
@@ -293,7 +293,7 @@ There are huge differences in performance and scalability as well as the support
 * [pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,037 | 🐛 284 | 🌐 Python | 📅 2026-08-04 - PPL built on PyTorch, e.g., [prodLDA](http://pyro.ai/examples/prodlda.html) [:page\_facing\_up:](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
 * [edward](https://github.com/blei-lab/edward) ⭐ 4,843 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18 - A PPL built on TensorFlow, e.g., [LDA](http://edwardlib.org/iclr2017?Figure%2011.%20Latent%20Dirichlet%20allocation) [:page\_facing\_up:](https://arxiv.org/pdf/1610.09787.pdf)
 * [TFP](https://github.com/tensorflow/probability) ⭐ 4,427 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06 - Probabilistic reasoning and statistical analysis in TensorFlow, e.g., [LDA](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/latent_dirichlet_allocation_distributions.py) ⭐ 4,427 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06 [:page\_facing\_up:](https://arxiv.org/pdf/2001.11819.pdf)
-* [Stan](https://github.com/stan-dev/stan) ⭐ 2,761 | 🐛 153 | 🌐 C++ | 📅 2026-08-18 - Platform for statistical modeling and high-performance statistical computation, e.g., [LDA](https://mc-stan.org/docs/2_26/stan-users-guide/latent-dirichlet-allocation.html) [:page\_facing\_up:](https://files.eric.ed.gov/fulltext/ED590311.pdf)
+* [Stan](https://github.com/stan-dev/stan) ⭐ 2,761 | 🐛 153 | 🌐 C++ | 📅 2026-08-24 - Platform for statistical modeling and high-performance statistical computation, e.g., [LDA](https://mc-stan.org/docs/2_26/stan-users-guide/latent-dirichlet-allocation.html) [:page\_facing\_up:](https://files.eric.ed.gov/fulltext/ED590311.pdf)
 * [Turing.jl](https://github.com/TuringLang/Turing.jl) ⭐ 2,251 | 🐛 27 | 🌐 Julia | 📅 2026-08-23 -  Julia library for general-purpose probabilistic programming [:page\_facing\_up:](http://proceedings.mlr.press/v84/ge18b/ge18b.pdf)
 * [ZhuSuan](https://github.com/thu-ml/zhusuan) ⭐ 2,219 | 🐛 13 | 🌐 Python | 📅 2022-12-17 - A PPL for Bayesian deep learning, generative models, built on Tensorflow, e.g., [LDA](https://zhusuan.readthedocs.io/en/latest/tutorials/lntm.html) [:page\_facing\_up:](https://arxiv.org/pdf/1709.05870.pdf)
 * [edward2](https://github.com/google/edward2) ⭐ 712 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-07-02 - Simple PPL with core utilities in the NumPy and TensorFlow ecosystem [:page\_facing\_up:](https://arxiv.org/pdf/1811.02091.pdf)
@@ -367,8 +367,8 @@ There are huge differences in performance and scalability as well as the support
 
 ## Related awesome lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,138 | 🐛 26 | 🌐 Python | 📅 2026-08-21
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,858 | 🐛 8 | 📅 2026-08-22
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,142 | 🐛 26 | 🌐 Python | 📅 2026-08-21
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,859 | 🐛 8 | 📅 2026-08-22
 * [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,567 | 🐛 16 | 📅 2026-04-13
 
 ## Contribute

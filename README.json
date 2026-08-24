@@ -12,10 +12,10 @@
             "archived": false,
             "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-24T06:50:23Z",
+            "last_commit": "2026-08-24T12:19:11Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67043
+            "stars": 67048
           }
         },
         {
@@ -300,6 +300,28 @@
           "description": null,
           "node_type": "group",
           "title": "Truncated Singular Value Decomposition (SVD) / Latent Semantic Analysis (LSA) / Latent Semantic Indexing (LSI)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BIDMach",
+              "description": "CPU and GPU-accelerated Scala implementation with L2 loss",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6328806,
+                "language": "Scala",
+                "last_commit": "2022-10-04T23:35:03Z",
+                "owner": "BIDData",
+                "repo": "BIDMach",
+                "stars": 920
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Non-Negative Matrix Factorization (NMF or NNMF)"
         },
         {
           "children": [
@@ -1349,6 +1371,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "tomotopy",
+              "description": "Python extension for C++ implementation using Gibbs sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186155463,
+                "language": "C++",
+                "last_commit": "2026-02-21T05:18:23Z",
+                "owner": "bab2min",
+                "repo": "tomotopy",
+                "stars": 598
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generalized Dirichlet Multinomial Regression (g-DMR) topic model :page_facing_up:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PTM",
               "description": "implemented as benchmark :page_facing_up:",
               "children": [],
@@ -1673,6 +1717,28 @@
               "description": null,
               "node_type": "group",
               "title": "Dirichlet Multinomial Mixture Model (DMM) :page_facing_up:"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TopicModel4J",
+                  "description": "Java implementation using collapsed Gibbs sampling :page_facing_up:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190860520,
+                    "language": "Java",
+                    "last_commit": "2023-02-04T08:50:25Z",
+                    "owner": "soberqian",
+                    "repo": "TopicModel4J",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dirichlet Process Multinomial Mixture Model (DPMM)"
             },
             {
               "children": [
@@ -2546,7 +2612,7 @@
             "archived": false,
             "id": 8043756,
             "language": "C++",
-            "last_commit": "2026-08-18T11:23:12Z",
+            "last_commit": "2026-08-24T14:16:38Z",
             "owner": "stan-dev",
             "repo": "stan",
             "stars": 2761
@@ -3134,7 +3200,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74138
+            "stars": 74142
           }
         },
         {
@@ -3149,7 +3215,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29858
+            "stars": 29859
           }
         },
         {
@@ -3172,7 +3238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:12:15.309Z",
+    "last_updated": "2026-08-24T14:42:20.469Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_id": 343491925,
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
