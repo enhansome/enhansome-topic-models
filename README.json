@@ -12,10 +12,10 @@
             "archived": false,
             "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-21T08:56:47Z",
+            "last_commit": "2026-08-24T06:50:23Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67023
+            "stars": 67043
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16479
+            "stars": 16478
           }
         },
         {
@@ -315,7 +315,7 @@
                 "last_commit": "2023-11-01T06:14:06Z",
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11160
+                "stars": 11159
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2026-08-18T14:36:07Z",
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8705
+                "stars": 8706
               }
             },
             {
@@ -2489,7 +2489,7 @@
             "last_commit": "2026-08-17T23:18:21Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9719
+            "stars": 9721
           }
         },
         {
@@ -3134,7 +3134,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74121
+            "stars": 74138
           }
         },
         {
@@ -3149,7 +3149,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29853
+            "stars": 29858
           }
         },
         {
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:53:35.722Z",
+    "last_updated": "2026-08-24T10:12:15.309Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_id": 343491925,
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
