@@ -12,10 +12,10 @@
             "archived": false,
             "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-24T15:38:18Z",
+            "last_commit": "2026-08-25T07:46:22Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67058
+            "stars": 67059
           }
         },
         {
@@ -349,7 +349,7 @@
                 "archived": false,
                 "id": 265995,
                 "language": "C++",
-                "last_commit": "2026-08-18T14:36:07Z",
+                "last_commit": "2026-08-25T09:30:36Z",
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
                 "stars": 8706
@@ -2555,7 +2555,7 @@
             "last_commit": "2026-08-24T17:30:00Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9721
+            "stars": 9722
           }
         },
         {
@@ -3200,7 +3200,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74149
           }
         },
         {
@@ -3215,7 +3215,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29859
+            "stars": 29860
           }
         },
         {
@@ -3238,7 +3238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:18.703Z",
+    "last_updated": "2026-08-25T10:02:52.105Z",
     "original_repository": "jonaschn/awesome-topic-models",
     "original_repository_id": 343491925,
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
