@@ -12,10 +12,10 @@
             "archived": false,
             "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-26T08:48:13Z",
+            "last_commit": "2026-08-26T13:46:35Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67064
+            "stars": 67072
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-01T12:01:39Z",
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16480
+            "stars": 16481
           }
         },
         {
@@ -337,7 +337,7 @@
                 "last_commit": "2023-11-01T06:14:06Z",
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11159
+                "stars": 11158
               }
             },
             {
@@ -349,7 +349,7 @@
                 "archived": false,
                 "id": 265995,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:30:36Z",
+                "last_commit": "2026-08-26T18:58:34Z",
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
                 "stars": 8706
@@ -1855,7 +1855,7 @@
                     "archived": false,
                     "id": 70118622,
                     "language": "Python",
-                    "last_commit": "2026-08-22T03:21:50Z",
+                    "last_commit": "2026-08-26T16:41:40Z",
                     "owner": "stephenhky",
                     "repo": "PyShortTextCategorization",
                     "stars": 472
@@ -2319,7 +2319,7 @@
                 "last_commit": "2026-08-22T06:36:06Z",
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7803
+                "stars": 7805
               }
             },
             {
@@ -2567,10 +2567,10 @@
             "archived": false,
             "id": 94506832,
             "language": "Python",
-            "last_commit": "2026-08-04T04:33:37Z",
+            "last_commit": "2026-08-27T10:37:02Z",
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9037
+            "stars": 9042
           }
         },
         {
@@ -2600,7 +2600,7 @@
             "last_commit": "2026-08-06T22:18:55Z",
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4427
+            "stars": 4428
           }
         },
         {
@@ -2612,7 +2612,7 @@
             "archived": false,
             "id": 8043756,
             "language": "C++",
-            "last_commit": "2026-08-26T07:16:50Z",
+            "last_commit": "2026-08-26T23:10:02Z",
             "owner": "stan-dev",
             "repo": "stan",
             "stars": 2761
@@ -2627,7 +2627,7 @@
             "archived": false,
             "id": 57377821,
             "language": "Julia",
-            "last_commit": "2026-08-24T22:11:58Z",
+            "last_commit": "2026-08-27T10:54:31Z",
             "owner": "TuringLang",
             "repo": "Turing.jl",
             "stars": 2251
@@ -2645,7 +2645,7 @@
             "last_commit": "2022-12-17T20:33:19Z",
             "owner": "thu-ml",
             "repo": "zhusuan",
-            "stars": 2219
+            "stars": 2218
           }
         },
         {
@@ -2984,7 +2984,7 @@
             "last_commit": "2025-12-04T20:42:58Z",
             "owner": "bmabey",
             "repo": "pyLDAvis",
-            "stars": 1851
+            "stars": 1850
           }
         },
         {
@@ -3197,10 +3197,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-24T19:57:48Z",
+            "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74162
+            "stars": 74177
           }
         },
         {
@@ -3212,10 +3212,10 @@
             "archived": false,
             "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-26T08:50:05Z",
+            "last_commit": "2026-08-26T17:06:22Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29870
+            "stars": 29876
           }
         },
         {
@@ -3230,7 +3230,7 @@
             "last_commit": "2026-04-13T07:15:05Z",
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3568
+            "stars": 3570
           }
         }
       ],
@@ -3238,9 +3238,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:07:07.622Z",
-    "original_repository": "jonaschn/awesome-topic-models",
-    "original_repository_id": 343491925,
+    "last_updated": "2026-08-27T12:06:53.827Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 343491925,
+      "language": null,
+      "last_commit": "2022-07-11T15:39:35Z",
+      "owner": "jonaschn",
+      "repo": "awesome-topic-models",
+      "stars": 104
+    },
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
     "enhanced_repository_description": null,
