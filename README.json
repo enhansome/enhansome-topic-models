@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scikit-learn: machine learning in Python",
+            "homepage": "https://scikit-learn.org",
             "id": 843222,
             "language": "Python",
-            "last_commit": "2026-08-28T12:28:02Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:28:28Z",
+            "open_issues": 2133,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67087
+            "stars": 67091,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -26,12 +37,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Topic Modelling for Humans",
+            "homepage": "https://radimrehurek.com/gensim",
             "id": 1349775,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2025-11-01T12:01:39Z",
+            "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16481
+            "stars": 16481,
+            "topics": [
+              "data-mining",
+              "data-science",
+              "document-similarity",
+              "fasttext",
+              "gensim",
+              "information-retrieval",
+              "machine-learning",
+              "natural-language-processing",
+              "neural-network",
+              "nlp",
+              "python",
+              "topic-modeling",
+              "word-embeddings",
+              "word-similarity",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -42,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+            "homepage": "https://mimno.github.io/Mallet/",
             "id": 18378040,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T20:21:57Z",
+            "open_issues": 118,
             "owner": "mimno",
             "repo": "Mallet",
-            "stars": 1028
+            "stars": 1028,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -58,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CPU and GPU-accelerated Machine Learning Library",
+            "homepage": null,
             "id": 6328806,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-04T23:35:03Z",
+            "open_issues": 67,
             "owner": "BIDData",
             "repo": "BIDMach",
-            "stars": 920
+            "stars": 920,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -74,12 +116,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track)",
+            "homepage": null,
             "id": 247033379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-21T17:02:38Z",
+            "open_issues": 47,
             "owner": "MIND-Lab",
             "repo": "OCTIS",
-            "stars": 804
+            "stars": 804,
+            "topics": [
+              "bayesian-optimization",
+              "evaluation-metrics",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "latent-dirichlet-allocation",
+              "latent-semantic-analysis",
+              "natural-language-processing",
+              "neural-topic-models",
+              "nlp",
+              "nlp-library",
+              "nlproc",
+              "non-negative-matrix-factorization",
+              "topic-modeling",
+              "topic-models"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -90,12 +153,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast topic modeling platform",
+            "homepage": "http://bigartm.org/",
             "id": 24072579,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-05T15:52:09Z",
+            "open_issues": 136,
             "owner": "bigartm",
             "repo": "bigartm",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "bigartm",
+              "bigdata",
+              "c-plus-plus",
+              "machine-learning",
+              "python",
+              "python-api",
+              "regularizer",
+              "text-mining",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -106,12 +184,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package of Tomoto, the Topic Modeling Tool ",
+            "homepage": "https://bab2min.github.io/tomotopy",
             "id": 186155463,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-02-21T05:18:23Z",
+            "open_issues": 61,
             "owner": "bab2min",
             "repo": "tomotopy",
-            "stars": 598
+            "stars": 598,
+            "topics": [
+              "correlated-topic-model",
+              "dirichlet-multinomial-regression",
+              "hierarchical-dirichlet-processes",
+              "latent-dirichlet-allocation",
+              "nlp",
+              "pachinko-allocation",
+              "python-library",
+              "supervised-lda",
+              "topic-modeling",
+              "topic-models"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -122,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An R Package for the Structural Topic Model",
+            "homepage": null,
             "id": 16525826,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-14T15:52:16Z",
+            "open_issues": 117,
             "owner": "bstewart",
             "repo": "stm",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -138,12 +237,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Text Mining and Topic Modeling Toolkit for Python with parallel processing power",
+            "homepage": "https://tmtoolkit.readthedocs.io/",
             "id": 109812180,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-03T09:35:04Z",
+            "open_issues": 0,
             "owner": "WZBSocialScienceCenter",
             "repo": "tmtoolkit",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "evaluation",
+              "nlp",
+              "parallel-processing",
+              "python",
+              "socialscience",
+              "text-processing",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -154,12 +266,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interface for easier topic modelling.",
+            "homepage": "https://machine-intelligence-laboratory.github.io/TopicNet",
             "id": 206595209,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-29T08:54:27Z",
+            "open_issues": 30,
             "owner": "machine-intelligence-laboratory",
             "repo": "TopicNet",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "bigartm-library",
+              "custom-score",
+              "document-representation",
+              "modalities",
+              "multimodal-data",
+              "multimodal-learning",
+              "pypi",
+              "topic-modeling",
+              "topic-modelling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -170,12 +297,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance topic modeling for Ruby",
+            "homepage": null,
             "id": 302761833,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-04-09T06:53:02Z",
+            "open_issues": 2,
             "owner": "ankane",
             "repo": "tomoto-ruby",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "latent-dirichlet-allocation",
+              "lda",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -186,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package wrapping Mallet",
+            "homepage": null,
             "id": 19386227,
             "language": "R",
+            "license": null,
             "last_commit": "2022-07-21T05:41:31Z",
+            "open_issues": 4,
             "owner": "mimno",
             "repo": "RMallet",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -202,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+            "homepage": null,
             "id": 190860520,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2023-02-04T08:50:25Z",
+            "open_issues": 5,
             "owner": "soberqian",
             "repo": "TopicModel4J",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -218,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible variational inference LDA library.",
+            "homepage": null,
             "id": 52209660,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-03-15T16:03:29Z",
+            "open_issues": 4,
             "owner": "angeloskath",
             "repo": "supervised-lda",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -234,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latent Dirichlet allocation package for R",
+            "homepage": null,
             "id": 6820066,
             "language": "C",
+            "license": null,
             "last_commit": "2018-07-26T04:45:27Z",
+            "open_issues": 1,
             "owner": "slycoder",
             "repo": "R-lda",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -250,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  topicmodels — Topic Models  ",
+            "homepage": null,
             "id": 17700549,
             "language": "C",
+            "license": null,
             "last_commit": "2024-08-15T02:42:13Z",
+            "open_issues": 0,
             "owner": "cran",
             "repo": "topicmodels",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -274,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CPU and GPU-accelerated Machine Learning Library",
+                "homepage": null,
                 "id": 6328806,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-10-04T23:35:03Z",
+                "open_issues": 67,
                 "owner": "BIDData",
                 "repo": "BIDMach",
-                "stars": 920
+                "stars": 920,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -290,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python wrapper around SVDLIBC, a fast library for sparse Singular Value Decomposition",
+                "homepage": null,
                 "id": 2722743,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-08-16T13:33:53Z",
+                "open_issues": 4,
                 "owner": "piskvorky",
                 "repo": "sparsesvd",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -306,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fork of Doug Rohde's SVD C Library.",
+                "homepage": "http://tedlab.mit.edu/~dr/SVDLIBC/",
                 "id": 3855141,
                 "language": "C",
+                "license": null,
                 "last_commit": "2015-09-01T13:47:20Z",
+                "open_issues": 3,
                 "owner": "lucasmaystre",
                 "repo": "svdlibc",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -329,12 +505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CPU and GPU-accelerated Machine Learning Library",
+                "homepage": null,
                 "id": 6328806,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-10-04T23:35:03Z",
+                "open_issues": 67,
                 "owner": "BIDData",
                 "repo": "BIDMach",
-                "stars": 920
+                "stars": 920,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -352,12 +533,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Turi Create simplifies the development of custom machine learning models.",
+                "homepage": null,
                 "id": 112676803,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-01T06:14:06Z",
+                "open_issues": 522,
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11158
+                "stars": 11158,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -368,12 +558,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ",
+                "homepage": "https://vowpalwabbit.org",
                 "id": 265995,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T18:58:34Z",
+                "open_issues": 2,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8706
+                "stars": 8706,
+                "topics": [
+                  "active-learning",
+                  "c-plus-plus",
+                  "contextual-bandits",
+                  "cpp",
+                  "learning-to-search",
+                  "machine-learning",
+                  "online-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -384,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic modeling with latent Dirichlet allocation using Gibbs sampling",
+                "homepage": "https://lda.readthedocs.io/",
                 "id": 23808489,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2024-07-29T19:05:40Z",
+                "open_issues": 0,
                 "owner": "lda-project",
                 "repo": "lda",
-                "stars": 1314
+                "stars": 1314,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -400,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                "homepage": "https://mimno.github.io/Mallet/",
                 "id": 18378040,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T20:21:57Z",
+                "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -416,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                "homepage": "https://mimno.github.io/Mallet/",
                 "id": 18378040,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T20:21:57Z",
+                "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -432,12 +651,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Modern C++ Data Sciences Toolkit",
+                "homepage": "https://meta-toolkit.org",
                 "id": 16466317,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-04-17T08:37:52Z",
+                "open_issues": 56,
                 "owner": "meta-toolkit",
                 "repo": "meta",
-                "stars": 715
+                "stars": 715,
+                "topics": [
+                  "c-plus-plus",
+                  "graph-algorithms",
+                  "inverted-index",
+                  "language-modeling",
+                  "nlp",
+                  "nlp-parsing",
+                  "pos-tag",
+                  "search-engine",
+                  "text-analysis",
+                  "text-analytics",
+                  "text-classification",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -448,12 +685,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -464,12 +717,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDA topic modeling for node.js",
+                "homepage": null,
                 "id": 20229044,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-20T21:54:11Z",
+                "open_issues": 2,
                 "owner": "primaryobjects",
                 "repo": "lda",
-                "stars": 294
+                "stars": 294,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "javascript",
+                  "keywords",
+                  "language",
+                  "lda",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "node",
+                  "node-js",
+                  "nodejs",
+                  "topic-modeling",
+                  "topics"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -480,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of latent Dirichlet allocation in javascript",
+                "homepage": null,
                 "id": 9625263,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-01T21:36:08Z",
+                "open_issues": 5,
                 "owner": "mimno",
                 "repo": "jsLDA",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -496,12 +774,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PureScript, browser-based implementation of LDA topic modeling.",
+                "homepage": "https://lettier.com/lda-topic-modeling",
                 "id": 120061225,
                 "language": "PureScript",
+                "license": null,
                 "last_commit": "2018-03-02T04:20:10Z",
+                "open_issues": 2,
                 "owner": "lettier",
                 "repo": "lda-topic-modeling",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "bayesian",
+                  "bulma",
+                  "bulma-css",
+                  "clustering",
+                  "data-science",
+                  "functional-programming",
+                  "gibbs-sampling",
+                  "latent-dirichlet-allocation",
+                  "lda",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-machine-learning",
+                  "purescript",
+                  "reactive",
+                  "reactive-programming",
+                  "text-mining",
+                  "thermite",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -512,12 +816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModels for Julia",
+                "homepage": null,
                 "id": 8829383,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2020-05-31T01:53:24Z",
+                "open_issues": 0,
                 "owner": "slycoder",
                 "repo": "TopicModels.jl",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -528,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -544,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -560,12 +879,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of various fast parallelized samplers for LDA, including Partially Collapsed LDA, Light LDA, Partially Collapsed Light LDA and a very efficient Polya-Urn LDA",
+                "homepage": null,
                 "id": 34328215,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-06-30T05:20:33Z",
+                "open_issues": 10,
                 "owner": "lejon",
                 "repo": "PartiallyCollapsedLDA",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "lda",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machinelearning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -576,12 +905,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A research package for topic modeling",
+                "homepage": "http://puzatech.github.io/Fugue/",
                 "id": 52705186,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-29T05:59:06Z",
+                "open_issues": 3,
                 "owner": "PuzaTech",
                 "repo": "Fugue",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "latent-dirichlet-allocation",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -592,12 +930,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python library for topic modeling.",
+                "homepage": "https://test-dslab.readthedocs.io/en/latest/",
                 "id": 81194120,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-24T12:05:36Z",
+                "open_issues": 0,
                 "owner": "hncuong",
                 "repo": "topicmodel-lib",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "latent-dirichlet-allocation",
+                  "machine-learning",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -610,12 +957,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LDA models parameters tuning",
+                    "homepage": null,
                     "id": 41086459,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-05-31T13:30:44Z",
+                    "open_issues": 10,
                     "owner": "nikita-moor",
                     "repo": "ldatuning",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -626,12 +978,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LDADE implementation",
+                    "homepage": "https://www.sciencedirect.com/science/article/pii/S0950584917300861",
                     "id": 137369978,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-22T18:06:50Z",
+                    "open_issues": 1,
                     "owner": "amritbhanu",
                     "repo": "LDADE-package",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "differential-evolution",
+                      "hyperparameter-optimization",
+                      "hyperparameter-tuning",
+                      "lda",
+                      "optimization",
+                      "topic-modeling",
+                      "tuning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -642,12 +1007,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A few scripts to configure LDA using meta-heuristics in R",
+                    "homepage": null,
                     "id": 193860600,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2020-09-06T14:40:04Z",
+                    "open_issues": 0,
                     "owner": "apanichella",
                     "repo": "Search-Based-LDA",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -658,12 +1028,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 245725036,
                     "language": "Scilab",
+                    "license": null,
                     "last_commit": "2020-12-24T20:24:11Z",
+                    "open_issues": 0,
                     "owner": "amritbhanu",
                     "repo": "Dodge",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -674,12 +1049,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Latent Dirichlet Allocation (LDA) implementation using Genetic Algorightms (GA) for hyper-paramenter optimization, based on Panichella (2019) implementation.",
+                    "homepage": null,
                     "id": 247081313,
                     "language": "R",
+                    "license": "MIT",
                     "last_commit": "2020-03-13T13:57:16Z",
+                    "open_issues": 0,
                     "owner": "GESAD-MSR",
                     "repo": "GA-LDA",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -697,12 +1077,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Computation of the semantic interpretability of topics produced by topic models.",
+                    "homepage": null,
                     "id": 10329313,
                     "language": "Roff",
+                    "license": null,
                     "last_commit": "2017-04-19T05:52:46Z",
+                    "open_issues": 1,
                     "owner": "jhlau",
                     "repo": "topic_interpretability",
-                    "stars": 180
+                    "stars": 180,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -713,12 +1098,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of topic diversity measures for topic modeling",
+                    "homepage": null,
                     "id": 293612442,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-08-03T13:41:40Z",
+                    "open_issues": 0,
                     "owner": "silviatti",
                     "repo": "topic-model-diversity",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "evaluation-metrics",
+                      "gensim",
+                      "latent-dirichlet-allocation",
+                      "lda",
+                      "topic-diversity",
+                      "topic-diversity-measures",
+                      "topic-model",
+                      "topic-modeling",
+                      "topic-modeling-analysis",
+                      "topic-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -729,12 +1130,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to compute topic coherence for several topic cardinalities and aggregate scores across them",
+                    "homepage": null,
                     "id": 54936633,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-10T04:34:50Z",
+                    "open_issues": 0,
                     "owner": "jhlau",
                     "repo": "topic-coherence-sensitivity",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -752,12 +1158,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Flexible and Powerful Parameter Server for large-scale machine learning",
+                    "homepage": null,
                     "id": 89322848,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-26T06:10:31Z",
+                    "open_issues": 139,
                     "owner": "Angel-ML",
                     "repo": "angel",
-                    "stars": 6787
+                    "stars": 6787,
+                    "topics": [
+                      "high-dimensional",
+                      "machine-learning",
+                      "model",
+                      "online-learning",
+                      "parameter-server",
+                      "scala",
+                      "spark",
+                      "spark-streaming"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -768,12 +1188,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Toolkit for Industrial Topic Modeling",
+                    "homepage": null,
                     "id": 94299010,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-07-01T08:28:33Z",
+                    "open_issues": 28,
                     "owner": "baidu",
                     "repo": "Familia",
-                    "stars": 2644
+                    "stars": 2644,
+                    "topics": [
+                      "lda",
+                      "nlp",
+                      "sentence-lda",
+                      "topic-modeling",
+                      "topic-models",
+                      "twe"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -784,12 +1216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                    "homepage": "https://mimno.github.io/Mallet/",
                     "id": 18378040,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-04T20:21:57Z",
+                    "open_issues": 118,
                     "owner": "mimno",
                     "repo": "Mallet",
-                    "stars": 1028
+                    "stars": 1028,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -800,12 +1237,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Scalable, fast, and lightweight system for large-scale topic modeling",
+                    "homepage": "http://www.dmtk.io",
                     "id": 42283396,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2020-12-28T12:12:12Z",
+                    "open_issues": 45,
                     "owner": "microsoft",
                     "repo": "LightLDA",
-                    "stars": 845
+                    "stars": 845,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -816,12 +1258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yahoo!'s topic modelling framework using Latent Dirichlet Allocation",
+                    "homepage": null,
                     "id": 1798154,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2011-09-21T06:33:05Z",
+                    "open_issues": 12,
                     "owner": "sudar",
                     "repo": "Yahoo_LDA",
-                    "stars": 337
+                    "stars": 337,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -832,12 +1279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cache efficient implementation for Latent Dirichlet Allocation",
+                    "homepage": null,
                     "id": 60055640,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2019-01-04T06:53:47Z",
+                    "open_issues": 4,
                     "owner": "thu-ml",
                     "repo": "warplda",
-                    "stars": 164
+                    "stars": 164,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -848,12 +1300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 35777509,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-06-23T02:02:42Z",
+                    "open_issues": 2,
                     "owner": "dmlc",
                     "repo": "experimental-lda",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -864,12 +1321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PLDA: Parallel Latent Dirichlet Allocation in C++",
+                    "homepage": "http://openbigdatagroup.github.io/plda",
                     "id": 50763945,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-14T09:40:37Z",
+                    "open_issues": 13,
                     "owner": "openbigdatagroup",
                     "repo": "plda",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -880,12 +1342,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 121050851,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2019-04-23T04:50:40Z",
+                    "open_issues": 1,
                     "owner": "Arnie0426",
                     "repo": "FastLDA",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -896,12 +1363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 55411422,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2016-04-20T10:21:43Z",
+                    "open_issues": 0,
                     "owner": "polymorpher",
                     "repo": "aliaslda",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -919,12 +1391,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CPU and GPU-accelerated Machine Learning Library",
+                    "homepage": null,
                     "id": 6328806,
                     "language": "Scala",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-10-04T23:35:03Z",
+                    "open_issues": 67,
                     "owner": "BIDData",
                     "repo": "BIDMach",
-                    "stars": 920
+                    "stars": 920,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -935,12 +1412,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CPU and GPU-accelerated Machine Learning Library",
+                    "homepage": null,
                     "id": 6328806,
                     "language": "Scala",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-10-04T23:35:03Z",
+                    "open_issues": 67,
                     "owner": "BIDData",
                     "repo": "BIDMach",
-                    "stars": 920
+                    "stars": 920,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -963,12 +1445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                "homepage": "https://mimno.github.io/Mallet/",
                 "id": 18378040,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T20:21:57Z",
+                "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -979,12 +1466,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -995,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic modelling software using non-parametric methods",
+                "homepage": null,
                 "id": 19442637,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2016-08-16T00:10:26Z",
+                "open_issues": 3,
                 "owner": "wbuntine",
                 "repo": "topic-models",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1011,12 +1519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1027,12 +1540,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian nonparametric models for python",
+                "homepage": null,
                 "id": 83863958,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-09-11T14:39:53Z",
+                "open_issues": 1,
                 "owner": "chyikwei",
                 "repo": "bnp",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bayesian",
+                  "data-analysis",
+                  "probabilistic-graphical-models",
+                  "python",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1050,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                "homepage": "https://mimno.github.io/Mallet/",
                 "id": 18378040,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T20:21:57Z",
+                "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1066,12 +1595,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1082,12 +1627,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gibbs sampler for the Hierarchical Latent Dirichlet Allocation topic model",
+                "homepage": null,
                 "id": 69615317,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-11T17:24:20Z",
+                "open_issues": 19,
                 "owner": "joewandy",
                 "repo": "hlda",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "gibbs-sampler",
+                  "hierarchical-topic-models",
+                  "lda",
+                  "topic-hierarchies",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1098,12 +1654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This implements hierarchical latent Dirichlet allocation, a topic model that finds a hierarchy of topics. The structure of the hierarchy is determined by the data.",
+                "homepage": null,
                 "id": 24814986,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-10-05T12:13:39Z",
+                "open_issues": 0,
                 "owner": "blei-lab",
                 "repo": "hlda",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1121,12 +1682,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1137,12 +1714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 210378070,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-02-02T23:47:33Z",
+                "open_issues": 13,
                 "owner": "adjidieng",
                 "repo": "DETM",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1153,12 +1735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic modelling software using non-parametric methods",
+                "homepage": null,
                 "id": 19442637,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2016-08-16T00:10:26Z",
+                "open_issues": 3,
                 "owner": "wbuntine",
                 "repo": "topic-models",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1169,12 +1756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Big Topic Model is a fast engine for running large-scale Topic Models. ",
+                "homepage": null,
                 "id": 65353206,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-03-25T05:50:09Z",
+                "open_issues": 7,
                 "owner": "thu-ml",
                 "repo": "BigTopicModel",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1185,12 +1777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for MCMC based Dynamic Topic Model",
+                "homepage": null,
                 "id": 79177073,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-09-02T06:07:57Z",
+                "open_issues": 2,
                 "owner": "Arnie0426",
                 "repo": "FastDTM",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1208,12 +1805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1224,12 +1826,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "by Prof. Mark Steyvers https://steyvers.socsci.uci.edu/data-and-code",
+                "homepage": null,
                 "id": 345992634,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-09T13:42:37Z",
+                "open_issues": 0,
                 "owner": "jonaschn",
                 "repo": "Matlab-Topic-Modeling-Toolbox",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "author-topic-model",
+                  "hmm-lda",
+                  "latent-dirichlet-allocation",
+                  "matlab",
+                  "matlab-toolbox",
+                  "matlab-topic-modelling-toolbox",
+                  "toolbox",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1240,12 +1856,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 94200036,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-10-02T10:30:31Z",
+                "open_issues": 1,
                 "owner": "Ward-nju",
                 "repo": "Topic-Model",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "machine-learning",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1263,12 +1887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                "homepage": "https://mimno.github.io/Mallet/",
                 "id": 18378040,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T20:21:57Z",
+                "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1279,12 +1908,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1295,12 +1940,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Implement of L-LDA Model(Labeled Latent Dirichlet Allocation Model) with python",
+                "homepage": null,
                 "id": 155560554,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-22T05:22:25Z",
+                "open_issues": 3,
                 "owner": "JoeZJH",
                 "repo": "Labeled-LDA-Python",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "gibbs-sampling",
+                  "incremental-update",
+                  "l-lda",
+                  "labeled-lda",
+                  "llda",
+                  "llda-model",
+                  "python",
+                  "python2",
+                  "python27",
+                  "python3",
+                  "topic-model",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1311,12 +1974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Labeled LDA in Java (based on JGibbLDA)",
+                "homepage": null,
                 "id": 7485705,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2016-07-18T16:39:36Z",
+                "open_issues": 2,
                 "owner": "myleott",
                 "repo": "JGibbLabeledLDA",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1327,12 +1995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1343,12 +2016,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python 3 wrapper around the Stanford Topic Modeling Toolbox. Intended to be used for hassle-free supervised topic classification with Labeled Latent Dirichlet Allocation (L-LDA, LLDA, sLDA).",
+                "homepage": "https://cmry.github.io/notes/topbox",
                 "id": 328639472,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2021-01-20T10:08:18Z",
+                "open_issues": 0,
                 "owner": "jonaschn",
                 "repo": "topbox",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "labeled-lda",
+                  "nlp",
+                  "stanford-nlp",
+                  "stanford-tmt",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1359,12 +2043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic Modelling for Humans",
+                "homepage": null,
                 "id": 283219583,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2021-05-13T17:49:44Z",
+                "open_issues": 0,
                 "owner": "jonaschn",
                 "repo": "gensim",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1382,12 +2071,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1398,12 +2103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1421,12 +2131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.",
+                "homepage": "https://mimno.github.io/Mallet/",
                 "id": 18378040,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T20:21:57Z",
+                "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1437,12 +2152,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1460,12 +2191,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1483,12 +2230,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Topic Modeling Approach for Traditional Chinese Medicine Prescriptions. TKDE 2018",
+                "homepage": null,
                 "id": 50910742,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-11-30T16:54:56Z",
+                "open_issues": 2,
                 "owner": "yao8839836",
                 "repo": "PTM",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "herbs",
+                  "knowledge",
+                  "prescriptions",
+                  "symptoms",
+                  "topic-modeling",
+                  "traditional-chinese-medicine"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1499,12 +2258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1522,12 +2286,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1538,12 +2318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R Package for the Structural Topic Model",
+                "homepage": null,
                 "id": 16525826,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-14T15:52:16Z",
+                "open_issues": 117,
                 "owner": "bstewart",
                 "repo": "stm",
-                "stars": 420
+                "stars": 420,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1554,12 +2339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Big Topic Model is a fast engine for running large-scale Topic Models. ",
+                "homepage": null,
                 "id": 65353206,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-03-25T05:50:09Z",
+                "open_issues": 7,
                 "owner": "thu-ml",
                 "repo": "BigTopicModel",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1570,12 +2360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This implements variational inference for the correlated topic model. ",
+                "homepage": null,
                 "id": 24814821,
                 "language": "C",
+                "license": null,
                 "last_commit": "2014-10-05T12:09:40Z",
+                "open_issues": 0,
                 "owner": "blei-lab",
                 "repo": "ctm-c",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1593,12 +2388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Big Topic Model is a fast engine for running large-scale Topic Models. ",
+                "homepage": null,
                 "id": 65353206,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-03-25T05:50:09Z",
+                "open_issues": 7,
                 "owner": "thu-ml",
                 "repo": "BigTopicModel",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1609,12 +2409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Latent Dirichlet allocation package for R",
+                "homepage": null,
                 "id": 6820066,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-07-26T04:45:27Z",
+                "open_issues": 1,
                 "owner": "slycoder",
                 "repo": "R-lda",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1625,12 +2430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Constrained Relational Topic Models that use potential functions to incorporate label knowledge in the form of document constraints",
+                "homepage": null,
                 "id": 182282449,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-05-08T17:55:44Z",
+                "open_issues": 2,
                 "owner": "MIND-Lab",
                 "repo": "Constrained-RTM",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1648,12 +2458,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1664,12 +2490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implements supervised topic models with a categorical response.",
+                "homepage": null,
                 "id": 33091723,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2022-01-14T16:47:34Z",
+                "open_issues": 6,
                 "owner": "blei-lab",
                 "repo": "class-slda",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1680,12 +2511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cython implementations of Gibbs sampling for supervised LDA",
+                "homepage": null,
                 "id": 61390138,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-10-09T17:40:16Z",
+                "open_issues": 7,
                 "owner": "Savvysherpa",
                 "repo": "slda",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1696,12 +2532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Latent Dirichlet allocation package for R",
+                "homepage": null,
                 "id": 6820066,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-07-26T04:45:27Z",
+                "open_issues": 1,
                 "owner": "slycoder",
                 "repo": "R-lda",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -1712,12 +2553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 232361192,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-09-05T08:08:11Z",
+                "open_issues": 0,
                 "owner": "ywwbill",
                 "repo": "YWWTools-v2",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -1737,12 +2583,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Toolkit for Industrial Topic Modeling",
+                    "homepage": null,
                     "id": 94299010,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-07-01T08:28:33Z",
+                    "open_issues": 28,
                     "owner": "baidu",
                     "repo": "Familia",
-                    "stars": 2644
+                    "stars": 2644,
+                    "topics": [
+                      "lda",
+                      "nlp",
+                      "sentence-lda",
+                      "topic-modeling",
+                      "topic-models",
+                      "twe"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1753,12 +2611,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                    "homepage": null,
                     "id": 190860520,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-04T08:50:25Z",
+                    "open_issues": 5,
                     "owner": "soberqian",
                     "repo": "TopicModel4J",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -1776,12 +2639,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Java package for the LDA and DMM topic models",
+                    "homepage": null,
                     "id": 53783822,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-04-17T09:22:52Z",
+                    "open_issues": 0,
                     "owner": "datquocnguyen",
                     "repo": "jLDADMM",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": [
+                      "gibbs-sampling",
+                      "lda",
+                      "nlp",
+                      "short-text",
+                      "topic-modeling",
+                      "topic-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1792,12 +2667,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                    "homepage": null,
                     "id": 190860520,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-04T08:50:25Z",
+                    "open_issues": 5,
                     "owner": "soberqian",
                     "repo": "TopicModel4J",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1808,12 +2688,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 301347181,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-13T11:49:53Z",
+                    "open_issues": 0,
                     "owner": "jrmazarura",
                     "repo": "GPM",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -1831,12 +2716,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                    "homepage": null,
                     "id": 190860520,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-04T08:50:25Z",
+                    "open_issues": 5,
                     "owner": "soberqian",
                     "repo": "TopicModel4J",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -1854,12 +2744,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                    "homepage": "https://bab2min.github.io/tomotopy",
                     "id": 186155463,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-02-21T05:18:23Z",
+                    "open_issues": 61,
                     "owner": "bab2min",
                     "repo": "tomotopy",
-                    "stars": 598
+                    "stars": 598,
+                    "topics": [
+                      "correlated-topic-model",
+                      "dirichlet-multinomial-regression",
+                      "hierarchical-dirichlet-processes",
+                      "latent-dirichlet-allocation",
+                      "nlp",
+                      "pachinko-allocation",
+                      "python-library",
+                      "supervised-lda",
+                      "topic-modeling",
+                      "topic-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1870,12 +2776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                    "homepage": null,
                     "id": 190860520,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-04T08:50:25Z",
+                    "open_issues": 5,
                     "owner": "soberqian",
                     "repo": "TopicModel4J",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -1893,12 +2804,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Biterm Topic Model (published in WWW 2013)",
+                    "homepage": "https://github.com/xiaohuiyan/xiaohuiyan.github.io/blob/master/paper/BTM-WWW13.pdf",
                     "id": 29048060,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-11-15T15:45:13Z",
+                    "open_issues": 15,
                     "owner": "xiaohuiyan",
                     "repo": "BTM",
-                    "stars": 409
+                    "stars": 409,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1909,12 +2825,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Biterm Topic Modelling for Short Text with R",
+                    "homepage": null,
                     "id": 160680962,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-26T20:14:08Z",
+                    "open_issues": 4,
                     "owner": "bnosac",
                     "repo": "BTM",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "biterm-topic-modelling",
+                      "natural-language-processing",
+                      "r",
+                      "topic-modeling"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1925,12 +2851,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Bursty Biterm Topic Model (published in AAAI2015)",
+                    "homepage": "https://github.com/xiaohuiyan/xiaohuiyan.github.io/blob/master/paper/BBTM-AAAI15.pdf",
                     "id": 29056279,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2019-02-23T07:59:57Z",
+                    "open_issues": 2,
                     "owner": "xiaohuiyan",
                     "repo": "BurstyBTM",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1941,12 +2872,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                    "homepage": null,
                     "id": 190860520,
                     "language": "Java",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-04T08:50:25Z",
+                    "open_issues": 5,
                     "owner": "soberqian",
                     "repo": "TopicModel4J",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -1964,12 +2900,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Various Algorithms for Short Text Mining",
+                    "homepage": "https://pypi.org/project/shorttext/",
                     "id": 70118622,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T16:41:40Z",
+                    "open_issues": 0,
                     "owner": "stephenhky",
                     "repo": "PyShortTextCategorization",
-                    "stars": 472
+                    "stars": 472,
+                    "topics": [
+                      "algorithm",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "neural-network",
+                      "package",
+                      "python",
+                      "python-library",
+                      "text-mining",
+                      "topic-modeling"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1980,12 +2931,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Short  Text Topic Modeling, JAVA",
+                    "homepage": null,
                     "id": 140288371,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2020-05-24T05:53:55Z",
+                    "open_issues": 9,
                     "owner": "qiang2100",
                     "repo": "STTM",
-                    "stars": 161
+                    "stars": 161,
+                    "topics": [
+                      "btm",
+                      "gpudmm",
+                      "gpupdmm",
+                      "gsdmm",
+                      "lda",
+                      "ptm",
+                      "satm",
+                      "short-text",
+                      "short-text-clustering",
+                      "topic-modeling"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 },
@@ -1996,12 +2963,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Our Java implementation of Self-Aggregation-Based Topic Model (SATM)",
+                    "homepage": null,
                     "id": 110315219,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2022-11-04T14:28:20Z",
+                    "open_issues": 0,
                     "owner": "WHUIR",
                     "repo": "SATM",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "short-text",
+                      "topic-modeling"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
                 }
@@ -2024,12 +2999,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package of Tomoto, the Topic Modeling Tool ",
+                "homepage": "https://bab2min.github.io/tomotopy",
                 "id": 186155463,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-21T05:18:23Z",
+                "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "correlated-topic-model",
+                  "dirichlet-multinomial-regression",
+                  "hierarchical-dirichlet-processes",
+                  "latent-dirichlet-allocation",
+                  "nlp",
+                  "pachinko-allocation",
+                  "python-library",
+                  "supervised-lda",
+                  "topic-modeling",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2040,12 +3031,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "semi supervised guided topic model with custom guidedLDA",
+                "homepage": null,
                 "id": 105806605,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2025-04-14T23:23:30Z",
+                "open_issues": 57,
                 "owner": "vi3k6i5",
                 "repo": "GuidedLDA",
-                "stars": 519
+                "stars": 519,
+                "topics": [
+                  "data-science",
+                  "guided-topic-modeling",
+                  "guidedlda",
+                  "machine-learning",
+                  "seededlda",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2056,12 +3059,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R package for Keyword Assisted Topic Models",
+                "homepage": "https://keyatm.github.io/keyATM/",
                 "id": 229350267,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-19T18:39:25Z",
+                "open_issues": 1,
                 "owner": "keyATM",
                 "repo": "keyATM",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "latent-dirichlet-allocation",
+                  "natural-language-processing",
+                  "political-science",
+                  "r",
+                  "rcpp",
+                  "rcppeigen",
+                  "social-science",
+                  "topic-models"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2072,12 +3089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topics over Time implementation",
+                "homepage": null,
                 "id": 31871902,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-12T02:00:43Z",
+                "open_issues": 5,
                 "owner": "ahmaurya",
                 "repo": "topics_over_time",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2088,12 +3110,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ensemble topic modelling with pLSA",
+                "homepage": null,
                 "id": 192010873,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-09-30T19:10:08Z",
+                "open_issues": 7,
                 "owner": "lmcinnes",
                 "repo": "enstop",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "dimensionality-reduction",
+                  "matrix-factorization",
+                  "plsa",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2104,12 +3136,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDA for semisupervised topic modeling",
+                "homepage": "https://koheiw.github.io/seededlda/",
                 "id": 192859007,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-05-28T00:19:43Z",
+                "open_issues": 13,
                 "owner": "koheiw",
                 "repo": "seededlda",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "semi-supervised-learning",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2120,12 +3160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic modelling software using non-parametric methods",
+                "homepage": null,
                 "id": 19442637,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2016-08-16T00:10:26Z",
+                "open_issues": 3,
                 "owner": "wbuntine",
                 "repo": "topic-models",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2136,12 +3181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Online Max-Margin Topic Models for Accurate and Fast Text Classification [release v0.1]",
+                "homepage": null,
                 "id": 19385964,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2016-03-26T07:38:57Z",
+                "open_issues": 4,
                 "owner": "strin",
                 "repo": "BayesPA",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2152,12 +3202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopicModel4J: A Java Package for Topic Models (Contain LDA, Collapsed Variational Bayesian Inference for LDA, author-topic model, BTM, dirichlet multinomial mixture model, DPMM, Dual Sparse Topic Model, GaussianLDA, Hierarchical Dirichlet processes, Labeled LDA, Link LDA, Pseudo-document-based Topic Model,  Sentence LDA and so on)",
+                "homepage": null,
                 "id": 190860520,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-02-04T08:50:25Z",
+                "open_issues": 5,
                 "owner": "soberqian",
                 "repo": "TopicModel4J",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2168,12 +3223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 72066217,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-02T14:24:05Z",
+                "open_issues": 0,
                 "owner": "hsoleimani",
                 "repo": "MLTM",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2184,12 +3244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible variational inference LDA library.",
+                "homepage": null,
                 "id": 52209660,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-03-15T16:03:29Z",
+                "open_issues": 4,
                 "owner": "angeloskath",
                 "repo": "supervised-lda",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2200,12 +3265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Big Topic Model is a fast engine for running large-scale Topic Models. ",
+                "homepage": null,
                 "id": 65353206,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-03-25T05:50:09Z",
+                "open_issues": 7,
                 "owner": "thu-ml",
                 "repo": "BigTopicModel",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2216,12 +3286,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of various online inference algorithms for LDA, with Python interface.",
+                "homepage": "http://lucastheis.github.io/trlda/",
                 "id": 25791126,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2015-05-24T16:22:39Z",
+                "open_issues": 1,
                 "owner": "lucastheis",
                 "repo": "trlda",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "lda",
+                  "machine-learning",
+                  "python",
+                  "topic-modeling",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2232,12 +3313,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic tensorflow implementation of logistic latent Dirichlet allocation",
+                "homepage": null,
                 "id": 194238820,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-17T16:46:40Z",
+                "open_issues": 0,
                 "owner": "lucastheis",
                 "repo": "logistic_lda",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "classification",
+                  "lda",
+                  "machine-learning",
+                  "tensorflow",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2248,12 +3340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "discriminative LDA",
+                "homepage": null,
                 "id": 7240111,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2012-12-28T11:03:27Z",
+                "open_issues": 0,
                 "owner": "anthonylife",
                 "repo": "discLDA",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2264,12 +3361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 232361192,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-09-05T08:08:11Z",
+                "open_issues": 0,
                 "owner": "ywwbill",
                 "repo": "YWWTools-v2",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2280,12 +3382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 232361192,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-09-05T08:08:11Z",
+                "open_issues": 0,
                 "owner": "ywwbill",
                 "repo": "YWWTools-v2",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2296,12 +3403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 232361192,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-09-05T08:08:11Z",
+                "open_issues": 0,
                 "owner": "ywwbill",
                 "repo": "YWWTools-v2",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2312,12 +3424,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast implementation of DAP topic model using Conjugate Computation Variational Inference",
+                "homepage": null,
                 "id": 116299039,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-11-19T01:13:25Z",
+                "open_issues": 0,
                 "owner": "robert-giaquinto",
                 "repo": "dapper",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "em-algorithm",
+                  "graphical-models",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "stochastic-gradient-descent",
+                  "stochastic-variational-inference",
+                  "text-analysis",
+                  "text-mining",
+                  "topic-modeling",
+                  "variational-inference"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2328,12 +3456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our JCDL 2018 Paper on Entropy-Based Topic Modeling",
+                "homepage": null,
                 "id": 249838182,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-09-25T18:42:48Z",
+                "open_issues": 0,
                 "owner": "julian-risch",
                 "repo": "JCDL2018",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2344,12 +3477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic modeling for document sequences in Java",
+                "homepage": null,
                 "id": 289564125,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-08-22T20:52:32Z",
+                "open_issues": 0,
                 "owner": "michaeljpaul",
                 "repo": "sequence-models",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -2367,12 +3505,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Topic Modeling Approach for Traditional Chinese Medicine Prescriptions. TKDE 2018",
+                "homepage": null,
                 "id": 50910742,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-11-30T16:54:56Z",
+                "open_issues": 2,
                 "owner": "yao8839836",
                 "repo": "PTM",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "herbs",
+                  "knowledge",
+                  "prescriptions",
+                  "symptoms",
+                  "topic-modeling",
+                  "traditional-chinese-medicine"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2383,12 +3533,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knowledge Graph Embedding LDA. AAAI 2017",
+                "homepage": null,
                 "id": 68539845,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-08-27T20:51:08Z",
+                "open_issues": 4,
                 "owner": "yao8839836",
                 "repo": "KGE-LDA",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "embeddings",
+                  "lda",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2399,12 +3558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Includes Code for Inference and Evaluation of Topic Models for Selectional Preferences",
+                "homepage": null,
                 "id": 2252627,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-10T03:39:53Z",
+                "open_issues": 0,
                 "owner": "aritter",
                 "repo": "LDA-SP",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2415,12 +3579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java implementation of Gibbs sampling for Topic Expertise Model published in CIKM'13",
+                "homepage": null,
                 "id": 330999116,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-02-19T14:10:57Z",
+                "open_issues": 0,
                 "owner": "jonaschn",
                 "repo": "TopicExpertiseModel",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2431,12 +3600,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDA, TF-IDF against SVM, RF, DT, FFT (Text Mining)",
+                "homepage": "https://arxiv.org/abs/1804.10657",
                 "id": 122403458,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-11-15T22:20:15Z",
+                "open_issues": 2,
                 "owner": "ai-se",
                 "repo": "LDA_FFT",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "classification",
+                  "clustering",
+                  "differential-evolution",
+                  "fft",
+                  "genetic-algorithm",
+                  "hyperparameter-optimization",
+                  "hyperparameter-tuning",
+                  "information-retrieval",
+                  "lda",
+                  "optimization",
+                  "sbse",
+                  "software-engineering",
+                  "text-mining",
+                  "topic-modeling",
+                  "tuning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -2454,12 +3644,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Leveraging BERT and c-TF-IDF to create easily interpretable topics. ",
+                "homepage": "https://maartengr.github.io/BERTopic/",
                 "id": 297672263,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:08:11Z",
+                "open_issues": 469,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7807
+                "stars": 7808,
+                "topics": [
+                  "bert",
+                  "ldavis",
+                  "machine-learning",
+                  "nlp",
+                  "sentence-embeddings",
+                  "topic",
+                  "topic-modeling",
+                  "topic-modelling",
+                  "topic-models",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2470,12 +3676,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Top2Vec learns jointly embedded topic, document and word vectors.",
+                "homepage": null,
                 "id": 248812668,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-11-14T23:47:51Z",
+                "open_issues": 84,
                 "owner": "ddangelov",
                 "repo": "Top2Vec",
-                "stars": 3102
+                "stars": 3102,
+                "topics": [
+                  "bert",
+                  "document-embedding",
+                  "pre-trained-language-models",
+                  "semantic-search",
+                  "sentence-encoder",
+                  "sentence-transformers",
+                  "text-search",
+                  "text-semantic-similarity",
+                  "top2vec",
+                  "topic-modeling",
+                  "topic-modelling",
+                  "topic-search",
+                  "topic-vector",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2486,12 +3712,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python package to run contextualized topic modeling. CTMs combine contextualized embeddings (e.g., BERT) with topic models to get coherent topics. Published at EACL and ACL 2021 (Bianchi et al.). ",
+                "homepage": null,
                 "id": 253079431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-24T02:03:31Z",
+                "open_issues": 11,
                 "owner": "MilaNLProc",
                 "repo": "contextualized-topic-models",
-                "stars": 1269
+                "stars": 1269,
+                "topics": [
+                  "bert",
+                  "embeddings",
+                  "multilingual-models",
+                  "multilingual-topic-models",
+                  "neural-topic-models",
+                  "nlp",
+                  "nlp-library",
+                  "nlp-machine-learning",
+                  "text-as-data",
+                  "topic-coherence",
+                  "topic-modeling",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2502,12 +3746,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical unsupervised and semi-supervised topic models for sparse count data with CorEx",
+                "homepage": null,
                 "id": 44352390,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-22T17:17:37Z",
+                "open_issues": 13,
                 "owner": "gregversteeg",
                 "repo": "corex_topic",
-                "stars": 644
+                "stars": 644,
+                "topics": [
+                  "information-theory",
+                  "machine-learning",
+                  "python",
+                  "topic-modeling",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2518,12 +3773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic Modeling in Embedding Spaces",
+                "homepage": null,
                 "id": 196301093,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-03T22:32:12Z",
+                "open_issues": 32,
                 "owner": "adjidieng",
                 "repo": "ETM",
-                "stars": 559
+                "stars": 559,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2534,12 +3794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow implementation for prodLDA and NVLDA.",
+                "homepage": "http://openreview.net/forum?id=BybtVK9lg",
                 "id": 73849713,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-19T20:39:53Z",
+                "open_issues": 8,
                 "owner": "akashgit",
                 "repo": "autoencoding_vi_for_topic_models",
-                "stars": 256
+                "stars": 256,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2550,12 +3815,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving topic models LDA and DMM (one-topic-per-document model for short texts) with word embeddings (TACL 2015)",
+                "homepage": null,
                 "id": 38404524,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-08T05:02:12Z",
+                "open_issues": 1,
                 "owner": "datquocnguyen",
                 "repo": "LFTM",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "gibbs-sampling",
+                  "short-text",
+                  "topic-modeling",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2566,12 +3841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of AVITM",
+                "homepage": null,
                 "id": 93694187,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-07-14T08:54:03Z",
+                "open_issues": 5,
                 "owner": "hyqneuron",
                 "repo": "pytorch-avitm",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2582,12 +3862,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible version of CorEx developed for bio-data challenges that handles missing data, continuous/discrete variables, multi-CPU, overlapping structure, and includes visualizations",
+                "homepage": null,
                 "id": 81851076,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-06T14:48:42Z",
+                "open_issues": 16,
                 "owner": "gregversteeg",
                 "repo": "bio_corex",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "information-theory",
+                  "machine-learning",
+                  "python",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2598,12 +3888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 36518491,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-31T18:41:59Z",
+                "open_issues": 1,
                 "owner": "rajarshd",
                 "repo": "Gaussian_LDA",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2614,12 +3909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 210378070,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-02-02T23:47:33Z",
+                "open_issues": 13,
                 "owner": "adjidieng",
                 "repo": "DETM",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2630,12 +3930,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WWW 2020] Discriminative Topic Mining via Category-Name Guided Text Embedding",
+                "homepage": null,
                 "id": 236540099,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-06T20:07:07Z",
+                "open_issues": 3,
                 "owner": "yumeng5",
                 "repo": "CatE",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "discriminative-topic-mining",
+                  "topic-mining",
+                  "topic-modeling",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2646,12 +3956,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, linear version of CorEx for covariance estimation, dimensionality reduction, and subspace clustering with very under-sampled, high-dimensional data",
+                "homepage": null,
                 "id": 51806307,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-30T17:49:33Z",
+                "open_issues": 2,
                 "owner": "gregversteeg",
                 "repo": "LinearCorex",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "clustering",
+                  "covariance-matrix",
+                  "factor-analysis",
+                  "information-theory",
+                  "machine-learning",
+                  "python",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2662,12 +3985,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for MetaLDA in ICDM 2017",
+                "homepage": null,
                 "id": 100674439,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-02-06T02:45:18Z",
+                "open_issues": 1,
                 "owner": "ethanhezhao",
                 "repo": "MetaLDA",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "document-analysis",
+                  "icdm",
+                  "java",
+                  "machine-learning",
+                  "mallet",
+                  "metadata",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             },
@@ -2678,12 +4014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 230163082,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-12-28T15:29:20Z",
+                "open_issues": 0,
                 "owner": "EliasKB",
                 "repo": "Multilingual-Gaussian-Latent-Dirichlet-Allocation-MGLDA",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
             }
@@ -2705,12 +4046,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian Modeling and Probabilistic Programming in Python",
+            "homepage": "https://www.pymc.io",
             "id": 192904,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:30:00Z",
+            "open_issues": 491,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9728
+            "stars": 9728,
+            "topics": [
+              "bayesian-inference",
+              "mcmc",
+              "probabilistic-programming",
+              "pytensor",
+              "python",
+              "statistical-analysis",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2721,12 +4075,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep universal probabilistic programming with Python and PyTorch",
+            "homepage": "http://pyro.ai",
             "id": 94506832,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:12:12Z",
+            "open_issues": 286,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9045
+            "stars": 9045,
+            "topics": [
+              "bayesian",
+              "bayesian-inference",
+              "deep-learning",
+              "machine-learning",
+              "probabilistic-modeling",
+              "probabilistic-programming",
+              "python",
+              "pytorch",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2737,12 +4106,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A probabilistic programming language in TensorFlow. Deep generative models, variational inference.",
+            "homepage": "http://edwardlib.org",
             "id": 51468412,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-18T16:23:03Z",
+            "open_issues": 219,
             "owner": "blei-lab",
             "repo": "edward",
-            "stars": 4843
+            "stars": 4843,
+            "topics": [
+              "bayesian-methods",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "probabilistic-programming",
+              "statistics",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2753,12 +4136,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probabilistic reasoning and statistical analysis in TensorFlow",
+            "homepage": "https://www.tensorflow.org/probability/",
             "id": 108053674,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T22:18:55Z",
+            "open_issues": 726,
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4429
+            "stars": 4430,
+            "topics": [
+              "bayesian-methods",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "probabilistic-programming",
+              "statistics",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2769,12 +4166,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.  ",
+            "homepage": "https://mc-stan.org",
             "id": 8043756,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T20:12:17Z",
+            "open_issues": 154,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2762
+            "stars": 2762,
+            "topics": [
+              "bayesian",
+              "bayesian-data-analysis",
+              "bayesian-inference",
+              "bayesian-methods",
+              "bayesian-statistics",
+              "stan"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2785,12 +4194,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian inference with probabilistic programming.",
+            "homepage": "https://turinglang.org",
             "id": 57377821,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:57:27Z",
+            "open_issues": 26,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2250
+            "stars": 2250,
+            "topics": [
+              "artificial-intelligence",
+              "bayesian-inference",
+              "bayesian-neural-networks",
+              "bayesian-statistics",
+              "hamiltonian-monte-carlo",
+              "hmc",
+              "julia-language",
+              "machine-learning",
+              "mcmc",
+              "probabilistic-graphical-models",
+              "probabilistic-inference",
+              "probabilistic-models",
+              "probabilistic-programming",
+              "turing"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2801,12 +4230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow",
+            "homepage": "http://zhusuan.readthedocs.io",
             "id": 63605558,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-17T20:33:19Z",
+            "open_issues": 13,
             "owner": "thu-ml",
             "repo": "zhusuan",
-            "stars": 2218
+            "stars": 2218,
+            "topics": [
+              "bayesian-inference",
+              "deep-learning",
+              "generative-models",
+              "graphical-models",
+              "probabilistic-programming"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2817,12 +4257,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple probabilistic programming language.",
+            "homepage": null,
             "id": 201102332,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T09:44:53Z",
+            "open_issues": 78,
             "owner": "google",
             "repo": "edward2",
-            "stars": 712
+            "stars": 712,
+            "topics": [
+              "bayesian-methods",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "probabilistic-programming",
+              "statistics",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -2839,12 +4293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online variational Bayes for latent Dirichlet allocation (LDA)",
+            "homepage": null,
             "id": 26031456,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-21T15:20:53Z",
+            "open_issues": 4,
             "owner": "blei-lab",
             "repo": "onlineldavb",
-            "stars": 304
+            "stars": 304,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2855,12 +4314,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Package for Gibbs Sampling of LDA",
+            "homepage": null,
             "id": 7770757,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-02-09T08:18:46Z",
+            "open_issues": 0,
             "owner": "yangliuy",
             "repo": "LDAGibbsSampling",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "gibbs-sampling",
+              "java",
+              "lda",
+              "topic",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2871,12 +4341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This implements topics that change over time (Dynamic Topic Models) and a model of how individual documents predict that change.",
+            "homepage": null,
             "id": 32526452,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2017-12-12T16:47:59Z",
+            "open_issues": 8,
             "owner": "blei-lab",
             "repo": "dtm",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2887,12 +4362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a C implementation of variational EM for latent Dirichlet allocation (LDA), a topic model for text or other discrete data.",
+            "homepage": null,
             "id": 24814506,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2016-06-09T03:40:09Z",
+            "open_issues": 5,
             "owner": "blei-lab",
             "repo": "lda-c",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2903,12 +4383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hierarchical Dirichlet processes. Topic models where the data determine the number of topics. This implements Gibbs sampling.",
+            "homepage": null,
             "id": 33092348,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2017-02-21T21:08:34Z",
+            "open_issues": 6,
             "owner": "blei-lab",
             "repo": "hdp",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2919,12 +4404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative modeling for recommendation. Implements variational inference for a collaborative topic models. These models recommend items to users based on item content and other users' ratings.",
+            "homepage": null,
             "id": 33092228,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2015-08-19T10:51:32Z",
+            "open_issues": 2,
             "owner": "blei-lab",
             "repo": "ctr",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2935,12 +4425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online inference for the Hierarchical Dirichlet Process. Fits hierarchical Dirichlet process topic models to massive data. The algorithm determines the number of topics.",
+            "homepage": null,
             "id": 33092099,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2015-03-29T22:28:04Z",
+            "open_issues": 4,
             "owner": "blei-lab",
             "repo": "online-hdp",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2951,12 +4446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This implements hierarchical latent Dirichlet allocation, a topic model that finds a hierarchy of topics. The structure of the hierarchy is determined by the data.",
+            "homepage": null,
             "id": 24814986,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-10-05T12:13:39Z",
+            "open_issues": 0,
             "owner": "blei-lab",
             "repo": "hlda",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2967,12 +4467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implements supervised topic models with a categorical response.",
+            "homepage": null,
             "id": 33091723,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2022-01-14T16:47:34Z",
+            "open_issues": 6,
             "owner": "blei-lab",
             "repo": "class-slda",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2983,12 +4488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turbo topics find significant multiword phrases in topics.",
+            "homepage": null,
             "id": 24815038,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-06-16T15:56:44Z",
+            "open_issues": 0,
             "owner": "blei-lab",
             "repo": "turbotopics",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -2999,12 +4509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This implements variational inference for the correlated topic model. ",
+            "homepage": null,
             "id": 24814821,
             "language": "C",
+            "license": null,
             "last_commit": "2014-10-05T12:09:40Z",
+            "open_issues": 0,
             "owner": "blei-lab",
             "repo": "ctm-c",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3015,12 +4530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collapsed variational Bayesian inference for LDA",
+            "homepage": null,
             "id": 2717403,
             "language": "C",
+            "license": null,
             "last_commit": "2011-11-05T21:39:18Z",
+            "open_issues": 0,
             "owner": "davidandrzej",
             "repo": "cvbLDA",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3031,12 +4551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This implements the discrete infinite logistic normal, a Bayesian nonparametric topic model that finds correlated topics.",
+            "homepage": null,
             "id": 25002795,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2014-10-09T18:27:42Z",
+            "open_issues": 0,
             "owner": "blei-lab",
             "repo": "diln",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3047,12 +4572,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "by Prof. Mark Steyvers https://steyvers.socsci.uci.edu/data-and-code",
+            "homepage": null,
             "id": 345992634,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-09T13:42:37Z",
+            "open_issues": 0,
             "owner": "jonaschn",
             "repo": "Matlab-Topic-Modeling-Toolbox",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "author-topic-model",
+              "hmm-lda",
+              "latent-dirichlet-allocation",
+              "matlab",
+              "matlab-toolbox",
+              "matlab-topic-modelling-toolbox",
+              "toolbox",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -3069,12 +4608,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scalable Topic Modeling using Variational Inference in MapReduce",
+            "homepage": "http://mrlda.cc/",
             "id": 3310974,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-10-20T23:47:15Z",
+            "open_issues": 8,
             "owner": "lintool",
             "repo": "Mr.LDA",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3085,12 +4629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GibbsLDA++, Latent Dirichlet Allocation using Gibbs sampling",
+            "homepage": null,
             "id": 17637255,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2014-03-20T16:39:59Z",
+            "open_issues": 0,
             "owner": "mrquincle",
             "repo": "gibbs-lda",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3101,12 +4650,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "by Prof. Mark Steyvers https://steyvers.socsci.uci.edu/data-and-code",
+            "homepage": null,
             "id": 345992634,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-09T13:42:37Z",
+            "open_issues": 0,
             "owner": "jonaschn",
             "repo": "Matlab-Topic-Modeling-Toolbox",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "author-topic-model",
+              "hmm-lda",
+              "latent-dirichlet-allocation",
+              "matlab",
+              "matlab-toolbox",
+              "matlab-topic-modelling-toolbox",
+              "toolbox",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -3123,12 +4686,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implemented : lsa, plsa, lda",
+            "homepage": null,
             "id": 60064788,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-07-08T05:30:35Z",
+            "open_issues": 0,
             "owner": "laserwave",
             "repo": "topic_models",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "topic-modeling",
+              "topic-models"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3139,12 +4710,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 94200036,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-10-02T10:30:31Z",
+            "open_issues": 1,
             "owner": "Ward-nju",
             "repo": "Topic-Model",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "machine-learning",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -3161,12 +4740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for interactive topic model visualization. Port of the R LDAvis package.",
+            "homepage": null,
             "id": 33696562,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-04T20:42:58Z",
+            "open_issues": 81,
             "owner": "bmabey",
             "repo": "pyLDAvis",
-            "stars": 1850
+            "stars": 1850,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3177,12 +4761,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for web-based interactive topic model visualization.",
+            "homepage": null,
             "id": 17429998,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-06T16:21:59Z",
+            "open_issues": 35,
             "owner": "cpsievert",
             "repo": "LDAvis",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "javascript",
+              "r",
+              "text-mining",
+              "topic-modeling",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3193,12 +4788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Server for Topic Models",
+            "homepage": null,
             "id": 15601934,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-04-06T15:00:02Z",
+            "open_issues": 14,
             "owner": "uwdata",
             "repo": "termite-data-server",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3209,12 +4809,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Shiny Application for Inspecting Structural Topic Models",
+            "homepage": "https://cschwem2er.github.io/stminsights",
             "id": 63054187,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T01:33:09Z",
+            "open_issues": 2,
             "owner": "cschwem2er",
             "repo": "stminsights",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "natural-language-processing",
+              "r",
+              "shiny",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3225,12 +4835,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A point-and-click tool for creating and analyzing topic models produced by MALLET.",
+            "homepage": "https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html",
             "id": 47996186,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-01T20:42:05Z",
+            "open_issues": 19,
             "owner": "senderle",
             "repo": "topic-modeling-tool",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "data-science",
+              "digital-humanities",
+              "mallet",
+              "text-analytics",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3241,12 +4862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take a MALLET to disciplinary history",
+            "homepage": null,
             "id": 13022194,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-11T14:08:08Z",
+            "open_issues": 4,
             "owner": "agoldst",
             "repo": "dfr-browser",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3257,12 +4883,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for topic modeling and visualization",
+            "homepage": "https://dariah-de.github.io/Topics",
             "id": 69341969,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-20T15:55:50Z",
+            "open_issues": 3,
             "owner": "DARIAH-DE",
             "repo": "Topics",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "data-science",
+              "digital-humanities",
+              "lda",
+              "machine-learning",
+              "natural-language-processing",
+              "python3",
+              "text-mining",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3273,12 +4913,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore your own text collection with a topic model – without prior knowledge.",
+            "homepage": "https://dariah-de.github.io/TopicsExplorer",
             "id": 119561258,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-19T12:04:08Z",
+            "open_issues": 16,
             "owner": "DARIAH-DE",
             "repo": "TopicsExplorer",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "digital-humanities",
+              "lda",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3289,12 +4938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "topic model visualization",
+            "homepage": null,
             "id": 22382316,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2015-03-13T11:14:54Z",
+            "open_issues": 1,
             "owner": "ajbc",
             "repo": "tmv",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3305,12 +4959,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Topic Words in Context (TWiC) is a highly-interactive, browser-based visualization for MALLET topic models",
+            "homepage": null,
             "id": 33731768,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2017-07-13T01:11:15Z",
+            "open_issues": 33,
             "owner": "jarmoza",
             "repo": "twic",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "d3",
+              "digital-humanities",
+              "interactive-visualization",
+              "topic-modeling",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3321,12 +4986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "create a browser of a corpus using a topic model; original TMVE implementation (static pages)",
+            "homepage": null,
             "id": 36010367,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-06-29T12:41:55Z",
+            "open_issues": 0,
             "owner": "ajbc",
             "repo": "tmve-original",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3337,12 +5007,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Shiny App for Topic Modeling in R",
+            "homepage": null,
             "id": 87464927,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2025-12-25T12:19:16Z",
+            "open_issues": 2,
             "owner": "wesslen",
             "repo": "topicApp",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "r",
+              "shiny",
+              "structural-topic-modeling",
+              "topic-modeling",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3353,12 +5034,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package consists of functionalities for dynamic topic modelling and its visualization",
+            "homepage": null,
             "id": 187819991,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-16T18:40:24Z",
+            "open_issues": 1,
             "owner": "GSukr",
             "repo": "dtmvisual",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "dtm",
+              "dynamic-topic-modeling",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3369,12 +5059,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scala-Spark port of https://github.com/bmabey/pyLDAvis for Apache Spark LDA Topic Modelling Visualisation",
+            "homepage": null,
             "id": 95851996,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-07-05T14:45:23Z",
+            "open_issues": 0,
             "owner": "iaja",
             "repo": "scalaLDAvis",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "apache",
+              "lda",
+              "machine-learning",
+              "scala",
+              "spark",
+              "visulization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -3391,12 +5093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3407,12 +5114,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29886
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         },
@@ -3423,12 +5146,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probably the best curated list of data science software in Python.",
+            "homepage": "https://krzjoa.github.io/awesome-python-data-science",
             "id": 114992691,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-04-13T07:15:05Z",
+            "open_issues": 19,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3574
+            "stars": 3574,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-python",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "scikit-learn",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
         }
@@ -3437,15 +5177,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:46.616Z",
+    "last_updated": "2026-08-29T05:00:07.239Z",
     "original_repository_info": {
       "archived": false,
+      "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
+      "homepage": null,
       "id": 343491925,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2022-07-11T15:39:35Z",
+      "open_issues": 0,
       "owner": "jonaschn",
       "repo": "awesome-topic-models",
-      "stars": 104
+      "stars": 104,
+      "topics": [
+        "author-topic-model",
+        "awesome",
+        "awesome-list",
+        "dirichlet-multinomial",
+        "dirichlet-process-mixtures",
+        "dynamic-topic-modeling",
+        "hierarchical-dirichlet-processes",
+        "labeled-lda",
+        "latent-dirichlet-allocation",
+        "latent-semantic-analysis",
+        "nlp",
+        "non-negative-matrix-factorization",
+        "sentence-lda",
+        "text-mining",
+        "topic-model",
+        "topic-modeling",
+        "topic-models",
+        "truncated-svd"
+      ]
     },
     "original_repository_sha": "d44c3051ccddb6a56134399c310d09724446dd58",
     "enhanced_repository": "enhansome/enhansome-topic-models",
