@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T06:13:01Z",
-            "open_issues": 2143,
+            "last_commit": "2026-09-04T20:55:21Z",
+            "open_issues": 2146,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67159,
+            "stars": 67163,
             "topics": [
               "data-analysis",
               "data-science",
@@ -542,7 +542,7 @@
                 "open_issues": 522,
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11156,
+                "stars": 11157,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -3653,7 +3653,7 @@
                 "open_issues": 468,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7817,
+                "stars": 7818,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -3685,7 +3685,7 @@
                 "open_issues": 84,
                 "owner": "ddangelov",
                 "repo": "Top2Vec",
-                "stars": 3104,
+                "stars": 3106,
                 "topics": [
                   "bert",
                   "document-embedding",
@@ -3721,7 +3721,7 @@
                 "open_issues": 11,
                 "owner": "MilaNLProc",
                 "repo": "contextualized-topic-models",
-                "stars": 1269,
+                "stars": 1271,
                 "topics": [
                   "bert",
                   "embeddings",
@@ -4055,7 +4055,7 @@
             "open_issues": 490,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9737,
+            "stars": 9739,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4080,7 +4080,7 @@
             "id": 94506832,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T12:30:00Z",
+            "last_commit": "2026-09-04T19:07:01Z",
             "open_issues": 287,
             "owner": "pyro-ppl",
             "repo": "pyro",
@@ -4175,7 +4175,7 @@
             "open_issues": 156,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2763,
+            "stars": 2765,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -4199,8 +4199,8 @@
             "id": 57377821,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-04T13:31:14Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-04T19:29:10Z",
+            "open_issues": 13,
             "owner": "TuringLang",
             "repo": "Turing.jl",
             "stars": 2254,
@@ -5099,10 +5099,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T19:29:21Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74254,
+            "stars": 74258,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5119,11 +5119,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-02T12:42:51Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-04T18:10:15Z",
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29933,
+            "stars": 29937,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:42:19.919Z",
+    "last_updated": "2026-09-05T12:58:11.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
