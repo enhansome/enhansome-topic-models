@@ -14,7 +14,7 @@
 
 ## Libraries & Toolkits
 
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,163 | 🐛 2,146 | 🌐 Python | 📅 2026-09-04 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,181 | 🐛 2,147 | 🌐 Python | 📅 2026-09-04 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
 * [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,480 | 🐛 439 | 🌐 Python | 📅 2025-11-01 - Python library for topic modelling ![GitHub Repo stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim?style=social)
 * [Mallet](https://github.com/mimno/Mallet) ⭐ 1,028 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Java-based package for topic modeling ![GitHub Repo stars](https://img.shields.io/github/stars/mimno/mallet?style=social)
 * [BIDMach](https://github.com/BIDData/BIDMach) ⭐ 920 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated machine learning library ![GitHub Repo stars](https://img.shields.io/github/stars/BIDData/BIDMach?style=social)
@@ -269,9 +269,9 @@ There are huge differences in performance and scalability as well as the support
 
 ### Embedding based Topic Models
 
-* [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,818 | 🐛 468 | 🌐 Python | 📅 2026-09-03 - BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization [:page\_facing\_up:](https://arxiv.org/pdf/2203.05794.pdf)
+* [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,819 | 🐛 468 | 🌐 Python | 📅 2026-09-03 - BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization [:page\_facing\_up:](https://arxiv.org/pdf/2203.05794.pdf)
 * [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,106 | 🐛 84 | 🌐 Python | 📅 2024-11-14 - Python implementation that learns jointly embedded topic, document and word vectors [:page\_facing\_up:](https://arxiv.org/pdf/2008.09470.pdf)
-* [CTM](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,271 | 🐛 11 | 🌐 Python | 📅 2025-07-24 - CTMs combine contextualized embeddings (e.g., BERT) with topic models
+* [CTM](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,272 | 🐛 11 | 🌐 Python | 📅 2025-07-24 - CTMs combine contextualized embeddings (e.g., BERT) with topic models
 * [Anchored CorEx](https://github.com/gregversteeg/corex_topic) ⭐ 644 | 🐛 13 | 🌐 Python | 📅 2021-03-22 - Hierarchical Topic Modeling with Minimal Domain Knowledge [:page\_facing\_up:](https://arxiv.org/pdf/1611.10277.pdf)
 * [ETM](https://github.com/adjidieng/ETM) ⭐ 559 | 🐛 32 | 🌐 Python | 📅 2023-10-03 - Embedded Topic Model [:page\_facing\_up:](https://arxiv.org/pdf/1907.04907.pdf)
 * [ProdLDA](https://github.com/akashgit/autoencoding_vi_for_topic_models) ⭐ 256 | 🐛 8 | 🌐 Python | 📅 2021-04-19 - Original TensorFlow implementation of Autoencoding Variational Inference (AEVI) for Topic Models [:page\_facing\_up:](https://arxiv.org/pdf/1703.01488.pdf)
@@ -290,11 +290,11 @@ There are huge differences in performance and scalability as well as the support
 ## Probabilistic Programming Languages (PPL) (a.k.a. Build your own Topic Model)
 
 * [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,739 | 🐛 490 | 🌐 Python | 📅 2026-09-03 - Python package for Bayesian statistical modeling and probabilistic machine learning, e.g., [LDA](http://docs.pymc.io/notebooks/lda-advi-aevb.html) [:page\_facing\_up:](https://peerj.com/articles/cs-55.pdf)
-* [pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,044 | 🐛 287 | 🌐 Python | 📅 2026-09-04 - PPL built on PyTorch, e.g., [prodLDA](http://pyro.ai/examples/prodlda.html) [:page\_facing\_up:](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
+* [pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,046 | 🐛 287 | 🌐 Python | 📅 2026-09-06 - PPL built on PyTorch, e.g., [prodLDA](http://pyro.ai/examples/prodlda.html) [:page\_facing\_up:](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
 * [edward](https://github.com/blei-lab/edward) ⭐ 4,843 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18 - A PPL built on TensorFlow, e.g., [LDA](http://edwardlib.org/iclr2017?Figure%2011.%20Latent%20Dirichlet%20allocation) [:page\_facing\_up:](https://arxiv.org/pdf/1610.09787.pdf)
 * [TFP](https://github.com/tensorflow/probability) ⭐ 4,432 | 🐛 728 | 🌐 Jupyter Notebook | 📅 2026-08-06 - Probabilistic reasoning and statistical analysis in TensorFlow, e.g., [LDA](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/latent_dirichlet_allocation_distributions.py) ⭐ 4,432 | 🐛 728 | 🌐 Jupyter Notebook | 📅 2026-08-06 [:page\_facing\_up:](https://arxiv.org/pdf/2001.11819.pdf)
 * [Stan](https://github.com/stan-dev/stan) ⭐ 2,765 | 🐛 156 | 🌐 C++ | 📅 2026-09-03 - Platform for statistical modeling and high-performance statistical computation, e.g., [LDA](https://mc-stan.org/docs/2_26/stan-users-guide/latent-dirichlet-allocation.html) [:page\_facing\_up:](https://files.eric.ed.gov/fulltext/ED590311.pdf)
-* [Turing.jl](https://github.com/TuringLang/Turing.jl) ⭐ 2,254 | 🐛 13 | 🌐 Julia | 📅 2026-09-04 -  Julia library for general-purpose probabilistic programming [:page\_facing\_up:](http://proceedings.mlr.press/v84/ge18b/ge18b.pdf)
+* [Turing.jl](https://github.com/TuringLang/Turing.jl) ⭐ 2,254 | 🐛 13 | 🌐 Julia | 📅 2026-09-06 -  Julia library for general-purpose probabilistic programming [:page\_facing\_up:](http://proceedings.mlr.press/v84/ge18b/ge18b.pdf)
 * [ZhuSuan](https://github.com/thu-ml/zhusuan) ⭐ 2,217 | 🐛 13 | 🌐 Python | 📅 2022-12-17 - A PPL for Bayesian deep learning, generative models, built on Tensorflow, e.g., [LDA](https://zhusuan.readthedocs.io/en/latest/tutorials/lntm.html) [:page\_facing\_up:](https://arxiv.org/pdf/1709.05870.pdf)
 * [edward2](https://github.com/google/edward2) ⭐ 712 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-07-02 - Simple PPL with core utilities in the NumPy and TensorFlow ecosystem [:page\_facing\_up:](https://arxiv.org/pdf/1811.02091.pdf)
 
@@ -302,7 +302,7 @@ There are huge differences in performance and scalability as well as the support
 
 * [onlineldavb](https://github.com/blei-lab/onlineldavb) ⭐ 304 | 🐛 4 | 🌐 Python | 📅 2021-05-21 - Python online variational Bayes implementation by Matthew Hoffman [:page\_facing\_up:](https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf)
 * [LDAGibbs](https://github.com/yangliuy/LDAGibbsSampling) ⭐ 233 | 🐛 0 | 🌐 Java | 📅 2020-02-09 - Java implementation of LDA using Gibbs sampling by Liu Yang
-* [dtm](https://github.com/blei-lab/dtm) ⭐ 205 | 🐛 8 | 🌐 Shell | 📅 2017-12-12 - C implementation of dynamic topic models by David Blei & Sean Gerrish
+* [dtm](https://github.com/blei-lab/dtm) ⭐ 206 | 🐛 8 | 🌐 Shell | 📅 2017-12-12 - C implementation of dynamic topic models by David Blei & Sean Gerrish
 * [lda-c](https://github.com/blei-lab/lda-c) ⭐ 167 | 🐛 5 | 🌐 C | 📅 2016-06-09 - C implementation using variational EM by David Blei
 * [HDP](https://github.com/blei-lab/hdp) ⭐ 149 | 🐛 6 | 🌐 C++ | 📅 2017-02-21 - C++ implementation of hierarchical Dirichlet processes by Chong Wang
 * [ctr](https://github.com/blei-lab/ctr) ⭐ 146 | 🐛 2 | 🌐 C++ | 📅 2015-08-19 - C++ implementation of collaborative topic models by Chong Wang
@@ -367,9 +367,9 @@ There are huge differences in performance and scalability as well as the support
 
 ## Related awesome lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,258 | 🐛 30 | 🌐 Python | 📅 2026-09-02
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,937 | 🐛 11 | 📅 2026-09-04
-* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,583 | 🐛 20 | 📅 2026-04-13
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,264 | 🐛 30 | 🌐 Python | 📅 2026-09-02
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,936 | 🐛 12 | 📅 2026-09-04
+* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,582 | 🐛 20 | 📅 2026-04-13
 
 ## Contribute
 
@@ -384,4 +384,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
