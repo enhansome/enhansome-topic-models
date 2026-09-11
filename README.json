@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-10T13:26:21Z",
-            "open_issues": 2149,
+            "last_commit": "2026-09-11T13:16:07Z",
+            "open_issues": 2150,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67223,
+            "stars": 67228,
             "topics": [
               "data-analysis",
               "data-science",
@@ -43,7 +43,7 @@
             "language": "Python",
             "license": "LGPL-2.1",
             "last_commit": "2025-11-01T12:01:39Z",
-            "open_issues": 439,
+            "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
             "stars": 16482,
@@ -542,7 +542,7 @@
                 "open_issues": 522,
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11159,
+                "stars": 11158,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -567,7 +567,7 @@
                 "open_issues": 2,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8716,
+                "stars": 8718,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -1163,7 +1163,7 @@
                     "id": 89322848,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T14:09:13Z",
+                    "last_commit": "2026-09-11T06:49:16Z",
                     "open_issues": 139,
                     "owner": "Angel-ML",
                     "repo": "angel",
@@ -2905,7 +2905,7 @@
                     "id": 70118622,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T18:10:54Z",
+                    "last_commit": "2026-09-10T20:33:45Z",
                     "open_issues": 0,
                     "owner": "stephenhky",
                     "repo": "PyShortTextCategorization",
@@ -3650,10 +3650,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T09:14:08Z",
-                "open_issues": 471,
+                "open_issues": 472,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7831,
+                "stars": 7832,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -3721,7 +3721,7 @@
                 "open_issues": 11,
                 "owner": "MilaNLProc",
                 "repo": "contextualized-topic-models",
-                "stars": 1271,
+                "stars": 1272,
                 "topics": [
                   "bert",
                   "embeddings",
@@ -4051,11 +4051,11 @@
             "id": 192904,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T13:24:34Z",
-            "open_issues": 494,
+            "last_commit": "2026-09-10T20:33:41Z",
+            "open_issues": 493,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9744,
+            "stars": 9746,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4084,7 +4084,7 @@
             "open_issues": 288,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9050,
+            "stars": 9052,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4175,7 +4175,7 @@
             "open_issues": 152,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2768,
+            "stars": 2769,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -4695,7 +4695,7 @@
             "open_issues": 0,
             "owner": "laserwave",
             "repo": "topic_models",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "topic-modeling",
               "topic-models"
@@ -5102,7 +5102,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74292,
+            "stars": 74299,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5123,7 +5123,7 @@
             "open_issues": 4,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29959,
+            "stars": 29965,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 21,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3585,
+            "stars": 3586,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:45:42.868Z",
+    "last_updated": "2026-09-11T13:44:15.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
