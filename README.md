@@ -14,8 +14,8 @@
 
 ## Libraries & Toolkits
 
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,248 | 🐛 2,162 | 🌐 Python | 📅 2026-09-14 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
-* [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,483 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - Python library for topic modelling ![GitHub Repo stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim?style=social)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,260 | 🐛 2,162 | 🌐 Python | 📅 2026-09-14 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+* [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,484 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - Python library for topic modelling ![GitHub Repo stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim?style=social)
 * [Mallet](https://github.com/mimno/Mallet) ⭐ 1,028 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Java-based package for topic modeling ![GitHub Repo stars](https://img.shields.io/github/stars/mimno/mallet?style=social)
 * [BIDMach](https://github.com/BIDData/BIDMach) ⭐ 919 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated machine learning library ![GitHub Repo stars](https://img.shields.io/github/stars/BIDData/BIDMach?style=social)
 * [OCTIS](https://github.com/MIND-Lab/OCTIS) ⭐ 804 | 🐛 47 | 🌐 Python | 📅 2026-06-21 - Python package to integrate, optimize and evaluate topic models ![GitHub Repo stars](https://img.shields.io/github/stars/MIND-Lab/OCTIS?style=social)
@@ -52,7 +52,7 @@ There are huge differences in performance and scalability as well as the support
 ### Latent Dirichlet Allocation (LDA) [:page\_facing\_up:](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
 * [turicreate](https://github.com/apple/turicreate) ⚠️ Archived - C++ [LDA](https://github.com/apple/turicreate/blob/master/userguide/text/README.md) ⚠️ Archived and [aliasLDA](https://apple.github.io/turicreate/docs/api/generated/turicreate.topic_model.create.html) implementation with export to Apple's Core ML for use in iOS, macOS, watchOS, and tvOS apps
-* [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Latent-Dirichlet-Allocation) ⭐ 8,717 | 🐛 1 | 🌐 C++ | 📅 2026-09-14 - C++ implementaion using online variational Bayes inference [:page\_facing\_up:](https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf)
+* [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Latent-Dirichlet-Allocation) ⭐ 8,718 | 🐛 1 | 🌐 C++ | 📅 2026-09-14 - C++ implementaion using online variational Bayes inference [:page\_facing\_up:](https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf)
 * [lda](https://github.com/lda-project/lda) ⭐ 1,314 | 🐛 0 | 🌐 Python | 📅 2024-07-29 - Python implementation using collapsed Gibbs sampling which follows scikit-learn interface [:page\_facing\_up:](https://www.pnas.org/content/pnas/101/suppl_1/5228.full.pdf)
 * [Mallet](https://github.com/mimno/Mallet/blob/master/src/cc/mallet/topics/ParallelTopicModel.java) ⭐ 1,028 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Parallelized Java implementation using Gibbs sampling [:page\_facing\_up:](https://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)[:page\_facing\_up:](https://dl.acm.org/doi/pdf/10.1145/1557019.1557121)
 * [gensim-wrapper-Mallet](https://github.com/mimno/Mallet/blob/master/src/cc/mallet/topics/ParallelTopicModel.java) ⭐ 1,028 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Python wrapper for Mallet's implementation [:page\_facing\_up:](https://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)[:page\_facing\_up:](https://dl.acm.org/doi/pdf/10.1145/1557019.1557121)
@@ -88,8 +88,8 @@ There are huge differences in performance and scalability as well as the support
 
 #### CPU-based high performance implementations
 
-* [LDA\*](https://github.com/Angel-ML/angel/blob/master/docs/algo/lda_on_angel_en.md) ⭐ 6,791 | 🐛 139 | 🌐 Java | 📅 2026-09-11 - Tencent's hybrid sampler that uses different samplers for different types of documents in combination with an asymmetric parameter server [:page\_facing\_up:](http://www.vldb.org/pvldb/vol10/p1406-yu.pdf)
-* [Familia](https://github.com/baidu/Familia) ⭐ 2,643 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 - A toolkit for industrial topic modeling (LDA, SentenceLDA and Topical Word Embedding) [:warning:](https://github.com/baidu/Familia/issues/111) ⭐ 2,643 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 [:page\_facing\_up:](https://arxiv.org/pdf/1707.09823.pdf)
+* [LDA\*](https://github.com/Angel-ML/angel/blob/master/docs/algo/lda_on_angel_en.md) ⭐ 6,790 | 🐛 139 | 🌐 Java | 📅 2026-09-11 - Tencent's hybrid sampler that uses different samplers for different types of documents in combination with an asymmetric parameter server [:page\_facing\_up:](http://www.vldb.org/pvldb/vol10/p1406-yu.pdf)
+* [Familia](https://github.com/baidu/Familia) ⭐ 2,644 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 - A toolkit for industrial topic modeling (LDA, SentenceLDA and Topical Word Embedding) [:warning:](https://github.com/baidu/Familia/issues/111) ⭐ 2,644 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 [:page\_facing\_up:](https://arxiv.org/pdf/1707.09823.pdf)
 * [SparseLDA](https://github.com/mimno/Mallet/blob/master/src/cc/mallet/topics/ParallelTopicModel.java) ⭐ 1,028 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Java algorithm and data structure for evaluating Gibbs sampling distributions used in Mallet [:page\_facing\_up:](https://dl.acm.org/doi/pdf/10.1145/1557019.1557121)
 * [lightLDA](https://github.com/microsoft/LightLDA) ⚠️ Archived - C++ implementation using O(1) Metropolis-Hastings sampling [:page\_facing\_up:](https://arxiv.org/pdf/1412.1576.pdf)
 * [Yahoo-LDA](https://github.com/sudar/Yahoo_LDA) ⭐ 337 | 🐛 12 | 🌐 C++ | 📅 2011-09-21 - Yahoo!'s topic modelling framework [:page\_facing\_up:](https://dl.acm.org/doi/pdf/10.1145/2124295.2124312)
@@ -202,7 +202,7 @@ There are huge differences in performance and scalability as well as the support
 
 #### Sentence-LDA / SentenceLDA / Sentence LDA [:page\_facing\_up:](https://dl.acm.org/doi/10.1145/1935826.1935932)
 
-* [Familia](https://github.com/baidu/Familia) ⭐ 2,643 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 - Apply inference on pre-trained SentenceLDA models [:warning:](https://github.com/baidu/Familia/issues/111) ⭐ 2,643 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 [:page\_facing\_up:](https://arxiv.org/pdf/1707.09823.pdf)
+* [Familia](https://github.com/baidu/Familia) ⭐ 2,644 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 - Apply inference on pre-trained SentenceLDA models [:warning:](https://github.com/baidu/Familia/issues/111) ⭐ 2,644 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 [:page\_facing\_up:](https://arxiv.org/pdf/1707.09823.pdf)
 * [TopicModel4J](https://github.com/soberqian/TopicModel4J) ⭐ 29 | 🐛 5 | 🌐 Java | 📅 2023-02-04 - Java implementation of Sentence-LDA using collapsed Gibbs sampling
 
 #### Dirichlet Multinomial Mixture Model (DMM) [:page\_facing\_up:](https://link.springer.com/content/pdf/10.1023/A:1007692713085.pdf)
@@ -270,7 +270,7 @@ There are huge differences in performance and scalability as well as the support
 ### Embedding based Topic Models
 
 * [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,835 | 🐛 472 | 🌐 Python | 📅 2026-09-09 - BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization [:page\_facing\_up:](https://arxiv.org/pdf/2203.05794.pdf)
-* [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,107 | 🐛 84 | 🌐 Python | 📅 2024-11-14 - Python implementation that learns jointly embedded topic, document and word vectors [:page\_facing\_up:](https://arxiv.org/pdf/2008.09470.pdf)
+* [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,108 | 🐛 84 | 🌐 Python | 📅 2024-11-14 - Python implementation that learns jointly embedded topic, document and word vectors [:page\_facing\_up:](https://arxiv.org/pdf/2008.09470.pdf)
 * [CTM](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,272 | 🐛 11 | 🌐 Python | 📅 2025-07-24 - CTMs combine contextualized embeddings (e.g., BERT) with topic models
 * [Anchored CorEx](https://github.com/gregversteeg/corex_topic) ⭐ 645 | 🐛 13 | 🌐 Python | 📅 2021-03-22 - Hierarchical Topic Modeling with Minimal Domain Knowledge [:page\_facing\_up:](https://arxiv.org/pdf/1611.10277.pdf)
 * [ETM](https://github.com/adjidieng/ETM) ⭐ 558 | 🐛 32 | 🌐 Python | 📅 2023-10-03 - Embedded Topic Model [:page\_facing\_up:](https://arxiv.org/pdf/1907.04907.pdf)
@@ -289,8 +289,8 @@ There are huge differences in performance and scalability as well as the support
 
 ## Probabilistic Programming Languages (PPL) (a.k.a. Build your own Topic Model)
 
-* [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,751 | 🐛 496 | 🌐 Python | 📅 2026-09-13 - Python package for Bayesian statistical modeling and probabilistic machine learning, e.g., [LDA](http://docs.pymc.io/notebooks/lda-advi-aevb.html) [:page\_facing\_up:](https://peerj.com/articles/cs-55.pdf)
-* [pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,056 | 🐛 290 | 🌐 Python | 📅 2026-09-07 - PPL built on PyTorch, e.g., [prodLDA](http://pyro.ai/examples/prodlda.html) [:page\_facing\_up:](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
+* [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,752 | 🐛 502 | 🌐 Python | 📅 2026-09-14 - Python package for Bayesian statistical modeling and probabilistic machine learning, e.g., [LDA](http://docs.pymc.io/notebooks/lda-advi-aevb.html) [:page\_facing\_up:](https://peerj.com/articles/cs-55.pdf)
+* [pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,055 | 🐛 290 | 🌐 Python | 📅 2026-09-07 - PPL built on PyTorch, e.g., [prodLDA](http://pyro.ai/examples/prodlda.html) [:page\_facing\_up:](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
 * [edward](https://github.com/blei-lab/edward) ⭐ 4,844 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18 - A PPL built on TensorFlow, e.g., [LDA](http://edwardlib.org/iclr2017?Figure%2011.%20Latent%20Dirichlet%20allocation) [:page\_facing\_up:](https://arxiv.org/pdf/1610.09787.pdf)
 * [TFP](https://github.com/tensorflow/probability) ⭐ 4,432 | 🐛 728 | 🌐 Jupyter Notebook | 📅 2026-09-09 - Probabilistic reasoning and statistical analysis in TensorFlow, e.g., [LDA](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/latent_dirichlet_allocation_distributions.py) ⭐ 4,432 | 🐛 728 | 🌐 Jupyter Notebook | 📅 2026-09-09 [:page\_facing\_up:](https://arxiv.org/pdf/2001.11819.pdf)
 * [Stan](https://github.com/stan-dev/stan) ⭐ 2,769 | 🐛 153 | 🌐 C++ | 📅 2026-09-14 - Platform for statistical modeling and high-performance statistical computation, e.g., [LDA](https://mc-stan.org/docs/2_26/stan-users-guide/latent-dirichlet-allocation.html) [:page\_facing\_up:](https://files.eric.ed.gov/fulltext/ED590311.pdf)
@@ -367,9 +367,9 @@ There are huge differences in performance and scalability as well as the support
 
 ## Related awesome lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,328 | 🐛 29 | 🌐 Python | 📅 2026-09-12
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,983 | 🐛 5 | 📅 2026-09-09
-* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,588 | 🐛 21 | 📅 2026-04-13
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,340 | 🐛 29 | 🌐 Python | 📅 2026-09-12
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,988 | 🐛 4 | 📅 2026-09-09
+* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,589 | 🐛 21 | 📅 2026-04-13
 
 ## Contribute
 
@@ -384,4 +384,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
