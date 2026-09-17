@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T11:33:32Z",
-            "open_issues": 2159,
+            "last_commit": "2026-09-17T04:21:47Z",
+            "open_issues": 2161,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67273,
+            "stars": 67283,
             "topics": [
               "data-analysis",
               "data-science",
@@ -567,7 +567,7 @@
                 "open_issues": 1,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8720,
+                "stars": 8719,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -3653,7 +3653,7 @@
                 "open_issues": 472,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7837,
+                "stars": 7838,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4055,7 +4055,7 @@
             "open_issues": 503,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9753,
+            "stars": 9754,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4084,7 +4084,7 @@
             "open_issues": 291,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9054,
+            "stars": 9055,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4171,7 +4171,7 @@
             "id": 8043756,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T13:37:00Z",
+            "last_commit": "2026-09-17T12:00:20Z",
             "open_issues": 153,
             "owner": "stan-dev",
             "repo": "stan",
@@ -4203,7 +4203,7 @@
             "open_issues": 14,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2256,
+            "stars": 2257,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -5098,11 +5098,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T14:34:25Z",
+            "last_commit": "2026-09-17T10:19:48Z",
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74351,
+            "stars": 74358,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5123,7 +5123,7 @@
             "open_issues": 4,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29990,
+            "stars": 29996,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:18:19.263Z",
+    "last_updated": "2026-09-17T14:25:13.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
