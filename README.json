@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T17:17:26Z",
-            "open_issues": 2160,
+            "last_commit": "2026-09-19T13:07:28Z",
+            "open_issues": 2164,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67289,
+            "stars": 67301,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16485,
+            "stars": 16486,
             "topics": [
               "data-mining",
               "data-science",
@@ -567,7 +567,7 @@
                 "open_issues": 1,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8719,
+                "stars": 8720,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -3649,11 +3649,11 @@
                 "id": 297672263,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T09:31:01Z",
-                "open_issues": 472,
+                "last_commit": "2026-09-18T16:36:56Z",
+                "open_issues": 473,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7839,
+                "stars": 7843,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4052,10 +4052,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T17:31:40Z",
-            "open_issues": 504,
+            "open_issues": 505,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9756,
+            "stars": 9760,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4145,7 +4145,7 @@
             "open_issues": 730,
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4431,
+            "stars": 4433,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -5102,7 +5102,7 @@
             "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74360,
+            "stars": 74370,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5123,7 +5123,7 @@
             "open_issues": 6,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30004,
+            "stars": 30013,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 21,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3592,
+            "stars": 3593,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:45:39.819Z",
+    "last_updated": "2026-09-19T13:19:02.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
