@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T19:07:47Z",
-            "open_issues": 2165,
+            "last_commit": "2026-09-21T14:56:13Z",
+            "open_issues": 2152,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67322,
+            "stars": 67329,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16486,
+            "stars": 16487,
             "topics": [
               "data-mining",
               "data-science",
@@ -125,7 +125,7 @@
             "open_issues": 47,
             "owner": "MIND-Lab",
             "repo": "OCTIS",
-            "stars": 804,
+            "stars": 805,
             "topics": [
               "bayesian-optimization",
               "evaluation-metrics",
@@ -193,7 +193,7 @@
             "open_issues": 61,
             "owner": "bab2min",
             "repo": "tomotopy",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "correlated-topic-model",
               "dirichlet-multinomial-regression",
@@ -567,7 +567,7 @@
                 "open_issues": 2,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8720,
+                "stars": 8721,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -694,7 +694,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -1167,7 +1167,7 @@
                     "open_issues": 140,
                     "owner": "Angel-ML",
                     "repo": "angel",
-                    "stars": 6791,
+                    "stars": 6792,
                     "topics": [
                       "high-dimensional",
                       "machine-learning",
@@ -1475,7 +1475,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -1604,7 +1604,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -1636,7 +1636,7 @@
                 "open_issues": 19,
                 "owner": "joewandy",
                 "repo": "hlda",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "gibbs-sampler",
                   "hierarchical-topic-models",
@@ -1691,7 +1691,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -1917,7 +1917,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -2080,7 +2080,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -2161,7 +2161,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -2200,7 +2200,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -2295,7 +2295,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -2467,7 +2467,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -2753,7 +2753,7 @@
                     "open_issues": 61,
                     "owner": "bab2min",
                     "repo": "tomotopy",
-                    "stars": 598,
+                    "stars": 599,
                     "topics": [
                       "correlated-topic-model",
                       "dirichlet-multinomial-regression",
@@ -3008,7 +3008,7 @@
                 "open_issues": 61,
                 "owner": "bab2min",
                 "repo": "tomotopy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "correlated-topic-model",
                   "dirichlet-multinomial-regression",
@@ -3649,11 +3649,11 @@
                 "id": 297672263,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:36:56Z",
+                "last_commit": "2026-09-21T05:57:52Z",
                 "open_issues": 474,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7845,
+                "stars": 7846,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4052,10 +4052,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T17:31:40Z",
-            "open_issues": 508,
+            "open_issues": 510,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9762,
+            "stars": 9765,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4081,10 +4081,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T03:31:31Z",
-            "open_issues": 292,
+            "open_issues": 293,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9056,
+            "stars": 9057,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4142,7 +4142,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T20:21:21Z",
-            "open_issues": 730,
+            "open_issues": 731,
             "owner": "tensorflow",
             "repo": "probability",
             "stars": 4433,
@@ -4203,7 +4203,7 @@
             "open_issues": 14,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2257,
+            "stars": 2256,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -5098,11 +5098,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T10:19:48Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-21T13:54:11Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74380,
+            "stars": 74385,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5119,11 +5119,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-09T16:27:56Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-21T14:55:48Z",
+            "open_issues": 7,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30025,
+            "stars": 30041,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 21,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3595,
+            "stars": 3596,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:39:46.737Z",
+    "last_updated": "2026-09-21T15:59:43.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
