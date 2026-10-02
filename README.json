@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T14:58:08Z",
-            "open_issues": 2159,
+            "last_commit": "2026-10-02T13:23:25Z",
+            "open_issues": 2164,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67441,
+            "stars": 67451,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16494,
+            "stars": 16495,
             "topics": [
               "data-mining",
               "data-science",
@@ -83,7 +83,7 @@
             "open_issues": 118,
             "owner": "mimno",
             "repo": "Mallet",
-            "stars": 1029,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -567,7 +567,7 @@
                 "open_issues": 0,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8726,
+                "stars": 8727,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -618,7 +618,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -639,7 +639,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1167,7 +1167,7 @@
                     "open_issues": 142,
                     "owner": "Angel-ML",
                     "repo": "angel",
-                    "stars": 6793,
+                    "stars": 6794,
                     "topics": [
                       "high-dimensional",
                       "machine-learning",
@@ -1225,7 +1225,7 @@
                     "open_issues": 118,
                     "owner": "mimno",
                     "repo": "Mallet",
-                    "stars": 1029,
+                    "stars": 1030,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1454,7 +1454,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1583,7 +1583,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1896,7 +1896,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -2140,7 +2140,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -2813,7 +2813,7 @@
                     "open_issues": 15,
                     "owner": "xiaohuiyan",
                     "repo": "BTM",
-                    "stars": 409,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -3650,10 +3650,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-24T07:11:00Z",
-                "open_issues": 474,
+                "open_issues": 473,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7867,
+                "stars": 7868,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4051,11 +4051,11 @@
             "id": 192904,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T09:49:51Z",
-            "open_issues": 517,
+            "last_commit": "2026-10-02T12:10:16Z",
+            "open_issues": 518,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9788,
+            "stars": 9790,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4081,7 +4081,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T03:31:31Z",
-            "open_issues": 293,
+            "open_issues": 300,
             "owner": "pyro-ppl",
             "repo": "pyro",
             "stars": 9062,
@@ -4145,7 +4145,7 @@
             "open_issues": 731,
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4434,
+            "stars": 4435,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -4175,7 +4175,7 @@
             "open_issues": 155,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2774,
+            "stars": 2775,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -5102,7 +5102,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74502,
+            "stars": 74510,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5119,11 +5119,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-30T08:49:56Z",
+            "last_commit": "2026-10-02T08:16:33Z",
             "open_issues": 12,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30098,
+            "stars": 30100,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 22,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3605,
+            "stars": 3606,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:39:25.641Z",
+    "last_updated": "2026-10-02T15:56:25.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
