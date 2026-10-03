@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T13:23:25Z",
-            "open_issues": 2164,
+            "open_issues": 2165,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67451,
+            "stars": 67456,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16495,
+            "stars": 16496,
             "topics": [
               "data-mining",
               "data-science",
@@ -567,7 +567,7 @@
                 "open_issues": 0,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8727,
+                "stars": 8726,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -3653,7 +3653,7 @@
                 "open_issues": 473,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7868,
+                "stars": 7869,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4200,7 +4200,7 @@
             "language": "Julia",
             "license": "MIT",
             "last_commit": "2026-09-30T12:51:20Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "TuringLang",
             "repo": "Turing.jl",
             "stars": 2258,
@@ -5089,7 +5089,7 @@
         {
           "node_type": "item",
           "title": "awesome-machine-learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5102,7 +5102,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74510,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5110,7 +5110,7 @@
         {
           "node_type": "item",
           "title": "awesome-datascience",
-          "description": null,
+          "description": "academic/awesome-datascience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5119,11 +5119,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T08:16:33Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T20:20:58Z",
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30100,
+            "stars": 30103,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5142,7 +5142,7 @@
         {
           "node_type": "item",
           "title": "awesome-python-data-science",
-          "description": null,
+          "description": "krzjoa/awesome-python-data-science",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:56:25.544Z",
+    "last_updated": "2026-10-03T05:11:22.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
