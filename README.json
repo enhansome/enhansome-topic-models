@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T14:21:59Z",
-            "open_issues": 2161,
+            "last_commit": "2026-10-03T14:29:24Z",
+            "open_issues": 2163,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67459,
+            "stars": 67470,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16496,
+            "stars": 16497,
             "topics": [
               "data-mining",
               "data-science",
@@ -104,7 +104,7 @@
             "open_issues": 67,
             "owner": "BIDData",
             "repo": "BIDMach",
-            "stars": 919,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -444,7 +444,7 @@
                 "open_issues": 67,
                 "owner": "BIDData",
                 "repo": "BIDMach",
-                "stars": 919,
+                "stars": 918,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -514,7 +514,7 @@
                 "open_issues": 67,
                 "owner": "BIDData",
                 "repo": "BIDMach",
-                "stars": 919,
+                "stars": 918,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1246,7 +1246,7 @@
                     "open_issues": 45,
                     "owner": "microsoft",
                     "repo": "LightLDA",
-                    "stars": 844,
+                    "stars": 845,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1400,7 +1400,7 @@
                     "open_issues": 67,
                     "owner": "BIDData",
                     "repo": "BIDMach",
-                    "stars": 919,
+                    "stars": 918,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1421,7 +1421,7 @@
                     "open_issues": 67,
                     "owner": "BIDData",
                     "repo": "BIDMach",
-                    "stars": 919,
+                    "stars": 918,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -3653,7 +3653,7 @@
                 "open_issues": 474,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7869,
+                "stars": 7871,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -3721,7 +3721,7 @@
                 "open_issues": 11,
                 "owner": "MilaNLProc",
                 "repo": "contextualized-topic-models",
-                "stars": 1273,
+                "stars": 1272,
                 "topics": [
                   "bert",
                   "embeddings",
@@ -4080,11 +4080,11 @@
             "id": 94506832,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T03:31:31Z",
-            "open_issues": 300,
+            "last_commit": "2026-10-03T18:23:21Z",
+            "open_issues": 301,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9062,
+            "stars": 9061,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4199,11 +4199,11 @@
             "id": 57377821,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-30T12:51:20Z",
+            "last_commit": "2026-10-04T04:50:43Z",
             "open_issues": 15,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2258,
+            "stars": 2259,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -5099,10 +5099,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T16:49:00Z",
-            "open_issues": 22,
+            "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74513,
+            "stars": 74520,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5120,10 +5120,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-02T20:20:58Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30104,
+            "stars": 30108,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 22,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3607,
+            "stars": 3608,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:24:58.710Z",
+    "last_updated": "2026-10-04T14:56:15.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
