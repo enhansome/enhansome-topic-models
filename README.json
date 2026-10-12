@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-10T08:33:16Z",
-            "open_issues": 2165,
+            "last_commit": "2026-10-12T13:38:16Z",
+            "open_issues": 2164,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67547,
+            "stars": 67561,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16501,
+            "stars": 16502,
             "topics": [
               "data-mining",
               "data-science",
@@ -726,7 +726,7 @@
                 "open_issues": 2,
                 "owner": "primaryobjects",
                 "repo": "lda",
-                "stars": 294,
+                "stars": 293,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -3650,10 +3650,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-10T08:50:55Z",
-                "open_issues": 476,
+                "open_issues": 477,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7875,
+                "stars": 7881,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4051,11 +4051,11 @@
             "id": 192904,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T09:41:09Z",
-            "open_issues": 521,
+            "last_commit": "2026-10-12T17:42:38Z",
+            "open_issues": 531,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9801,
+            "stars": 9802,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4081,7 +4081,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T18:42:13Z",
-            "open_issues": 302,
+            "open_issues": 303,
             "owner": "pyro-ppl",
             "repo": "pyro",
             "stars": 9064,
@@ -4115,7 +4115,7 @@
             "open_issues": 219,
             "owner": "blei-lab",
             "repo": "edward",
-            "stars": 4845,
+            "stars": 4846,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -4175,7 +4175,7 @@
             "open_issues": 156,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2777,
+            "stars": 2778,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -4203,7 +4203,7 @@
             "open_issues": 15,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2260,
+            "stars": 2259,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -5099,10 +5099,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T23:52:52Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74569,
+            "stars": 74575,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5120,10 +5120,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-09T16:18:23Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30135,
+            "stars": 30138,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 24,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3612,
+            "stars": 3614,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:54:26.134Z",
+    "last_updated": "2026-10-12T19:15:27.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
