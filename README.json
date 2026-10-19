@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T17:21:46Z",
-            "open_issues": 2162,
+            "last_commit": "2026-10-19T14:42:23Z",
+            "open_issues": 2161,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67735,
+            "stars": 67841,
             "topics": [
               "data-analysis",
               "data-science",
@@ -275,7 +275,7 @@
             "open_issues": 30,
             "owner": "machine-intelligence-laboratory",
             "repo": "TopicNet",
-            "stars": 143,
+            "stars": 142,
             "topics": [
               "bigartm-library",
               "custom-score",
@@ -1167,7 +1167,7 @@
                     "open_issues": 143,
                     "owner": "Angel-ML",
                     "repo": "angel",
-                    "stars": 6795,
+                    "stars": 6794,
                     "topics": [
                       "high-dimensional",
                       "machine-learning",
@@ -2239,7 +2239,7 @@
                 "open_issues": 2,
                 "owner": "yao8839836",
                 "repo": "PTM",
-                "stars": 95,
+                "stars": 96,
                 "topics": [
                   "herbs",
                   "knowledge",
@@ -3514,7 +3514,7 @@
                 "open_issues": 2,
                 "owner": "yao8839836",
                 "repo": "PTM",
-                "stars": 95,
+                "stars": 96,
                 "topics": [
                   "herbs",
                   "knowledge",
@@ -3649,11 +3649,11 @@
                 "id": 297672263,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T06:36:45Z",
+                "last_commit": "2026-10-19T09:53:03Z",
                 "open_issues": 477,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7897,
+                "stars": 7899,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -3782,7 +3782,7 @@
                 "open_issues": 32,
                 "owner": "adjidieng",
                 "repo": "ETM",
-                "stars": 558,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -4051,11 +4051,11 @@
             "id": 192904,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T15:57:17Z",
+            "last_commit": "2026-10-19T12:37:49Z",
             "open_issues": 528,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9813,
+            "stars": 9814,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4081,10 +4081,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T18:42:13Z",
-            "open_issues": 308,
+            "open_issues": 310,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9066,
+            "stars": 9067,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4145,7 +4145,7 @@
             "open_issues": 733,
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4440,
+            "stars": 4441,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -4171,11 +4171,11 @@
             "id": 8043756,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T07:29:21Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-19T14:20:43Z",
+            "open_issues": 162,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2779,
+            "stars": 2780,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -4203,7 +4203,7 @@
             "open_issues": 14,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2260,
+            "stars": 2261,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -5098,11 +5098,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T00:31:03Z",
+            "last_commit": "2026-10-19T13:14:32Z",
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74607,
+            "stars": 74614,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5123,7 +5123,7 @@
             "open_issues": 2,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30204,
+            "stars": 30211,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 25,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3613,
+            "stars": 3615,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:28:13.183Z",
+    "last_updated": "2026-10-19T16:35:52.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
