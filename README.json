@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T07:41:53Z",
-            "open_issues": 2166,
+            "last_commit": "2026-10-22T13:18:29Z",
+            "open_issues": 2168,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67853,
+            "stars": 67859,
             "topics": [
               "data-analysis",
               "data-science",
@@ -43,7 +43,7 @@
             "language": "Python",
             "license": "LGPL-2.1",
             "last_commit": "2025-11-01T12:01:39Z",
-            "open_issues": 442,
+            "open_issues": 446,
             "owner": "piskvorky",
             "repo": "gensim",
             "stars": 16505,
@@ -125,7 +125,7 @@
             "open_issues": 46,
             "owner": "MIND-Lab",
             "repo": "OCTIS",
-            "stars": 806,
+            "stars": 807,
             "topics": [
               "bayesian-optimization",
               "evaluation-metrics",
@@ -542,7 +542,7 @@
                 "open_issues": 522,
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11154,
+                "stars": 11153,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1983,7 +1983,7 @@
                 "open_issues": 2,
                 "owner": "myleott",
                 "repo": "JGibbLabeledLDA",
-                "stars": 105,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -2239,7 +2239,7 @@
                 "open_issues": 2,
                 "owner": "yao8839836",
                 "repo": "PTM",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "herbs",
                   "knowledge",
@@ -2905,8 +2905,8 @@
                     "id": 70118622,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T19:43:34Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-22T13:50:48Z",
+                    "open_issues": 2,
                     "owner": "stephenhky",
                     "repo": "PyShortTextCategorization",
                     "stars": 473,
@@ -3514,7 +3514,7 @@
                 "open_issues": 2,
                 "owner": "yao8839836",
                 "repo": "PTM",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "herbs",
                   "knowledge",
@@ -3653,7 +3653,7 @@
                 "open_issues": 477,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7903,
+                "stars": 7904,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -3685,7 +3685,7 @@
                 "open_issues": 84,
                 "owner": "ddangelov",
                 "repo": "Top2Vec",
-                "stars": 3113,
+                "stars": 3112,
                 "topics": [
                   "bert",
                   "document-embedding",
@@ -4052,10 +4052,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T17:41:56Z",
-            "open_issues": 534,
+            "open_issues": 535,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9816,
+            "stars": 9819,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4081,7 +4081,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T18:42:13Z",
-            "open_issues": 311,
+            "open_issues": 312,
             "owner": "pyro-ppl",
             "repo": "pyro",
             "stars": 9068,
@@ -4141,8 +4141,8 @@
             "id": 108053674,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T21:42:49Z",
-            "open_issues": 732,
+            "last_commit": "2026-10-21T18:46:18Z",
+            "open_issues": 731,
             "owner": "tensorflow",
             "repo": "probability",
             "stars": 4440,
@@ -4171,11 +4171,11 @@
             "id": 8043756,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T14:20:43Z",
+            "last_commit": "2026-10-21T21:27:14Z",
             "open_issues": 163,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2781,
+            "stars": 2782,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -4203,7 +4203,7 @@
             "open_issues": 18,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2262,
+            "stars": 2261,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -4497,7 +4497,7 @@
             "open_issues": 0,
             "owner": "blei-lab",
             "repo": "turbotopics",
-            "stars": 46,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -4749,7 +4749,7 @@
             "open_issues": 81,
             "owner": "bmabey",
             "repo": "pyLDAvis",
-            "stars": 1851,
+            "stars": 1850,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -4770,7 +4770,7 @@
             "open_issues": 35,
             "owner": "cpsievert",
             "repo": "LDAvis",
-            "stars": 572,
+            "stars": 571,
             "topics": [
               "javascript",
               "r",
@@ -5098,11 +5098,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T13:14:32Z",
+            "last_commit": "2026-10-22T13:20:23Z",
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74631,
+            "stars": 74643,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5120,7 +5120,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-18T10:08:53Z",
-            "open_issues": 3,
+            "open_issues": 6,
             "owner": "academic",
             "repo": "awesome-datascience",
             "stars": 30218,
@@ -5155,7 +5155,7 @@
             "open_issues": 25,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3619,
+            "stars": 3621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:35:34.495Z",
+    "last_updated": "2026-10-22T14:36:53.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
