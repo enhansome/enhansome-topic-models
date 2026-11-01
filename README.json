@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T14:47:07Z",
-            "open_issues": 2164,
+            "last_commit": "2026-11-01T15:58:02Z",
+            "open_issues": 2163,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67948,
+            "stars": 67957,
             "topics": [
               "data-analysis",
               "data-science",
@@ -567,7 +567,7 @@
                 "open_issues": 0,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8732,
+                "stars": 8733,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -3649,11 +3649,11 @@
                 "id": 297672263,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T08:30:13Z",
+                "last_commit": "2026-11-01T09:10:30Z",
                 "open_issues": 479,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7924,
+                "stars": 7925,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4051,7 +4051,7 @@
             "id": 192904,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T01:15:06Z",
+            "last_commit": "2026-11-01T01:14:13Z",
             "open_issues": 518,
             "owner": "pymc-devs",
             "repo": "pymc",
@@ -5099,10 +5099,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T19:21:38Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74697,
+            "stars": 74710,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5119,11 +5119,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-31T15:22:08Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-31T21:12:43Z",
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30256,
+            "stars": 30261,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:28:22.274Z",
+    "last_updated": "2026-11-01T16:15:29.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
