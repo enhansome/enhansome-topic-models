@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-10T03:58:32Z",
-            "open_issues": 2167,
+            "last_commit": "2026-11-11T16:35:54Z",
+            "open_issues": 2178,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 68127,
+            "stars": 68142,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 453,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16512,
+            "stars": 16513,
             "topics": [
               "data-mining",
               "data-science",
@@ -83,7 +83,7 @@
             "open_issues": 118,
             "owner": "mimno",
             "repo": "Mallet",
-            "stars": 1033,
+            "stars": 1032,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -542,7 +542,7 @@
                 "open_issues": 522,
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11151,
+                "stars": 11152,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -567,7 +567,7 @@
                 "open_issues": 0,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8736,
+                "stars": 8737,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -618,7 +618,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -639,7 +639,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1163,11 +1163,11 @@
                     "id": 89322848,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T06:05:34Z",
+                    "last_commit": "2026-11-11T06:09:42Z",
                     "open_issues": 142,
                     "owner": "Angel-ML",
                     "repo": "angel",
-                    "stars": 6796,
+                    "stars": 6797,
                     "topics": [
                       "high-dimensional",
                       "machine-learning",
@@ -1225,7 +1225,7 @@
                     "open_issues": 118,
                     "owner": "mimno",
                     "repo": "Mallet",
-                    "stars": 1033,
+                    "stars": 1032,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1309,7 +1309,7 @@
                     "open_issues": 2,
                     "owner": "dmlc",
                     "repo": "experimental-lda",
-                    "stars": 127,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1454,7 +1454,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1583,7 +1583,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -1896,7 +1896,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -2140,7 +2140,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -3653,7 +3653,7 @@
                 "open_issues": 480,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7952,
+                "stars": 7955,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -3685,7 +3685,7 @@
                 "open_issues": 84,
                 "owner": "ddangelov",
                 "repo": "Top2Vec",
-                "stars": 3114,
+                "stars": 3115,
                 "topics": [
                   "bert",
                   "document-embedding",
@@ -3718,10 +3718,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-24T02:03:31Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "MilaNLProc",
                 "repo": "contextualized-topic-models",
-                "stars": 1275,
+                "stars": 1276,
                 "topics": [
                   "bert",
                   "embeddings",
@@ -4051,11 +4051,11 @@
             "id": 192904,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T17:34:13Z",
-            "open_issues": 468,
+            "last_commit": "2026-11-11T04:45:52Z",
+            "open_issues": 478,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9844,
+            "stars": 9847,
             "topics": [
               "bayesian-inference",
               "mcmc",
@@ -4084,7 +4084,7 @@
             "open_issues": 322,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9074,
+            "stars": 9076,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4145,7 +4145,7 @@
             "open_issues": 737,
             "owner": "tensorflow",
             "repo": "probability",
-            "stars": 4444,
+            "stars": 4445,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -4203,7 +4203,7 @@
             "open_issues": 23,
             "owner": "TuringLang",
             "repo": "Turing.jl",
-            "stars": 2263,
+            "stars": 2264,
             "topics": [
               "artificial-intelligence",
               "bayesian-inference",
@@ -5099,10 +5099,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-09T23:05:27Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74791,
+            "stars": 74796,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5123,7 +5123,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30314,
+            "stars": 30317,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5152,7 +5152,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2026-04-13T07:15:05Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
             "stars": 3640,
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:13:58.223Z",
+    "last_updated": "2026-11-11T17:22:59.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
