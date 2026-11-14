@@ -14,7 +14,7 @@
 
 ## Libraries & Toolkits
 
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 68,162 | 🐛 2,168 | 🌐 Python | 📅 2026-11-13 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 68,171 | 🐛 2,168 | 🌐 Python | 📅 2026-11-13 - Python library for machine learning ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
 * [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,515 | 🐛 455 | 🌐 Python | 📅 2025-11-01 - Python library for topic modelling ![GitHub Repo stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim?style=social)
 * [Mallet](https://github.com/mimno/Mallet) ⭐ 1,034 | 🐛 118 | 🌐 Java | 📅 2026-08-04 - Java-based package for topic modeling ![GitHub Repo stars](https://img.shields.io/github/stars/mimno/mallet?style=social)
 * [BIDMach](https://github.com/BIDData/BIDMach) ⭐ 916 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated machine learning library ![GitHub Repo stars](https://img.shields.io/github/stars/BIDData/BIDMach?style=social)
@@ -269,7 +269,7 @@ There are huge differences in performance and scalability as well as the support
 
 ### Embedding based Topic Models
 
-* [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,957 | 🐛 480 | 🌐 Python | 📅 2026-11-05 - BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization [:page\_facing\_up:](https://arxiv.org/pdf/2203.05794.pdf)
+* [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,957 | 🐛 480 | 🌐 Python | 📅 2026-11-14 - BERTopic supports guided, (semi-) supervised, and dynamic topic modeling and visualization [:page\_facing\_up:](https://arxiv.org/pdf/2203.05794.pdf)
 * [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,115 | 🐛 84 | 🌐 Python | 📅 2024-11-14 - Python implementation that learns jointly embedded topic, document and word vectors [:page\_facing\_up:](https://arxiv.org/pdf/2008.09470.pdf)
 * [CTM](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,276 | 🐛 9 | 🌐 Python | 📅 2025-07-24 - CTMs combine contextualized embeddings (e.g., BERT) with topic models
 * [Anchored CorEx](https://github.com/gregversteeg/corex_topic) ⭐ 648 | 🐛 13 | 🌐 Python | 📅 2021-03-22 - Hierarchical Topic Modeling with Minimal Domain Knowledge [:page\_facing\_up:](https://arxiv.org/pdf/1611.10277.pdf)
@@ -289,10 +289,10 @@ There are huge differences in performance and scalability as well as the support
 
 ## Probabilistic Programming Languages (PPL) (a.k.a. Build your own Topic Model)
 
-* [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,849 | 🐛 483 | 🌐 Python | 📅 2026-11-12 - Python package for Bayesian statistical modeling and probabilistic machine learning, e.g., [LDA](http://docs.pymc.io/notebooks/lda-advi-aevb.html) [:page\_facing\_up:](https://peerj.com/articles/cs-55.pdf)
+* [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,849 | 🐛 481 | 🌐 Python | 📅 2026-11-14 - Python package for Bayesian statistical modeling and probabilistic machine learning, e.g., [LDA](http://docs.pymc.io/notebooks/lda-advi-aevb.html) [:page\_facing\_up:](https://peerj.com/articles/cs-55.pdf)
 * [pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,076 | 🐛 324 | 🌐 Python | 📅 2026-10-05 - PPL built on PyTorch, e.g., [prodLDA](http://pyro.ai/examples/prodlda.html) [:page\_facing\_up:](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
 * [edward](https://github.com/blei-lab/edward) ⭐ 4,846 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18 - A PPL built on TensorFlow, e.g., [LDA](http://edwardlib.org/iclr2017?Figure%2011.%20Latent%20Dirichlet%20allocation) [:page\_facing\_up:](https://arxiv.org/pdf/1610.09787.pdf)
-* [TFP](https://github.com/tensorflow/probability) ⭐ 4,445 | 🐛 737 | 🌐 Jupyter Notebook | 📅 2026-11-09 - Probabilistic reasoning and statistical analysis in TensorFlow, e.g., [LDA](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/latent_dirichlet_allocation_distributions.py) ⭐ 4,445 | 🐛 737 | 🌐 Jupyter Notebook | 📅 2026-11-09 [:page\_facing\_up:](https://arxiv.org/pdf/2001.11819.pdf)
+* [TFP](https://github.com/tensorflow/probability) ⭐ 4,445 | 🐛 739 | 🌐 Jupyter Notebook | 📅 2026-11-09 - Probabilistic reasoning and statistical analysis in TensorFlow, e.g., [LDA](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/latent_dirichlet_allocation_distributions.py) ⭐ 4,445 | 🐛 739 | 🌐 Jupyter Notebook | 📅 2026-11-09 [:page\_facing\_up:](https://arxiv.org/pdf/2001.11819.pdf)
 * [Stan](https://github.com/stan-dev/stan) ⭐ 2,787 | 🐛 159 | 🌐 C++ | 📅 2026-11-13 - Platform for statistical modeling and high-performance statistical computation, e.g., [LDA](https://mc-stan.org/docs/2_26/stan-users-guide/latent-dirichlet-allocation.html) [:page\_facing\_up:](https://files.eric.ed.gov/fulltext/ED590311.pdf)
 * [Turing.jl](https://github.com/TuringLang/Turing.jl) ⭐ 2,265 | 🐛 23 | 🌐 Julia | 📅 2026-11-09 -  Julia library for general-purpose probabilistic programming [:page\_facing\_up:](http://proceedings.mlr.press/v84/ge18b/ge18b.pdf)
 * [ZhuSuan](https://github.com/thu-ml/zhusuan) ⭐ 2,218 | 🐛 13 | 🌐 Python | 📅 2022-12-17 - A PPL for Bayesian deep learning, generative models, built on Tensorflow, e.g., [LDA](https://zhusuan.readthedocs.io/en/latest/tutorials/lntm.html) [:page\_facing\_up:](https://arxiv.org/pdf/1709.05870.pdf)
@@ -367,9 +367,9 @@ There are huge differences in performance and scalability as well as the support
 
 ## Related awesome lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,817 | 🐛 34 | 🌐 Python | 📅 2026-11-12
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,327 | 🐛 1 | 📅 2026-11-10
-* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,642 | 🐛 27 | 📅 2026-04-13
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,826 | 🐛 34 | 🌐 Python | 📅 2026-11-12
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,331 | 🐛 1 | 📅 2026-11-10
+* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,643 | 🐛 27 | 📅 2026-04-13
 
 ## Contribute
 
@@ -384,4 +384,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
