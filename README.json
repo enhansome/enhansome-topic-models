@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-17T10:24:38Z",
-            "open_issues": 2176,
+            "last_commit": "2026-11-18T18:04:57Z",
+            "open_issues": 2168,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 68217,
+            "stars": 68240,
             "topics": [
               "data-analysis",
               "data-science",
@@ -125,7 +125,7 @@
             "open_issues": 46,
             "owner": "MIND-Lab",
             "repo": "OCTIS",
-            "stars": 807,
+            "stars": 808,
             "topics": [
               "bayesian-optimization",
               "evaluation-metrics",
@@ -246,7 +246,7 @@
             "open_issues": 0,
             "owner": "WZBSocialScienceCenter",
             "repo": "tmtoolkit",
-            "stars": 191,
+            "stars": 190,
             "topics": [
               "evaluation",
               "nlp",
@@ -542,7 +542,7 @@
                 "open_issues": 522,
                 "owner": "apple",
                 "repo": "turicreate",
-                "stars": 11151,
+                "stars": 11152,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -567,7 +567,7 @@
                 "open_issues": 0,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8739,
+                "stars": 8740,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -3782,7 +3782,7 @@
                 "open_issues": 32,
                 "owner": "adjidieng",
                 "repo": "ETM",
-                "stars": 560,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:46.616Z"
@@ -4052,7 +4052,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-16T17:35:33Z",
-            "open_issues": 488,
+            "open_issues": 493,
             "owner": "pymc-devs",
             "repo": "pymc",
             "stars": 9850,
@@ -4084,7 +4084,7 @@
             "open_issues": 325,
             "owner": "pyro-ppl",
             "repo": "pyro",
-            "stars": 9076,
+            "stars": 9078,
             "topics": [
               "bayesian",
               "bayesian-inference",
@@ -4199,7 +4199,7 @@
             "id": 57377821,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-17T17:03:55Z",
+            "last_commit": "2026-11-17T19:37:12Z",
             "open_issues": 26,
             "owner": "TuringLang",
             "repo": "Turing.jl",
@@ -5102,7 +5102,7 @@
             "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74845,
+            "stars": 74850,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5123,7 +5123,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30343,
+            "stars": 30344,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5152,10 +5152,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2026-04-13T07:15:05Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3647,
+            "stars": 3649,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:43:13.740Z",
+    "last_updated": "2026-11-18T18:19:43.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
