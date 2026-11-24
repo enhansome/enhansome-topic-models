@@ -15,11 +15,11 @@
             "id": 843222,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-23T16:36:07Z",
-            "open_issues": 2170,
+            "last_commit": "2026-11-24T20:08:49Z",
+            "open_issues": 2167,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 68298,
+            "stars": 68314,
             "topics": [
               "data-analysis",
               "data-science",
@@ -46,7 +46,7 @@
             "open_issues": 457,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16520,
+            "stars": 16519,
             "topics": [
               "data-mining",
               "data-science",
@@ -567,7 +567,7 @@
                 "open_issues": 0,
                 "owner": "VowpalWabbit",
                 "repo": "vowpal_wabbit",
-                "stars": 8743,
+                "stars": 8746,
                 "topics": [
                   "active-learning",
                   "c-plus-plus",
@@ -1167,7 +1167,7 @@
                     "open_issues": 142,
                     "owner": "Angel-ML",
                     "repo": "angel",
-                    "stars": 6797,
+                    "stars": 6798,
                     "topics": [
                       "high-dimensional",
                       "machine-learning",
@@ -2905,7 +2905,7 @@
                     "id": 70118622,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T15:23:29Z",
+                    "last_commit": "2026-11-24T17:38:07Z",
                     "open_issues": 0,
                     "owner": "stephenhky",
                     "repo": "PyShortTextCategorization",
@@ -3653,7 +3653,7 @@
                 "open_issues": 482,
                 "owner": "MaartenGr",
                 "repo": "BERTopic",
-                "stars": 7970,
+                "stars": 7972,
                 "topics": [
                   "bert",
                   "ldavis",
@@ -4175,7 +4175,7 @@
             "open_issues": 157,
             "owner": "stan-dev",
             "repo": "stan",
-            "stars": 2789,
+            "stars": 2788,
             "topics": [
               "bayesian",
               "bayesian-data-analysis",
@@ -4199,8 +4199,8 @@
             "id": 57377821,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-22T03:29:16Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-24T10:28:11Z",
+            "open_issues": 25,
             "owner": "TuringLang",
             "repo": "Turing.jl",
             "stars": 2262,
@@ -5099,10 +5099,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T20:06:32Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74895,
+            "stars": 74903,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:46.616Z"
@@ -5119,11 +5119,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-20T13:39:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T17:20:21Z",
+            "open_issues": 3,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30362,
+            "stars": 30365,
             "topics": [
               "analytics",
               "awesome-list",
@@ -5155,7 +5155,7 @@
             "open_issues": 27,
             "owner": "krzjoa",
             "repo": "awesome-python-data-science",
-            "stars": 3654,
+            "stars": 3656,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5177,7 +5177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:37:24.729Z",
+    "last_updated": "2026-11-24T20:18:05.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources)",
